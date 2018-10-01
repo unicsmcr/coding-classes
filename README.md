@@ -18,7 +18,7 @@ reach the Kilburn building, there will be signs/volunteers to guide you.
 
 ### Who:
 
-The classes will be lead by students in the School of CS. There would be volunteers as well to help troubleshoot
+The classes will be led by students in the School of CS. There will be volunteers as well to help troubleshoot
 any issues that you might face. Some sessions might also be lead by people from the tech industry.
 
 ### What should I install?
