@@ -26,7 +26,7 @@ any issues that you might face. Some sessions might also be lead by people from 
 - Python 3: You can either install the latest Python version from [here](https://www.python.org/downloads/) (Any version
 over 3.6 is fine) or the 
 [Anaconda Distribution](https://www.anaconda.com/download/#macos) which contains libraries that become relevant later on
-in the course and will allow you to run the notebooks we prepare for the classes.
+in the course and will allow you to run the notebooks we prepare for the classes. We have put together a guide for it [here.](week0/anaconda-setup.md)
 - A text-editor with autocomplete features. Some good free ones are available [here](https://atom.io), 
 [here](https://www.sublimetext.com) and [here](https://code.visualstudio.com).
 
