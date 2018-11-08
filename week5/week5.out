@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Python Classes - Week 5}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{While loops}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Lists}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Range function}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.3.1}{List Slicing}{subsection.1.3}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.2}{List operations}{subsection.1.3}% 6
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Append}{subsection.1.3}% 7
+\BOOKMARK [3][-]{subsubsection.1.3.4}{Strings as lists of characters}{subsection.1.3}% 8
+\BOOKMARK [1][-]{section.2}{Program Flow Pt. II}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{For loops}{section.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.1.1}{For loops <3 lists}{subsection.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.2}{Nesting}{section.2}% 12
+\BOOKMARK [1][-]{section.3}{More Useful Functions}{}% 13
+\BOOKMARK [2][-]{subsubsection.3.0.1}{Split}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.0.2}{Join}{subsubsection.3.0.1}% 15
+\BOOKMARK [3][-]{subsubsection.3.0.3}{Replace}{subsubsection.3.0.1}% 16
+\BOOKMARK [3][-]{subsubsection.3.0.4}{Min and Max}{subsubsection.3.0.1}% 17
+\BOOKMARK [3][-]{subsubsection.3.0.5}{Sort}{subsubsection.3.0.1}% 18
