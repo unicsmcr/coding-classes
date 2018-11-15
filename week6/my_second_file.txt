@@ -1,0 +1,2 @@
+Stories outlive their authors
+So too will these python class materials
