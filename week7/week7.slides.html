@@ -13242,13 +13242,28 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Python-Classes---Week-7">Python Classes - Week 7<a class="anchor-link" href="#Python-Classes---Week-7">&#182;</a></h1><p>Dry but useful</p>
+<h1 id="Python-Classes---Week-7">Python Classes - Week 7<a class="anchor-link" href="#Python-Classes---Week-7">&#182;</a></h1><h2 id="Dry-but-useful">Dry but useful<a class="anchor-link" href="#Dry-but-useful">&#182;</a></h2>
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <ul>
 <li>Packages<ul>
 <li>PIP</li>
 <li>import &amp; from</li>
 </ul>
 </li>
+</ul>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
 <li>Coding in real life<ul>
 <li>Documentation</li>
 </ul>
@@ -13257,7 +13272,7 @@ a.anchor-link {
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -13285,7 +13300,7 @@ a.anchor-link {
 
 </div>
 </div>
-</div></div><div class="fragment">
+</div></div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -13293,7 +13308,7 @@ a.anchor-link {
 
 </div>
 </div>
-</div></div><div class="fragment">
+</div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[5]:</div>
@@ -13303,8 +13318,7 @@ a.anchor-link {
 <span class="c1"># &quot;time&quot; is a package which comes with python</span>
 
 <span class="kn">import</span> <span class="nn">time</span>   <span class="c1"># We import the time module</span>
-<span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span> <span class="c1"># The sleep function is part of the time module\</span>
-                <span class="c1"># Don&#39;t want to mention classes.. :&lt;</span>
+<span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span> <span class="c1"># sleep function is part of time module</span>
 </pre></div>
 
     </div>
@@ -13415,7 +13429,7 @@ a.anchor-link {
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[91]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Scary block of awful code</span>
@@ -13426,7 +13440,7 @@ a.anchor-link {
 <span class="n">plt</span><span class="o">.</span><span class="n">axis</span><span class="p">(</span><span class="s1">&#39;off&#39;</span><span class="p">)</span>   <span class="c1"># Hide axis</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">margins</span><span class="p">(</span><span class="mf">0.25</span><span class="p">)</span> <span class="c1"># Increase space between title and plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s2">&quot;Wanna know how I got these scars?&quot;</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="s2">&quot;joker.png&quot;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="s2">&quot;joker.jpeg&quot;</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13437,7 +13451,7 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><img src="joker.png" alt="joker"></p>
+<p><img src="joker.jpeg" alt="joker"></p>
 
 </div>
 </div>
@@ -13457,41 +13471,200 @@ a.anchor-link {
 
 </div>
 </div>
-</div>
+</div><div class="fragment">
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Before we can use people's code, we need to download it - if it's been <strong>packaged</strong> up, we can probably install it using <strong>PIP</strong></p>
+<p>Installing the numpy package on Windows: <img src="pip_windows.png" alt="pip"></p>
 
 </div>
 </div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>and on Linux: <img src="pip_install.png" alt="pip"></p>
+
 </div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Coding-in-the-real-world">Coding in the real world<a class="anchor-link" href="#Coding-in-the-real-world">&#182;</a></h1><p>Most new code is written to solve new problems. It is rare that these problems don't build on previous work</p>
+
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>In reality, much of your time will probably be spent figuring out how to repurpose code written by strangers, or colleagues, in order to solve the task in front of you.</p>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>If you're lucky, there will be thorough <strong>documentation</strong> for the package / modules in question (and <em>good comments!</em>)</p>
+
+</div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Turtle">Turtle<a class="anchor-link" href="#Turtle">&#182;</a></h1><p>In the exercises you'll be playing around with numpy and turtle. You will make use of the documentation! :O</p>
+
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Turtle is a very basic animation module that comes with python:</p>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
+<li>You tell a turtle to move, and it draws a line behind it</li>
+</ul>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
+<li>The turtle can also fill in regions using <strong>begin_fill()</strong> and <strong>end_fill()</strong> [see example]</li>
+</ul>
+
+</div>
+</div>
+</div></div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">turtle</span> <span class="k">import</span> <span class="o">*</span> <span class="c1"># This way we can use all functions without turtle.Blabla()</span>
+
+<span class="n">color</span><span class="p">(</span><span class="s1">&#39;blue&#39;</span><span class="p">,</span> <span class="s1">&#39;green&#39;</span><span class="p">)</span> <span class="c1"># Line color, fill color</span>
+<span class="n">begin_fill</span><span class="p">()</span>
 </pre></div>
 
     </div>
 </div>
 </div>
 
-</div>
+</div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">lib</span><span class="o">/</span><span class="n">python</span><span class="o">/</span><span class="n">site</span><span class="o">-</span><span class="n">packages</span> <span class="c1"># for unix</span>
-<span class="n">C</span><span class="p">:</span><span class="o">/</span><span class="n">Python27</span><span class="o">/</span><span class="n">Lib</span><span class="o">/</span><span class="n">site</span><span class="o">-</span><span class="n">packages</span><span class="o">/</span> <span class="c1"># for windows</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Move the turtle</span>
+<span class="n">forward</span><span class="p">(</span><span class="mi">100</span><span class="p">)</span> <span class="c1"># Move forward 100 coordinate points</span>
+<span class="n">left</span><span class="p">(</span><span class="mi">90</span><span class="p">)</span> <span class="c1"># Rotate left by 90 degrees</span>
 </pre></div>
 
     </div>
 </div>
 </div>
 
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="screen1.png" alt="pip"></p>
+
+</div>
+</div>
+</div></div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">forward</span><span class="p">(</span><span class="mi">100</span><span class="p">)</span>
+<span class="n">left</span><span class="p">(</span><span class="mi">90</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="screen2.png" alt="pip"></p>
+
+</div>
+</div>
+</div></div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">forward</span><span class="p">(</span><span class="mi">100</span><span class="p">)</span>
+<span class="n">left</span><span class="p">(</span><span class="mi">90</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="screen3.png" alt="pip"></p>
+
+</div>
+</div>
+</div></div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">forward</span><span class="p">(</span><span class="mi">100</span><span class="p">)</span>
+<span class="n">end_fill</span><span class="p">()</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="screen4.png" alt="pip"></p>
+
+</div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Goodluck-with-the-exercises!">Goodluck with the exercises!<a class="anchor-link" href="#Goodluck-with-the-exercises!">&#182;</a></h1><ul>
+<li><p>Turtle documentation at: <a href="https://docs.python.org/3/library/turtle.html">https://docs.python.org/3/library/turtle.html</a></p>
+</li>
+<li><p>Vote - Spotify or Twitter API next time?</p>
+</li>
+</ul>
+
+</div>
+</div>
 </div></section></section>
 </div>
 </div>
