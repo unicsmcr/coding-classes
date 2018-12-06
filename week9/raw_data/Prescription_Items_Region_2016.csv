@@ -1,0 +1,1833 @@
+ONS_Code,Org_Code,Org_Name,Year,Metric_Primary,Metric_Secondary,Value
+E92000001,921,England,2016,Prescription items,Total,183423
+XXXXXXXX,XXX,Unknown,2016,Prescription items,Total,17245
+E40000001,Y54,North of England,2016,Prescription items,Total,74779
+E39000029,Q72,NHS England North (Yorkshire and Humber),2016,Prescription items,Total,20897
+E38000001,02N,"NHS Airedale, Wharfedale and Craven ",2016,Prescription items,Total,429
+E38000006,02P,NHS Barnsley ,2016,Prescription items,Total,1975
+E38000008,02Q,NHS Bassetlaw ,2016,Prescription items,Total,204
+E38000018,02W,NHS Bradford City ,2016,Prescription items,Total,137
+E38000019,02R,NHS Bradford Districts ,2016,Prescription items,Total,292
+E38000025,02T,NHS Calderdale ,2016,Prescription items,Total,452
+E38000044,02X,NHS Doncaster ,2016,Prescription items,Total,295
+E38000052,02Y,NHS East Riding of Yorkshire ,2016,Prescription items,Total,837
+E38000064,03A,NHS Greater Huddersfield ,2016,Prescription items,Total,565
+E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",2016,Prescription items,Total,271
+E38000073,03E,NHS Harrogate and Rural District ,2016,Prescription items,Total,501
+E38000085,03F,NHS Hull ,2016,Prescription items,Total,290
+E38000094,02V,NHS Leeds North ,2016,Prescription items,Total,569
+E38000095,03G,NHS Leeds South and East ,2016,Prescription items,Total,1055
+E38000096,03C,NHS Leeds West ,2016,Prescription items,Total,1266
+E38000119,03H,NHS North East Lincolnshire ,2016,Prescription items,Total,169
+E38000121,03J,NHS North Kirklees ,2016,Prescription items,Total,532
+E38000122,03K,NHS North Lincolnshire ,2016,Prescription items,Total,407
+E38000141,03L,NHS Rotherham ,2016,Prescription items,Total,2733
+E38000145,03M,NHS Scarborough and Ryedale ,2016,Prescription items,Total,474
+E38000146,03N,NHS Sheffield ,2016,Prescription items,Total,5494
+E38000188,03Q,NHS Vale of York ,2016,Prescription items,Total,510
+E38000190,03R,NHS Wakefield ,2016,Prescription items,Total,1440
+E39000037,Q83,NHS England North (Greater Manchester),2016,Prescription items,Total,23252
+E38000016,00T,NHS Bolton ,2016,Prescription items,Total,1107
+E38000024,00V,NHS Bury ,2016,Prescription items,Total,993
+E38000032,00W,NHS Central Manchester,2016,Prescription items,Total,1087
+E38000080,01D,"NHS Heywood, Middleton and Rochdale ",2016,Prescription items,Total,1696
+E38000123,01M,NHS North Manchester ,2016,Prescription items,Total,2192
+E38000135,00Y,NHS Oldham,2016,Prescription items,Total,1029
+E38000143,01G,NHS Salford ,2016,Prescription items,Total,3767
+E38000158,01N,NHS South Manchester ,2016,Prescription items,Total,2335
+E38000174,01W,NHS Stockport,2016,Prescription items,Total,2148
+E38000182,01Y,NHS Tameside and Glossop,2016,Prescription items,Total,1859
+E38000187,02A,NHS Trafford,2016,Prescription items,Total,1899
+E38000205,02H,NHS Wigan Borough,2016,Prescription items,Total,3140
+E39000038,Q84,NHS England North (Lancashire),2016,Prescription items,Total,4829
+E38000014,00Q,NHS Blackburn with Darwen ,2016,Prescription items,Total,872
+E38000015,00R,NHS Blackpool,2016,Prescription items,Total,1053
+E38000034,00X,NHS Chorley and South Ribble,2016,Prescription items,Total,378
+E38000050,01A,NHS East Lancashire ,2016,Prescription items,Total,1219
+E38000060,02M,NHS Fylde & Wyre,2016,Prescription items,Total,439
+E38000065,01E,NHS Greater Preston ,2016,Prescription items,Total,354
+E38000093,01K,NHS Lancashire North ,2016,Prescription items,Total,412
+E38000200,02G,NHS West Lancashire,2016,Prescription items,Total,102
+E39000027,Q74,NHS England North (Cumbria and North East),2016,Prescription items,Total,16912
+E38000041,01H,NHS Cumbria ,2016,Prescription items,Total,4307
+E38000042,00C,NHS Darlington ,2016,Prescription items,Total,501
+E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",2016,Prescription items,Total,1706
+E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,2016,Prescription items,Total,426
+E38000212,13T,NHS Newcastle Gateshead,2016,Prescription items,Total,2018
+E38000116,00J,NHS North Durham ,2016,Prescription items,Total,1167
+E38000127,99C,NHS North Tyneside ,2016,Prescription items,Total,1956
+E38000130,00L,NHS Northumberland ,2016,Prescription items,Total,2162
+E38000162,00M,NHS South Tees ,2016,Prescription items,Total,477
+E38000163,00N,NHS South Tyneside ,2016,Prescription items,Total,997
+E38000176,00P,NHS Sunderland ,2016,Prescription items,Total,1195
+E39000026,Q75,NHS England North (Cheshire and Merseyside),2016,Prescription items,Total,8889
+E38000056,01C,NHS Eastern Cheshire ,2016,Prescription items,Total,388
+E38000068,01F,NHS Halton ,2016,Prescription items,Total,369
+E38000091,01J,NHS Knowsley ,2016,Prescription items,Total,600
+E38000101,99A,NHS Liverpool ,2016,Prescription items,Total,3061
+E38000151,01R,NHS South Cheshire ,2016,Prescription items,Total,309
+E38000161,01T,NHS South Sefton ,2016,Prescription items,Total,457
+E38000170,01V,NHS Southport and Formby ,2016,Prescription items,Total,413
+E38000172,01X,NHS St Helens ,2016,Prescription items,Total,1318
+E38000189,02D,NHS Vale Royal ,2016,Prescription items,Total,165
+E38000194,02E,NHS Warrington,2016,Prescription items,Total,395
+E38000196,02F,NHS West Cheshire ,2016,Prescription items,Total,453
+E38000208,12F,NHS Wirral,2016,Prescription items,Total,961
+E40000002,Y55,Midlands and East of England,2016,Prescription items,Total,44521
+E39000032,Q76,NHS England Midlands and East (North Midlands),2016,Prescription items,Total,11953
+E38000028,04Y,NHS Cannock Chase,2016,Prescription items,Total,411
+E38000053,05D,NHS East Staffordshire ,2016,Prescription items,Total,265
+E38000058,03X,NHS Erewash ,2016,Prescription items,Total,121
+E38000071,03Y,NHS Hardwick ,2016,Prescription items,Total,239
+E38000103,04E,NHS Mansfield & Ashfield ,2016,Prescription items,Total,375
+E38000109,04H,NHS Newark & Sherwood ,2016,Prescription items,Total,114
+E38000115,04J,NHS North Derbyshire ,2016,Prescription items,Total,1505
+E38000126,05G,NHS North Staffordshire ,2016,Prescription items,Total,903
+E38000132,04K,NHS Nottingham City ,2016,Prescription items,Total,1183
+E38000133,04L,NHS Nottingham North & East ,2016,Prescription items,Total,225
+E38000134,04M,NHS Nottingham West ,2016,Prescription items,Total,119
+E38000142,04N,NHS Rushcliffe ,2016,Prescription items,Total,125
+E38000147,05N,NHS Shropshire ,2016,Prescription items,Total,1897
+E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,2016,Prescription items,Total,508
+E38000169,04R,NHS Southern Derbyshire ,2016,Prescription items,Total,431
+E38000173,05V,NHS Stafford and Surrounds,2016,Prescription items,Total,582
+E38000175,05W,NHS Stoke on Trent ,2016,Prescription items,Total,1768
+E38000183,05X,NHS Telford & Wrekin ,2016,Prescription items,Total,1182
+E39000033,Q77,NHS England Midlands and East (West Midlands),2016,Prescription items,Total,10851
+E38000012,13P,NHS Birmingham CrossCity ,2016,Prescription items,Total,1622
+E38000013,04X,NHS Birmingham South and Central ,2016,Prescription items,Total,517
+E38000038,05A,NHS Coventry and Rugby ,2016,Prescription items,Total,696
+E38000046,05C,NHS Dudley ,2016,Prescription items,Total,1381
+E38000078,05F,NHS Herefordshire,2016,Prescription items,Total,519
+E38000139,05J,NHS Redditch and Bromsgrove ,2016,Prescription items,Total,121
+E38000144,05L,NHS Sandwell and West Birmingham ,2016,Prescription items,Total,1241
+E38000149,05P,NHS Solihull ,2016,Prescription items,Total,1406
+E38000164,05R,NHS South Warwickshire ,2016,Prescription items,Total,684
+E38000166,05T,NHS South Worcestershire ,2016,Prescription items,Total,427
+E38000191,05Y,NHS Walsall ,2016,Prescription items,Total,883
+E38000195,05H,NHS Warwickshire North ,2016,Prescription items,Total,390
+E38000210,06A,NHS Wolverhampton ,2016,Prescription items,Total,846
+E38000211,06D,NHS Wyre Forest ,2016,Prescription items,Total,118
+E39000030,Q78,NHS England Midlands and East (Central Midlands),2016,Prescription items,Total,8442
+E38000010,06F,NHS Bedfordshire ,2016,Prescription items,Total,1040
+E38000037,03V,NHS Corby ,2016,Prescription items,Total,32
+E38000049,06K,NHS East and North Hertfordshire ,2016,Prescription items,Total,866
+E38000051,03W,NHS East Leicestershire and Rutland ,2016,Prescription items,Total,613
+E38000079,06N,NHS Herts Valleys ,2016,Prescription items,Total,891
+E38000097,04C,NHS Leicester City ,2016,Prescription items,Total,476
+E38000099,03T,NHS Lincolnshire East,2016,Prescription items,Total,251
+E38000100,04D,NHS Lincolnshire West,2016,Prescription items,Total,363
+E38000102,06P,NHS Luton ,2016,Prescription items,Total,505
+E38000107,04F,NHS Milton Keynes ,2016,Prescription items,Total,136
+E38000108,04G,NHS Nene ,2016,Prescription items,Total,2238
+E38000157,99D,NHS South Lincolnshire ,2016,Prescription items,Total,77
+E38000165,04Q,NHS South West Lincolnshire,2016,Prescription items,Total,329
+E38000201,04V,NHS West Leicestershire ,2016,Prescription items,Total,625
+E39000031,Q79,NHS England Midlands and East (East),2016,Prescription items,Total,13275
+E38000007,99E,NHS Basildon and Brentwood,2016,Prescription items,Total,614
+E38000026,06H,NHS Cambridgeshire and Peterborough,2016,Prescription items,Total,2337
+E38000030,99F,NHS Castle Point and Rochford,2016,Prescription items,Total,416
+E38000063,06M,NHS Great Yarmouth & Waveney ,2016,Prescription items,Total,1141
+E38000086,06L,NHS Ipswich and East Suffolk,2016,Prescription items,Total,395
+E38000106,06Q,NHS Mid Essex ,2016,Prescription items,Total,832
+E38000117,06T,NHS North East Essex ,2016,Prescription items,Total,1561
+E38000124,06V,NHS North Norfolk ,2016,Prescription items,Total,381
+E38000131,06W,NHS Norwich ,2016,Prescription items,Total,2370
+E38000159,06Y,NHS South Norfolk ,2016,Prescription items,Total,339
+E38000168,99G,NHS Southend,2016,Prescription items,Total,522
+E38000185,07G,NHS Thurrock ,2016,Prescription items,Total,159
+E38000197,07H,NHS West Essex,2016,Prescription items,Total,748
+E38000203,07J,NHS West Norfolk ,2016,Prescription items,Total,777
+E38000204,07K,NHS West Suffolk,2016,Prescription items,Total,683
+E40000003,Y56,London,2016,Prescription items,Total,13657
+E39000018,Q71,NHS England London,2016,Prescription items,Total,13657
+E38000004,07L,NHS Barking & Dagenham ,2016,Prescription items,Total,600
+E38000005,07M,NHS Barnet ,2016,Prescription items,Total,340
+E38000011,07N,NHS Bexley ,2016,Prescription items,Total,309
+E38000020,07P,NHS Brent ,2016,Prescription items,Total,353
+E38000023,07Q,NHS Bromley ,2016,Prescription items,Total,354
+E38000027,07R,NHS Camden ,2016,Prescription items,Total,241
+E38000031,09A,NHS Central London (Westminster) ,2016,Prescription items,Total,762
+E38000035,07T,NHS City and Hackney ,2016,Prescription items,Total,234
+E38000040,07V,NHS Croydon ,2016,Prescription items,Total,373
+E38000048,07W,NHS Ealing ,2016,Prescription items,Total,838
+E38000057,07X,NHS Enfield ,2016,Prescription items,Total,254
+E38000066,08A,NHS Greenwich ,2016,Prescription items,Total,745
+E38000070,08C,NHS Hammersmith and Fulham ,2016,Prescription items,Total,330
+E38000072,08D,NHS Haringey ,2016,Prescription items,Total,399
+E38000074,08E,NHS Harrow ,2016,Prescription items,Total,221
+E38000077,08F,NHS Havering ,2016,Prescription items,Total,363
+E38000082,08G,NHS Hillingdon ,2016,Prescription items,Total,323
+E38000084,07Y,NHS Hounslow ,2016,Prescription items,Total,518
+E38000088,08H,NHS Islington ,2016,Prescription items,Total,744
+E38000090,08J,NHS Kingston ,2016,Prescription items,Total,81
+E38000092,08K,NHS Lambeth ,2016,Prescription items,Total,541
+E38000098,08L,NHS Lewisham ,2016,Prescription items,Total,386
+E38000105,08R,NHS Merton ,2016,Prescription items,Total,194
+E38000113,08M,NHS Newham ,2016,Prescription items,Total,424
+E38000138,08N,NHS Redbridge ,2016,Prescription items,Total,512
+E38000140,08P,NHS Richmond ,2016,Prescription items,Total,246
+E38000171,08Q,NHS Southwark ,2016,Prescription items,Total,494
+E38000179,08T,NHS Sutton ,2016,Prescription items,Total,349
+E38000186,08V,NHS Tower Hamlets ,2016,Prescription items,Total,197
+E38000192,08W,NHS Waltham Forest,2016,Prescription items,Total,670
+E38000193,08X,NHS Wandsworth ,2016,Prescription items,Total,817
+E38000202,08Y,NHS West London,2016,Prescription items,Total,445
+E40000004,Y57,South of England,2016,Prescription items,Total,33221
+E39000036,Q80,NHS England South (South West),2016,Prescription items,Total,8891
+E38000022,11H,NHS Bristol ,2016,Prescription items,Total,1731
+E38000089,11N,NHS Kernow ,2016,Prescription items,Total,1764
+E38000125,11T,NHS North Somerset ,2016,Prescription items,Total,996
+E38000129,99P,"NHS North, East, West Devon ",2016,Prescription items,Total,1908
+E38000150,11X,NHS Somerset ,2016,Prescription items,Total,1339
+E38000152,99Q,NHS South Devon and Torbay ,2016,Prescription items,Total,399
+E38000155,12A,NHS South Gloucestershire ,2016,Prescription items,Total,754
+E39000035,Q81,NHS England South (South East),2016,Prescription items,Total,9391
+E38000002,09C,NHS Ashford ,2016,Prescription items,Total,100
+E38000021,09D,NHS Brighton & Hove ,2016,Prescription items,Total,2067
+E38000029,09E,NHS Canterbury and Coastal ,2016,Prescription items,Total,276
+E38000213,09G,NHS Coastal West Sussex ,2016,Prescription items,Total,595
+E38000039,09H,NHS Crawley ,2016,Prescription items,Total,116
+E38000043,09J,"NHS Dartford, Gravesham and Swanley ",2016,Prescription items,Total,737
+E38000054,09L,NHS East Surrey ,2016,Prescription items,Total,77
+E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",2016,Prescription items,Total,691
+E38000214,09N,NHS Guildford and Waverley,2016,Prescription items,Total,194
+E38000076,09P,NHS Hastings & Rother ,2016,Prescription items,Total,621
+E38000081,99K,NHS High Weald Lewes Havens ,2016,Prescription items,Total,634
+E38000083,09X,NHS Horsham and Mid Sussex ,2016,Prescription items,Total,80
+E38000104,09W,NHS Medway ,2016,Prescription items,Total,808
+E38000128,09Y,NHS North West Surrey ,2016,Prescription items,Total,194
+E38000156,10A,NHS South Kent Coast ,2016,Prescription items,Total,347
+E38000177,99H,NHS Surrey Downs ,2016,Prescription items,Total,112
+E38000178,10C,NHS Surrey Heath ,2016,Prescription items,Total,79
+E38000180,10D,NHS Swale ,2016,Prescription items,Total,104
+E38000184,10E,NHS Thanet ,2016,Prescription items,Total,317
+E38000199,99J,NHS West Kent ,2016,Prescription items,Total,1242
+E39000034,Q82,NHS England South (South Central),2016,Prescription items,Total,9766
+E38000003,10Y,NHS Aylesbury Vale ,2016,Prescription items,Total,331
+E38000009,11E,NHS Bath and North East Somerset ,2016,Prescription items,Total,768
+E38000017,10G,NHS Bracknell and Ascot ,2016,Prescription items,Total,244
+E38000033,10H,NHS Chiltern ,2016,Prescription items,Total,343
+E38000062,11M,NHS Gloucestershire ,2016,Prescription items,Total,3571
+E38000110,10M,NHS Newbury and District ,2016,Prescription items,Total,129
+E38000114,10N,NHS North & West Reading ,2016,Prescription items,Total,196
+E38000136,10Q,NHS Oxfordshire ,2016,Prescription items,Total,1646
+E38000148,10T,NHS Slough ,2016,Prescription items,Total,145
+E38000160,10W,NHS South Reading ,2016,Prescription items,Total,219
+E38000181,12D,NHS Swindon ,2016,Prescription items,Total,487
+E38000206,99N,NHS Wiltshire ,2016,Prescription items,Total,1219
+E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",2016,Prescription items,Total,228
+E38000209,11D,NHS Wokingham ,2016,Prescription items,Total,240
+E39000025,Q70,NHS England South (Wessex),2016,Prescription items,Total,5173
+E38000045,11J,NHS Dorset ,2016,Prescription items,Total,1475
+E38000059,10K,NHS Fareham and Gosport ,2016,Prescription items,Total,230
+E38000087,10L,NHS Isle of Wight ,2016,Prescription items,Total,701
+E38000118,99M,NHS North East Hampshire and Farnham ,2016,Prescription items,Total,236
+E38000120,10J,NHS North Hampshire ,2016,Prescription items,Total,396
+E38000137,10R,NHS Portsmouth ,2016,Prescription items,Total,578
+E38000154,10V,NHS South Eastern Hampshire ,2016,Prescription items,Total,198
+E38000167,10X,NHS Southampton ,2016,Prescription items,Total,662
+E38000198,11A,NHS West Hampshire ,2016,Prescription items,Total,697
+E92000001,921,England,2016,Prescription items,Acamprosate Calcium,132320
+XXXXXXXX,XXX,Unknown,2016,Prescription items,Acamprosate Calcium,10673
+E40000001,Y54,North of England,2016,Prescription items,Acamprosate Calcium,55073
+E39000029,Q72,NHS England North (Yorkshire and Humber),2016,Prescription items,Acamprosate Calcium,13029
+E38000001,02N,"NHS Airedale, Wharfedale and Craven ",2016,Prescription items,Acamprosate Calcium,197
+E38000006,02P,NHS Barnsley ,2016,Prescription items,Acamprosate Calcium,1193
+E38000008,02Q,NHS Bassetlaw ,2016,Prescription items,Acamprosate Calcium,153
+E38000018,02W,NHS Bradford City ,2016,Prescription items,Acamprosate Calcium,125
+E38000019,02R,NHS Bradford Districts ,2016,Prescription items,Acamprosate Calcium,205
+E38000025,02T,NHS Calderdale ,2016,Prescription items,Acamprosate Calcium,415
+E38000044,02X,NHS Doncaster ,2016,Prescription items,Acamprosate Calcium,89
+E38000052,02Y,NHS East Riding of Yorkshire ,2016,Prescription items,Acamprosate Calcium,731
+E38000064,03A,NHS Greater Huddersfield ,2016,Prescription items,Acamprosate Calcium,437
+E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",2016,Prescription items,Acamprosate Calcium,135
+E38000073,03E,NHS Harrogate and Rural District ,2016,Prescription items,Acamprosate Calcium,258
+E38000085,03F,NHS Hull ,2016,Prescription items,Acamprosate Calcium,270
+E38000094,02V,NHS Leeds North ,2016,Prescription items,Acamprosate Calcium,162
+E38000095,03G,NHS Leeds South and East ,2016,Prescription items,Acamprosate Calcium,425
+E38000096,03C,NHS Leeds West ,2016,Prescription items,Acamprosate Calcium,371
+E38000119,03H,NHS North East Lincolnshire ,2016,Prescription items,Acamprosate Calcium,166
+E38000121,03J,NHS North Kirklees ,2016,Prescription items,Acamprosate Calcium,423
+E38000122,03K,NHS North Lincolnshire ,2016,Prescription items,Acamprosate Calcium,193
+E38000141,03L,NHS Rotherham ,2016,Prescription items,Acamprosate Calcium,1631
+E38000145,03M,NHS Scarborough and Ryedale ,2016,Prescription items,Acamprosate Calcium,200
+E38000146,03N,NHS Sheffield ,2016,Prescription items,Acamprosate Calcium,4064
+E38000188,03Q,NHS Vale of York ,2016,Prescription items,Acamprosate Calcium,297
+E38000190,03R,NHS Wakefield ,2016,Prescription items,Acamprosate Calcium,889
+E39000037,Q83,NHS England North (Greater Manchester),2016,Prescription items,Acamprosate Calcium,16646
+E38000016,00T,NHS Bolton ,2016,Prescription items,Acamprosate Calcium,787
+E38000024,00V,NHS Bury ,2016,Prescription items,Acamprosate Calcium,746
+E38000032,00W,NHS Central Manchester,2016,Prescription items,Acamprosate Calcium,680
+E38000080,01D,"NHS Heywood, Middleton and Rochdale ",2016,Prescription items,Acamprosate Calcium,1310
+E38000123,01M,NHS North Manchester ,2016,Prescription items,Acamprosate Calcium,1764
+E38000135,00Y,NHS Oldham,2016,Prescription items,Acamprosate Calcium,700
+E38000143,01G,NHS Salford ,2016,Prescription items,Acamprosate Calcium,2501
+E38000158,01N,NHS South Manchester ,2016,Prescription items,Acamprosate Calcium,1603
+E38000174,01W,NHS Stockport,2016,Prescription items,Acamprosate Calcium,1347
+E38000182,01Y,NHS Tameside and Glossop,2016,Prescription items,Acamprosate Calcium,1418
+E38000187,02A,NHS Trafford,2016,Prescription items,Acamprosate Calcium,1426
+E38000205,02H,NHS Wigan Borough,2016,Prescription items,Acamprosate Calcium,2364
+E39000038,Q84,NHS England North (Lancashire),2016,Prescription items,Acamprosate Calcium,3871
+E38000014,00Q,NHS Blackburn with Darwen ,2016,Prescription items,Acamprosate Calcium,682
+E38000015,00R,NHS Blackpool,2016,Prescription items,Acamprosate Calcium,827
+E38000034,00X,NHS Chorley and South Ribble,2016,Prescription items,Acamprosate Calcium,286
+E38000050,01A,NHS East Lancashire ,2016,Prescription items,Acamprosate Calcium,1094
+E38000060,02M,NHS Fylde & Wyre,2016,Prescription items,Acamprosate Calcium,334
+E38000065,01E,NHS Greater Preston ,2016,Prescription items,Acamprosate Calcium,265
+E38000093,01K,NHS Lancashire North ,2016,Prescription items,Acamprosate Calcium,311
+E38000200,02G,NHS West Lancashire,2016,Prescription items,Acamprosate Calcium,72
+E39000027,Q74,NHS England North (Cumbria and North East),2016,Prescription items,Acamprosate Calcium,13665
+E38000041,01H,NHS Cumbria ,2016,Prescription items,Acamprosate Calcium,3131
+E38000042,00C,NHS Darlington ,2016,Prescription items,Acamprosate Calcium,366
+E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",2016,Prescription items,Acamprosate Calcium,1357
+E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,2016,Prescription items,Acamprosate Calcium,376
+E38000212,13T,NHS Newcastle Gateshead,2016,Prescription items,Acamprosate Calcium,1723
+E38000116,00J,NHS North Durham ,2016,Prescription items,Acamprosate Calcium,887
+E38000127,99C,NHS North Tyneside ,2016,Prescription items,Acamprosate Calcium,1922
+E38000130,00L,NHS Northumberland ,2016,Prescription items,Acamprosate Calcium,1788
+E38000162,00M,NHS South Tees ,2016,Prescription items,Acamprosate Calcium,257
+E38000163,00N,NHS South Tyneside ,2016,Prescription items,Acamprosate Calcium,963
+E38000176,00P,NHS Sunderland ,2016,Prescription items,Acamprosate Calcium,895
+E39000026,Q75,NHS England North (Cheshire and Merseyside),2016,Prescription items,Acamprosate Calcium,7862
+E38000056,01C,NHS Eastern Cheshire ,2016,Prescription items,Acamprosate Calcium,330
+E38000068,01F,NHS Halton ,2016,Prescription items,Acamprosate Calcium,301
+E38000091,01J,NHS Knowsley ,2016,Prescription items,Acamprosate Calcium,560
+E38000101,99A,NHS Liverpool ,2016,Prescription items,Acamprosate Calcium,2909
+E38000151,01R,NHS South Cheshire ,2016,Prescription items,Acamprosate Calcium,303
+E38000161,01T,NHS South Sefton ,2016,Prescription items,Acamprosate Calcium,384
+E38000170,01V,NHS Southport and Formby ,2016,Prescription items,Acamprosate Calcium,349
+E38000172,01X,NHS St Helens ,2016,Prescription items,Acamprosate Calcium,1011
+E38000189,02D,NHS Vale Royal ,2016,Prescription items,Acamprosate Calcium,160
+E38000194,02E,NHS Warrington,2016,Prescription items,Acamprosate Calcium,262
+E38000196,02F,NHS West Cheshire ,2016,Prescription items,Acamprosate Calcium,407
+E38000208,12F,NHS Wirral,2016,Prescription items,Acamprosate Calcium,886
+E40000002,Y55,Midlands and East of England,2016,Prescription items,Acamprosate Calcium,30912
+E39000032,Q76,NHS England Midlands and East (North Midlands),2016,Prescription items,Acamprosate Calcium,7970
+E38000028,04Y,NHS Cannock Chase,2016,Prescription items,Acamprosate Calcium,336
+E38000053,05D,NHS East Staffordshire ,2016,Prescription items,Acamprosate Calcium,182
+E38000058,03X,NHS Erewash ,2016,Prescription items,Acamprosate Calcium,75
+E38000071,03Y,NHS Hardwick ,2016,Prescription items,Acamprosate Calcium,36
+E38000103,04E,NHS Mansfield & Ashfield ,2016,Prescription items,Acamprosate Calcium,237
+E38000109,04H,NHS Newark & Sherwood ,2016,Prescription items,Acamprosate Calcium,48
+E38000115,04J,NHS North Derbyshire ,2016,Prescription items,Acamprosate Calcium,456
+E38000126,05G,NHS North Staffordshire ,2016,Prescription items,Acamprosate Calcium,879
+E38000132,04K,NHS Nottingham City ,2016,Prescription items,Acamprosate Calcium,351
+E38000133,04L,NHS Nottingham North & East ,2016,Prescription items,Acamprosate Calcium,100
+E38000134,04M,NHS Nottingham West ,2016,Prescription items,Acamprosate Calcium,70
+E38000142,04N,NHS Rushcliffe ,2016,Prescription items,Acamprosate Calcium,82
+E38000147,05N,NHS Shropshire ,2016,Prescription items,Acamprosate Calcium,1426
+E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,2016,Prescription items,Acamprosate Calcium,423
+E38000169,04R,NHS Southern Derbyshire ,2016,Prescription items,Acamprosate Calcium,221
+E38000173,05V,NHS Stafford and Surrounds,2016,Prescription items,Acamprosate Calcium,396
+E38000175,05W,NHS Stoke on Trent ,2016,Prescription items,Acamprosate Calcium,1754
+E38000183,05X,NHS Telford & Wrekin ,2016,Prescription items,Acamprosate Calcium,898
+E39000033,Q77,NHS England Midlands and East (West Midlands),2016,Prescription items,Acamprosate Calcium,7517
+E38000012,13P,NHS Birmingham CrossCity ,2016,Prescription items,Acamprosate Calcium,1443
+E38000013,04X,NHS Birmingham South and Central ,2016,Prescription items,Acamprosate Calcium,481
+E38000038,05A,NHS Coventry and Rugby ,2016,Prescription items,Acamprosate Calcium,499
+E38000046,05C,NHS Dudley ,2016,Prescription items,Acamprosate Calcium,851
+E38000078,05F,NHS Herefordshire,2016,Prescription items,Acamprosate Calcium,320
+E38000139,05J,NHS Redditch and Bromsgrove ,2016,Prescription items,Acamprosate Calcium,88
+E38000144,05L,NHS Sandwell and West Birmingham ,2016,Prescription items,Acamprosate Calcium,1037
+E38000149,05P,NHS Solihull ,2016,Prescription items,Acamprosate Calcium,307
+E38000164,05R,NHS South Warwickshire ,2016,Prescription items,Acamprosate Calcium,425
+E38000166,05T,NHS South Worcestershire ,2016,Prescription items,Acamprosate Calcium,270
+E38000191,05Y,NHS Walsall ,2016,Prescription items,Acamprosate Calcium,576
+E38000195,05H,NHS Warwickshire North ,2016,Prescription items,Acamprosate Calcium,296
+E38000210,06A,NHS Wolverhampton ,2016,Prescription items,Acamprosate Calcium,815
+E38000211,06D,NHS Wyre Forest ,2016,Prescription items,Acamprosate Calcium,109
+E39000030,Q78,NHS England Midlands and East (Central Midlands),2016,Prescription items,Acamprosate Calcium,6063
+E38000010,06F,NHS Bedfordshire ,2016,Prescription items,Acamprosate Calcium,744
+E38000037,03V,NHS Corby ,2016,Prescription items,Acamprosate Calcium,28
+E38000049,06K,NHS East and North Hertfordshire ,2016,Prescription items,Acamprosate Calcium,627
+E38000051,03W,NHS East Leicestershire and Rutland ,2016,Prescription items,Acamprosate Calcium,359
+E38000079,06N,NHS Herts Valleys ,2016,Prescription items,Acamprosate Calcium,696
+E38000097,04C,NHS Leicester City ,2016,Prescription items,Acamprosate Calcium,378
+E38000099,03T,NHS Lincolnshire East,2016,Prescription items,Acamprosate Calcium,161
+E38000100,04D,NHS Lincolnshire West,2016,Prescription items,Acamprosate Calcium,226
+E38000102,06P,NHS Luton ,2016,Prescription items,Acamprosate Calcium,384
+E38000107,04F,NHS Milton Keynes ,2016,Prescription items,Acamprosate Calcium,111
+E38000108,04G,NHS Nene ,2016,Prescription items,Acamprosate Calcium,1794
+E38000157,99D,NHS South Lincolnshire ,2016,Prescription items,Acamprosate Calcium,24
+E38000165,04Q,NHS South West Lincolnshire,2016,Prescription items,Acamprosate Calcium,143
+E38000201,04V,NHS West Leicestershire ,2016,Prescription items,Acamprosate Calcium,388
+E39000031,Q79,NHS England Midlands and East (East),2016,Prescription items,Acamprosate Calcium,9362
+E38000007,99E,NHS Basildon and Brentwood,2016,Prescription items,Acamprosate Calcium,430
+E38000026,06H,NHS Cambridgeshire and Peterborough,2016,Prescription items,Acamprosate Calcium,1360
+E38000030,99F,NHS Castle Point and Rochford,2016,Prescription items,Acamprosate Calcium,279
+E38000063,06M,NHS Great Yarmouth & Waveney ,2016,Prescription items,Acamprosate Calcium,762
+E38000086,06L,NHS Ipswich and East Suffolk,2016,Prescription items,Acamprosate Calcium,294
+E38000106,06Q,NHS Mid Essex ,2016,Prescription items,Acamprosate Calcium,602
+E38000117,06T,NHS North East Essex ,2016,Prescription items,Acamprosate Calcium,1484
+E38000124,06V,NHS North Norfolk ,2016,Prescription items,Acamprosate Calcium,219
+E38000131,06W,NHS Norwich ,2016,Prescription items,Acamprosate Calcium,1610
+E38000159,06Y,NHS South Norfolk ,2016,Prescription items,Acamprosate Calcium,221
+E38000168,99G,NHS Southend,2016,Prescription items,Acamprosate Calcium,364
+E38000185,07G,NHS Thurrock ,2016,Prescription items,Acamprosate Calcium,155
+E38000197,07H,NHS West Essex,2016,Prescription items,Acamprosate Calcium,631
+E38000203,07J,NHS West Norfolk ,2016,Prescription items,Acamprosate Calcium,529
+E38000204,07K,NHS West Suffolk,2016,Prescription items,Acamprosate Calcium,422
+E40000003,Y56,London,2016,Prescription items,Acamprosate Calcium,10668
+E39000018,Q71,NHS England London,2016,Prescription items,Acamprosate Calcium,10668
+E38000004,07L,NHS Barking & Dagenham ,2016,Prescription items,Acamprosate Calcium,491
+E38000005,07M,NHS Barnet ,2016,Prescription items,Acamprosate Calcium,230
+E38000011,07N,NHS Bexley ,2016,Prescription items,Acamprosate Calcium,275
+E38000020,07P,NHS Brent ,2016,Prescription items,Acamprosate Calcium,319
+E38000023,07Q,NHS Bromley ,2016,Prescription items,Acamprosate Calcium,249
+E38000027,07R,NHS Camden ,2016,Prescription items,Acamprosate Calcium,144
+E38000031,09A,NHS Central London (Westminster) ,2016,Prescription items,Acamprosate Calcium,332
+E38000035,07T,NHS City and Hackney ,2016,Prescription items,Acamprosate Calcium,215
+E38000040,07V,NHS Croydon ,2016,Prescription items,Acamprosate Calcium,359
+E38000048,07W,NHS Ealing ,2016,Prescription items,Acamprosate Calcium,654
+E38000057,07X,NHS Enfield ,2016,Prescription items,Acamprosate Calcium,206
+E38000066,08A,NHS Greenwich ,2016,Prescription items,Acamprosate Calcium,714
+E38000070,08C,NHS Hammersmith and Fulham ,2016,Prescription items,Acamprosate Calcium,212
+E38000072,08D,NHS Haringey ,2016,Prescription items,Acamprosate Calcium,276
+E38000074,08E,NHS Harrow ,2016,Prescription items,Acamprosate Calcium,145
+E38000077,08F,NHS Havering ,2016,Prescription items,Acamprosate Calcium,291
+E38000082,08G,NHS Hillingdon ,2016,Prescription items,Acamprosate Calcium,274
+E38000084,07Y,NHS Hounslow ,2016,Prescription items,Acamprosate Calcium,354
+E38000088,08H,NHS Islington ,2016,Prescription items,Acamprosate Calcium,352
+E38000090,08J,NHS Kingston ,2016,Prescription items,Acamprosate Calcium,57
+E38000092,08K,NHS Lambeth ,2016,Prescription items,Acamprosate Calcium,451
+E38000098,08L,NHS Lewisham ,2016,Prescription items,Acamprosate Calcium,367
+E38000105,08R,NHS Merton ,2016,Prescription items,Acamprosate Calcium,172
+E38000113,08M,NHS Newham ,2016,Prescription items,Acamprosate Calcium,384
+E38000138,08N,NHS Redbridge ,2016,Prescription items,Acamprosate Calcium,434
+E38000140,08P,NHS Richmond ,2016,Prescription items,Acamprosate Calcium,208
+E38000171,08Q,NHS Southwark ,2016,Prescription items,Acamprosate Calcium,393
+E38000179,08T,NHS Sutton ,2016,Prescription items,Acamprosate Calcium,288
+E38000186,08V,NHS Tower Hamlets ,2016,Prescription items,Acamprosate Calcium,141
+E38000192,08W,NHS Waltham Forest,2016,Prescription items,Acamprosate Calcium,637
+E38000193,08X,NHS Wandsworth ,2016,Prescription items,Acamprosate Calcium,752
+E38000202,08Y,NHS West London,2016,Prescription items,Acamprosate Calcium,292
+E40000004,Y57,South of England,2016,Prescription items,Acamprosate Calcium,24994
+E39000036,Q80,NHS England South (South West),2016,Prescription items,Acamprosate Calcium,6715
+E38000022,11H,NHS Bristol ,2016,Prescription items,Acamprosate Calcium,1225
+E38000089,11N,NHS Kernow ,2016,Prescription items,Acamprosate Calcium,1256
+E38000125,11T,NHS North Somerset ,2016,Prescription items,Acamprosate Calcium,676
+E38000129,99P,"NHS North, East, West Devon ",2016,Prescription items,Acamprosate Calcium,1664
+E38000150,11X,NHS Somerset ,2016,Prescription items,Acamprosate Calcium,1053
+E38000152,99Q,NHS South Devon and Torbay ,2016,Prescription items,Acamprosate Calcium,156
+E38000155,12A,NHS South Gloucestershire ,2016,Prescription items,Acamprosate Calcium,685
+E39000035,Q81,NHS England South (South East),2016,Prescription items,Acamprosate Calcium,7614
+E38000002,09C,NHS Ashford ,2016,Prescription items,Acamprosate Calcium,81
+E38000021,09D,NHS Brighton & Hove ,2016,Prescription items,Acamprosate Calcium,1827
+E38000029,09E,NHS Canterbury and Coastal ,2016,Prescription items,Acamprosate Calcium,131
+E38000213,09G,NHS Coastal West Sussex ,2016,Prescription items,Acamprosate Calcium,358
+E38000039,09H,NHS Crawley ,2016,Prescription items,Acamprosate Calcium,94
+E38000043,09J,"NHS Dartford, Gravesham and Swanley ",2016,Prescription items,Acamprosate Calcium,614
+E38000054,09L,NHS East Surrey ,2016,Prescription items,Acamprosate Calcium,49
+E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",2016,Prescription items,Acamprosate Calcium,626
+E38000214,09N,NHS Guildford and Waverley,2016,Prescription items,Acamprosate Calcium,165
+E38000076,09P,NHS Hastings & Rother ,2016,Prescription items,Acamprosate Calcium,498
+E38000081,99K,NHS High Weald Lewes Havens ,2016,Prescription items,Acamprosate Calcium,571
+E38000083,09X,NHS Horsham and Mid Sussex ,2016,Prescription items,Acamprosate Calcium,51
+E38000104,09W,NHS Medway ,2016,Prescription items,Acamprosate Calcium,737
+E38000128,09Y,NHS North West Surrey ,2016,Prescription items,Acamprosate Calcium,163
+E38000156,10A,NHS South Kent Coast ,2016,Prescription items,Acamprosate Calcium,205
+E38000177,99H,NHS Surrey Downs ,2016,Prescription items,Acamprosate Calcium,91
+E38000178,10C,NHS Surrey Heath ,2016,Prescription items,Acamprosate Calcium,32
+E38000180,10D,NHS Swale ,2016,Prescription items,Acamprosate Calcium,81
+E38000184,10E,NHS Thanet ,2016,Prescription items,Acamprosate Calcium,181
+E38000199,99J,NHS West Kent ,2016,Prescription items,Acamprosate Calcium,1059
+E39000034,Q82,NHS England South (South Central),2016,Prescription items,Acamprosate Calcium,6730
+E38000003,10Y,NHS Aylesbury Vale ,2016,Prescription items,Acamprosate Calcium,187
+E38000009,11E,NHS Bath and North East Somerset ,2016,Prescription items,Acamprosate Calcium,619
+E38000017,10G,NHS Bracknell and Ascot ,2016,Prescription items,Acamprosate Calcium,151
+E38000033,10H,NHS Chiltern ,2016,Prescription items,Acamprosate Calcium,165
+E38000062,11M,NHS Gloucestershire ,2016,Prescription items,Acamprosate Calcium,2501
+E38000110,10M,NHS Newbury and District ,2016,Prescription items,Acamprosate Calcium,90
+E38000114,10N,NHS North & West Reading ,2016,Prescription items,Acamprosate Calcium,151
+E38000136,10Q,NHS Oxfordshire ,2016,Prescription items,Acamprosate Calcium,918
+E38000148,10T,NHS Slough ,2016,Prescription items,Acamprosate Calcium,117
+E38000160,10W,NHS South Reading ,2016,Prescription items,Acamprosate Calcium,180
+E38000181,12D,NHS Swindon ,2016,Prescription items,Acamprosate Calcium,426
+E38000206,99N,NHS Wiltshire ,2016,Prescription items,Acamprosate Calcium,966
+E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",2016,Prescription items,Acamprosate Calcium,116
+E38000209,11D,NHS Wokingham ,2016,Prescription items,Acamprosate Calcium,143
+E39000025,Q70,NHS England South (Wessex),2016,Prescription items,Acamprosate Calcium,3935
+E38000045,11J,NHS Dorset ,2016,Prescription items,Acamprosate Calcium,747
+E38000059,10K,NHS Fareham and Gosport ,2016,Prescription items,Acamprosate Calcium,181
+E38000087,10L,NHS Isle of Wight ,2016,Prescription items,Acamprosate Calcium,654
+E38000118,99M,NHS North East Hampshire and Farnham ,2016,Prescription items,Acamprosate Calcium,196
+E38000120,10J,NHS North Hampshire ,2016,Prescription items,Acamprosate Calcium,377
+E38000137,10R,NHS Portsmouth ,2016,Prescription items,Acamprosate Calcium,557
+E38000154,10V,NHS South Eastern Hampshire ,2016,Prescription items,Acamprosate Calcium,162
+E38000167,10X,NHS Southampton ,2016,Prescription items,Acamprosate Calcium,517
+E38000198,11A,NHS West Hampshire ,2016,Prescription items,Acamprosate Calcium,544
+E92000001,921,England,2016,Prescription items,Disulfiram,47990
+XXXXXXXX,XXX,Unknown,2016,Prescription items,Disulfiram,6005
+E40000001,Y54,North of England,2016,Prescription items,Disulfiram,18975
+E39000029,Q72,NHS England North (Yorkshire and Humber),2016,Prescription items,Disulfiram,7740
+E38000001,02N,"NHS Airedale, Wharfedale and Craven ",2016,Prescription items,Disulfiram,232
+E38000006,02P,NHS Barnsley ,2016,Prescription items,Disulfiram,752
+E38000008,02Q,NHS Bassetlaw ,2016,Prescription items,Disulfiram,51
+E38000018,02W,NHS Bradford City ,2016,Prescription items,Disulfiram,12
+E38000019,02R,NHS Bradford Districts ,2016,Prescription items,Disulfiram,81
+E38000025,02T,NHS Calderdale ,2016,Prescription items,Disulfiram,34
+E38000044,02X,NHS Doncaster ,2016,Prescription items,Disulfiram,204
+E38000052,02Y,NHS East Riding of Yorkshire ,2016,Prescription items,Disulfiram,106
+E38000064,03A,NHS Greater Huddersfield ,2016,Prescription items,Disulfiram,102
+E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",2016,Prescription items,Disulfiram,134
+E38000073,03E,NHS Harrogate and Rural District ,2016,Prescription items,Disulfiram,243
+E38000085,03F,NHS Hull ,2016,Prescription items,Disulfiram,20
+E38000094,02V,NHS Leeds North ,2016,Prescription items,Disulfiram,407
+E38000095,03G,NHS Leeds South and East ,2016,Prescription items,Disulfiram,630
+E38000096,03C,NHS Leeds West ,2016,Prescription items,Disulfiram,894
+E38000119,03H,NHS North East Lincolnshire ,2016,Prescription items,Disulfiram,3
+E38000121,03J,NHS North Kirklees ,2016,Prescription items,Disulfiram,95
+E38000122,03K,NHS North Lincolnshire ,2016,Prescription items,Disulfiram,200
+E38000141,03L,NHS Rotherham ,2016,Prescription items,Disulfiram,1099
+E38000145,03M,NHS Scarborough and Ryedale ,2016,Prescription items,Disulfiram,271
+E38000146,03N,NHS Sheffield ,2016,Prescription items,Disulfiram,1407
+E38000188,03Q,NHS Vale of York ,2016,Prescription items,Disulfiram,212
+E38000190,03R,NHS Wakefield ,2016,Prescription items,Disulfiram,551
+E39000037,Q83,NHS England North (Greater Manchester),2016,Prescription items,Disulfiram,6367
+E38000016,00T,NHS Bolton ,2016,Prescription items,Disulfiram,318
+E38000024,00V,NHS Bury ,2016,Prescription items,Disulfiram,243
+E38000032,00W,NHS Central Manchester,2016,Prescription items,Disulfiram,392
+E38000080,01D,"NHS Heywood, Middleton and Rochdale ",2016,Prescription items,Disulfiram,378
+E38000123,01M,NHS North Manchester ,2016,Prescription items,Disulfiram,406
+E38000135,00Y,NHS Oldham,2016,Prescription items,Disulfiram,289
+E38000143,01G,NHS Salford ,2016,Prescription items,Disulfiram,1240
+E38000158,01N,NHS South Manchester ,2016,Prescription items,Disulfiram,729
+E38000174,01W,NHS Stockport,2016,Prescription items,Disulfiram,762
+E38000182,01Y,NHS Tameside and Glossop,2016,Prescription items,Disulfiram,370
+E38000187,02A,NHS Trafford,2016,Prescription items,Disulfiram,469
+E38000205,02H,NHS Wigan Borough,2016,Prescription items,Disulfiram,771
+E39000038,Q84,NHS England North (Lancashire),2016,Prescription items,Disulfiram,919
+E38000014,00Q,NHS Blackburn with Darwen ,2016,Prescription items,Disulfiram,189
+E38000015,00R,NHS Blackpool,2016,Prescription items,Disulfiram,216
+E38000034,00X,NHS Chorley and South Ribble,2016,Prescription items,Disulfiram,89
+E38000050,01A,NHS East Lancashire ,2016,Prescription items,Disulfiram,119
+E38000060,02M,NHS Fylde & Wyre,2016,Prescription items,Disulfiram,104
+E38000065,01E,NHS Greater Preston ,2016,Prescription items,Disulfiram,82
+E38000093,01K,NHS Lancashire North ,2016,Prescription items,Disulfiram,97
+E38000200,02G,NHS West Lancashire,2016,Prescription items,Disulfiram,23
+E39000027,Q74,NHS England North (Cumbria and North East),2016,Prescription items,Disulfiram,3109
+E38000041,01H,NHS Cumbria ,2016,Prescription items,Disulfiram,1168
+E38000042,00C,NHS Darlington ,2016,Prescription items,Disulfiram,135
+E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",2016,Prescription items,Disulfiram,348
+E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,2016,Prescription items,Disulfiram,50
+E38000212,13T,NHS Newcastle Gateshead,2016,Prescription items,Disulfiram,281
+E38000116,00J,NHS North Durham ,2016,Prescription items,Disulfiram,268
+E38000127,99C,NHS North Tyneside ,2016,Prescription items,Disulfiram,32
+E38000130,00L,NHS Northumberland ,2016,Prescription items,Disulfiram,282
+E38000162,00M,NHS South Tees ,2016,Prescription items,Disulfiram,219
+E38000163,00N,NHS South Tyneside ,2016,Prescription items,Disulfiram,32
+E38000176,00P,NHS Sunderland ,2016,Prescription items,Disulfiram,294
+E39000026,Q75,NHS England North (Cheshire and Merseyside),2016,Prescription items,Disulfiram,840
+E38000056,01C,NHS Eastern Cheshire ,2016,Prescription items,Disulfiram,54
+E38000068,01F,NHS Halton ,2016,Prescription items,Disulfiram,65
+E38000091,01J,NHS Knowsley ,2016,Prescription items,Disulfiram,40
+E38000101,99A,NHS Liverpool ,2016,Prescription items,Disulfiram,150
+E38000151,01R,NHS South Cheshire ,2016,Prescription items,Disulfiram,6
+E38000161,01T,NHS South Sefton ,2016,Prescription items,Disulfiram,29
+E38000170,01V,NHS Southport and Formby ,2016,Prescription items,Disulfiram,14
+E38000172,01X,NHS St Helens ,2016,Prescription items,Disulfiram,232
+E38000189,02D,NHS Vale Royal ,2016,Prescription items,Disulfiram,2
+E38000194,02E,NHS Warrington,2016,Prescription items,Disulfiram,131
+E38000196,02F,NHS West Cheshire ,2016,Prescription items,Disulfiram,45
+E38000208,12F,NHS Wirral,2016,Prescription items,Disulfiram,72
+E40000002,Y55,Midlands and East of England,2016,Prescription items,Disulfiram,12877
+E39000032,Q76,NHS England Midlands and East (North Midlands),2016,Prescription items,Disulfiram,3951
+E38000028,04Y,NHS Cannock Chase,2016,Prescription items,Disulfiram,73
+E38000053,05D,NHS East Staffordshire ,2016,Prescription items,Disulfiram,83
+E38000058,03X,NHS Erewash ,2016,Prescription items,Disulfiram,46
+E38000071,03Y,NHS Hardwick ,2016,Prescription items,Disulfiram,203
+E38000103,04E,NHS Mansfield & Ashfield ,2016,Prescription items,Disulfiram,138
+E38000109,04H,NHS Newark & Sherwood ,2016,Prescription items,Disulfiram,66
+E38000115,04J,NHS North Derbyshire ,2016,Prescription items,Disulfiram,1049
+E38000126,05G,NHS North Staffordshire ,2016,Prescription items,Disulfiram,23
+E38000132,04K,NHS Nottingham City ,2016,Prescription items,Disulfiram,827
+E38000133,04L,NHS Nottingham North & East ,2016,Prescription items,Disulfiram,125
+E38000134,04M,NHS Nottingham West ,2016,Prescription items,Disulfiram,49
+E38000142,04N,NHS Rushcliffe ,2016,Prescription items,Disulfiram,43
+E38000147,05N,NHS Shropshire ,2016,Prescription items,Disulfiram,455
+E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,2016,Prescription items,Disulfiram,80
+E38000169,04R,NHS Southern Derbyshire ,2016,Prescription items,Disulfiram,209
+E38000173,05V,NHS Stafford and Surrounds,2016,Prescription items,Disulfiram,186
+E38000175,05W,NHS Stoke on Trent ,2016,Prescription items,Disulfiram,14
+E38000183,05X,NHS Telford & Wrekin ,2016,Prescription items,Disulfiram,282
+E39000033,Q77,NHS England Midlands and East (West Midlands),2016,Prescription items,Disulfiram,3101
+E38000012,13P,NHS Birmingham CrossCity ,2016,Prescription items,Disulfiram,141
+E38000013,04X,NHS Birmingham South and Central ,2016,Prescription items,Disulfiram,34
+E38000038,05A,NHS Coventry and Rugby ,2016,Prescription items,Disulfiram,175
+E38000046,05C,NHS Dudley ,2016,Prescription items,Disulfiram,501
+E38000078,05F,NHS Herefordshire,2016,Prescription items,Disulfiram,190
+E38000139,05J,NHS Redditch and Bromsgrove ,2016,Prescription items,Disulfiram,27
+E38000144,05L,NHS Sandwell and West Birmingham ,2016,Prescription items,Disulfiram,189
+E38000149,05P,NHS Solihull ,2016,Prescription items,Disulfiram,1092
+E38000164,05R,NHS South Warwickshire ,2016,Prescription items,Disulfiram,227
+E38000166,05T,NHS South Worcestershire ,2016,Prescription items,Disulfiram,136
+E38000191,05Y,NHS Walsall ,2016,Prescription items,Disulfiram,267
+E38000195,05H,NHS Warwickshire North ,2016,Prescription items,Disulfiram,89
+E38000210,06A,NHS Wolverhampton ,2016,Prescription items,Disulfiram,26
+E38000211,06D,NHS Wyre Forest ,2016,Prescription items,Disulfiram,7
+E39000030,Q78,NHS England Midlands and East (Central Midlands),2016,Prescription items,Disulfiram,2139
+E38000010,06F,NHS Bedfordshire ,2016,Prescription items,Disulfiram,273
+E38000037,03V,NHS Corby ,2016,Prescription items,Disulfiram,4
+E38000049,06K,NHS East and North Hertfordshire ,2016,Prescription items,Disulfiram,226
+E38000051,03W,NHS East Leicestershire and Rutland ,2016,Prescription items,Disulfiram,169
+E38000079,06N,NHS Herts Valleys ,2016,Prescription items,Disulfiram,189
+E38000097,04C,NHS Leicester City ,2016,Prescription items,Disulfiram,90
+E38000099,03T,NHS Lincolnshire East,2016,Prescription items,Disulfiram,90
+E38000100,04D,NHS Lincolnshire West,2016,Prescription items,Disulfiram,137
+E38000102,06P,NHS Luton ,2016,Prescription items,Disulfiram,115
+E38000107,04F,NHS Milton Keynes ,2016,Prescription items,Disulfiram,23
+E38000108,04G,NHS Nene ,2016,Prescription items,Disulfiram,444
+E38000157,99D,NHS South Lincolnshire ,2016,Prescription items,Disulfiram,51
+E38000165,04Q,NHS South West Lincolnshire,2016,Prescription items,Disulfiram,157
+E38000201,04V,NHS West Leicestershire ,2016,Prescription items,Disulfiram,171
+E39000031,Q79,NHS England Midlands and East (East),2016,Prescription items,Disulfiram,3686
+E38000007,99E,NHS Basildon and Brentwood,2016,Prescription items,Disulfiram,182
+E38000026,06H,NHS Cambridgeshire and Peterborough,2016,Prescription items,Disulfiram,929
+E38000030,99F,NHS Castle Point and Rochford,2016,Prescription items,Disulfiram,134
+E38000063,06M,NHS Great Yarmouth & Waveney ,2016,Prescription items,Disulfiram,379
+E38000086,06L,NHS Ipswich and East Suffolk,2016,Prescription items,Disulfiram,101
+E38000106,06Q,NHS Mid Essex ,2016,Prescription items,Disulfiram,131
+E38000117,06T,NHS North East Essex ,2016,Prescription items,Disulfiram,49
+E38000124,06V,NHS North Norfolk ,2016,Prescription items,Disulfiram,160
+E38000131,06W,NHS Norwich ,2016,Prescription items,Disulfiram,759
+E38000159,06Y,NHS South Norfolk ,2016,Prescription items,Disulfiram,116
+E38000168,99G,NHS Southend,2016,Prescription items,Disulfiram,140
+E38000185,07G,NHS Thurrock ,2016,Prescription items,Disulfiram,3
+E38000197,07H,NHS West Essex,2016,Prescription items,Disulfiram,98
+E38000203,07J,NHS West Norfolk ,2016,Prescription items,Disulfiram,245
+E38000204,07K,NHS West Suffolk,2016,Prescription items,Disulfiram,260
+E40000003,Y56,London,2016,Prescription items,Disulfiram,2480
+E39000018,Q71,NHS England London,2016,Prescription items,Disulfiram,2480
+E38000004,07L,NHS Barking & Dagenham ,2016,Prescription items,Disulfiram,53
+E38000005,07M,NHS Barnet ,2016,Prescription items,Disulfiram,68
+E38000011,07N,NHS Bexley ,2016,Prescription items,Disulfiram,20
+E38000020,07P,NHS Brent ,2016,Prescription items,Disulfiram,32
+E38000023,07Q,NHS Bromley ,2016,Prescription items,Disulfiram,94
+E38000027,07R,NHS Camden ,2016,Prescription items,Disulfiram,95
+E38000031,09A,NHS Central London (Westminster) ,2016,Prescription items,Disulfiram,419
+E38000035,07T,NHS City and Hackney ,2016,Prescription items,Disulfiram,18
+E38000040,07V,NHS Croydon ,2016,Prescription items,Disulfiram,14
+E38000048,07W,NHS Ealing ,2016,Prescription items,Disulfiram,172
+E38000057,07X,NHS Enfield ,2016,Prescription items,Disulfiram,37
+E38000066,08A,NHS Greenwich ,2016,Prescription items,Disulfiram,29
+E38000070,08C,NHS Hammersmith and Fulham ,2016,Prescription items,Disulfiram,101
+E38000072,08D,NHS Haringey ,2016,Prescription items,Disulfiram,86
+E38000074,08E,NHS Harrow ,2016,Prescription items,Disulfiram,57
+E38000077,08F,NHS Havering ,2016,Prescription items,Disulfiram,52
+E38000082,08G,NHS Hillingdon ,2016,Prescription items,Disulfiram,47
+E38000084,07Y,NHS Hounslow ,2016,Prescription items,Disulfiram,95
+E38000088,08H,NHS Islington ,2016,Prescription items,Disulfiram,365
+E38000090,08J,NHS Kingston ,2016,Prescription items,Disulfiram,23
+E38000092,08K,NHS Lambeth ,2016,Prescription items,Disulfiram,64
+E38000098,08L,NHS Lewisham ,2016,Prescription items,Disulfiram,9
+E38000105,08R,NHS Merton ,2016,Prescription items,Disulfiram,20
+E38000113,08M,NHS Newham ,2016,Prescription items,Disulfiram,34
+E38000138,08N,NHS Redbridge ,2016,Prescription items,Disulfiram,30
+E38000140,08P,NHS Richmond ,2016,Prescription items,Disulfiram,37
+E38000171,08Q,NHS Southwark ,2016,Prescription items,Disulfiram,100
+E38000179,08T,NHS Sutton ,2016,Prescription items,Disulfiram,49
+E38000186,08V,NHS Tower Hamlets ,2016,Prescription items,Disulfiram,35
+E38000192,08W,NHS Waltham Forest,2016,Prescription items,Disulfiram,23
+E38000193,08X,NHS Wandsworth ,2016,Prescription items,Disulfiram,58
+E38000202,08Y,NHS West London,2016,Prescription items,Disulfiram,144
+E40000004,Y57,South of England,2016,Prescription items,Disulfiram,7653
+E39000036,Q80,NHS England South (South West),2016,Prescription items,Disulfiram,2082
+E38000022,11H,NHS Bristol ,2016,Prescription items,Disulfiram,503
+E38000089,11N,NHS Kernow ,2016,Prescription items,Disulfiram,449
+E38000125,11T,NHS North Somerset ,2016,Prescription items,Disulfiram,320
+E38000129,99P,"NHS North, East, West Devon ",2016,Prescription items,Disulfiram,225
+E38000150,11X,NHS Somerset ,2016,Prescription items,Disulfiram,276
+E38000152,99Q,NHS South Devon and Torbay ,2016,Prescription items,Disulfiram,243
+E38000155,12A,NHS South Gloucestershire ,2016,Prescription items,Disulfiram,66
+E39000035,Q81,NHS England South (South East),2016,Prescription items,Disulfiram,1669
+E38000002,09C,NHS Ashford ,2016,Prescription items,Disulfiram,16
+E38000021,09D,NHS Brighton & Hove ,2016,Prescription items,Disulfiram,235
+E38000029,09E,NHS Canterbury and Coastal ,2016,Prescription items,Disulfiram,145
+E38000213,09G,NHS Coastal West Sussex ,2016,Prescription items,Disulfiram,232
+E38000039,09H,NHS Crawley ,2016,Prescription items,Disulfiram,15
+E38000043,09J,"NHS Dartford, Gravesham and Swanley ",2016,Prescription items,Disulfiram,123
+E38000054,09L,NHS East Surrey ,2016,Prescription items,Disulfiram,22
+E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",2016,Prescription items,Disulfiram,54
+E38000214,09N,NHS Guildford and Waverley,2016,Prescription items,Disulfiram,28
+E38000076,09P,NHS Hastings & Rother ,2016,Prescription items,Disulfiram,111
+E38000081,99K,NHS High Weald Lewes Havens ,2016,Prescription items,Disulfiram,60
+E38000083,09X,NHS Horsham and Mid Sussex ,2016,Prescription items,Disulfiram,26
+E38000104,09W,NHS Medway ,2016,Prescription items,Disulfiram,68
+E38000128,09Y,NHS North West Surrey ,2016,Prescription items,Disulfiram,29
+E38000156,10A,NHS South Kent Coast ,2016,Prescription items,Disulfiram,138
+E38000177,99H,NHS Surrey Downs ,2016,Prescription items,Disulfiram,20
+E38000178,10C,NHS Surrey Heath ,2016,Prescription items,Disulfiram,35
+E38000180,10D,NHS Swale ,2016,Prescription items,Disulfiram,23
+E38000184,10E,NHS Thanet ,2016,Prescription items,Disulfiram,123
+E38000199,99J,NHS West Kent ,2016,Prescription items,Disulfiram,166
+E39000034,Q82,NHS England South (South Central),2016,Prescription items,Disulfiram,2782
+E38000003,10Y,NHS Aylesbury Vale ,2016,Prescription items,Disulfiram,143
+E38000009,11E,NHS Bath and North East Somerset ,2016,Prescription items,Disulfiram,149
+E38000017,10G,NHS Bracknell and Ascot ,2016,Prescription items,Disulfiram,84
+E38000033,10H,NHS Chiltern ,2016,Prescription items,Disulfiram,174
+E38000062,11M,NHS Gloucestershire ,2016,Prescription items,Disulfiram,1033
+E38000110,10M,NHS Newbury and District ,2016,Prescription items,Disulfiram,25
+E38000114,10N,NHS North & West Reading ,2016,Prescription items,Disulfiram,43
+E38000136,10Q,NHS Oxfordshire ,2016,Prescription items,Disulfiram,715
+E38000148,10T,NHS Slough ,2016,Prescription items,Disulfiram,21
+E38000160,10W,NHS South Reading ,2016,Prescription items,Disulfiram,36
+E38000181,12D,NHS Swindon ,2016,Prescription items,Disulfiram,4
+E38000206,99N,NHS Wiltshire ,2016,Prescription items,Disulfiram,152
+E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",2016,Prescription items,Disulfiram,112
+E38000209,11D,NHS Wokingham ,2016,Prescription items,Disulfiram,91
+E39000025,Q70,NHS England South (Wessex),2016,Prescription items,Disulfiram,1120
+E38000045,11J,NHS Dorset ,2016,Prescription items,Disulfiram,691
+E38000059,10K,NHS Fareham and Gosport ,2016,Prescription items,Disulfiram,29
+E38000087,10L,NHS Isle of Wight ,2016,Prescription items,Disulfiram,42
+E38000118,99M,NHS North East Hampshire and Farnham ,2016,Prescription items,Disulfiram,26
+E38000120,10J,NHS North Hampshire ,2016,Prescription items,Disulfiram,15
+E38000137,10R,NHS Portsmouth ,2016,Prescription items,Disulfiram,14
+E38000154,10V,NHS South Eastern Hampshire ,2016,Prescription items,Disulfiram,28
+E38000167,10X,NHS Southampton ,2016,Prescription items,Disulfiram,143
+E38000198,11A,NHS West Hampshire ,2016,Prescription items,Disulfiram,132
+E92000001,921,England,2016,Prescription items,Nalmefene,3113
+XXXXXXXX,XXX,Unknown,2016,Prescription items,Nalmefene,567
+E40000001,Y54,North of England,2016,Prescription items,Nalmefene,731
+E39000029,Q72,NHS England North (Yorkshire and Humber),2016,Prescription items,Nalmefene,128
+E38000001,02N,"NHS Airedale, Wharfedale and Craven ",2016,Prescription items,Nalmefene,0
+E38000006,02P,NHS Barnsley ,2016,Prescription items,Nalmefene,30
+E38000008,02Q,NHS Bassetlaw ,2016,Prescription items,Nalmefene,0
+E38000018,02W,NHS Bradford City ,2016,Prescription items,Nalmefene,0
+E38000019,02R,NHS Bradford Districts ,2016,Prescription items,Nalmefene,6
+E38000025,02T,NHS Calderdale ,2016,Prescription items,Nalmefene,3
+E38000044,02X,NHS Doncaster ,2016,Prescription items,Nalmefene,2
+E38000052,02Y,NHS East Riding of Yorkshire ,2016,Prescription items,Nalmefene,0
+E38000064,03A,NHS Greater Huddersfield ,2016,Prescription items,Nalmefene,26
+E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",2016,Prescription items,Nalmefene,2
+E38000073,03E,NHS Harrogate and Rural District ,2016,Prescription items,Nalmefene,0
+E38000085,03F,NHS Hull ,2016,Prescription items,Nalmefene,0
+E38000094,02V,NHS Leeds North ,2016,Prescription items,Nalmefene,0
+E38000095,03G,NHS Leeds South and East ,2016,Prescription items,Nalmefene,0
+E38000096,03C,NHS Leeds West ,2016,Prescription items,Nalmefene,1
+E38000119,03H,NHS North East Lincolnshire ,2016,Prescription items,Nalmefene,0
+E38000121,03J,NHS North Kirklees ,2016,Prescription items,Nalmefene,14
+E38000122,03K,NHS North Lincolnshire ,2016,Prescription items,Nalmefene,14
+E38000141,03L,NHS Rotherham ,2016,Prescription items,Nalmefene,3
+E38000145,03M,NHS Scarborough and Ryedale ,2016,Prescription items,Nalmefene,3
+E38000146,03N,NHS Sheffield ,2016,Prescription items,Nalmefene,23
+E38000188,03Q,NHS Vale of York ,2016,Prescription items,Nalmefene,1
+E38000190,03R,NHS Wakefield ,2016,Prescription items,Nalmefene,0
+E39000037,Q83,NHS England North (Greater Manchester),2016,Prescription items,Nalmefene,239
+E38000016,00T,NHS Bolton ,2016,Prescription items,Nalmefene,2
+E38000024,00V,NHS Bury ,2016,Prescription items,Nalmefene,4
+E38000032,00W,NHS Central Manchester,2016,Prescription items,Nalmefene,15
+E38000080,01D,"NHS Heywood, Middleton and Rochdale ",2016,Prescription items,Nalmefene,8
+E38000123,01M,NHS North Manchester ,2016,Prescription items,Nalmefene,22
+E38000135,00Y,NHS Oldham,2016,Prescription items,Nalmefene,40
+E38000143,01G,NHS Salford ,2016,Prescription items,Nalmefene,26
+E38000158,01N,NHS South Manchester ,2016,Prescription items,Nalmefene,3
+E38000174,01W,NHS Stockport,2016,Prescription items,Nalmefene,39
+E38000182,01Y,NHS Tameside and Glossop,2016,Prescription items,Nalmefene,71
+E38000187,02A,NHS Trafford,2016,Prescription items,Nalmefene,4
+E38000205,02H,NHS Wigan Borough,2016,Prescription items,Nalmefene,5
+E39000038,Q84,NHS England North (Lancashire),2016,Prescription items,Nalmefene,39
+E38000014,00Q,NHS Blackburn with Darwen ,2016,Prescription items,Nalmefene,1
+E38000015,00R,NHS Blackpool,2016,Prescription items,Nalmefene,10
+E38000034,00X,NHS Chorley and South Ribble,2016,Prescription items,Nalmefene,3
+E38000050,01A,NHS East Lancashire ,2016,Prescription items,Nalmefene,6
+E38000060,02M,NHS Fylde & Wyre,2016,Prescription items,Nalmefene,1
+E38000065,01E,NHS Greater Preston ,2016,Prescription items,Nalmefene,7
+E38000093,01K,NHS Lancashire North ,2016,Prescription items,Nalmefene,4
+E38000200,02G,NHS West Lancashire,2016,Prescription items,Nalmefene,7
+E39000027,Q74,NHS England North (Cumbria and North East),2016,Prescription items,Nalmefene,138
+E38000041,01H,NHS Cumbria ,2016,Prescription items,Nalmefene,8
+E38000042,00C,NHS Darlington ,2016,Prescription items,Nalmefene,0
+E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",2016,Prescription items,Nalmefene,1
+E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,2016,Prescription items,Nalmefene,0
+E38000212,13T,NHS Newcastle Gateshead,2016,Prescription items,Nalmefene,14
+E38000116,00J,NHS North Durham ,2016,Prescription items,Nalmefene,12
+E38000127,99C,NHS North Tyneside ,2016,Prescription items,Nalmefene,2
+E38000130,00L,NHS Northumberland ,2016,Prescription items,Nalmefene,92
+E38000162,00M,NHS South Tees ,2016,Prescription items,Nalmefene,1
+E38000163,00N,NHS South Tyneside ,2016,Prescription items,Nalmefene,2
+E38000176,00P,NHS Sunderland ,2016,Prescription items,Nalmefene,6
+E39000026,Q75,NHS England North (Cheshire and Merseyside),2016,Prescription items,Nalmefene,187
+E38000056,01C,NHS Eastern Cheshire ,2016,Prescription items,Nalmefene,4
+E38000068,01F,NHS Halton ,2016,Prescription items,Nalmefene,3
+E38000091,01J,NHS Knowsley ,2016,Prescription items,Nalmefene,0
+E38000101,99A,NHS Liverpool ,2016,Prescription items,Nalmefene,2
+E38000151,01R,NHS South Cheshire ,2016,Prescription items,Nalmefene,0
+E38000161,01T,NHS South Sefton ,2016,Prescription items,Nalmefene,44
+E38000170,01V,NHS Southport and Formby ,2016,Prescription items,Nalmefene,50
+E38000172,01X,NHS St Helens ,2016,Prescription items,Nalmefene,75
+E38000189,02D,NHS Vale Royal ,2016,Prescription items,Nalmefene,3
+E38000194,02E,NHS Warrington,2016,Prescription items,Nalmefene,2
+E38000196,02F,NHS West Cheshire ,2016,Prescription items,Nalmefene,1
+E38000208,12F,NHS Wirral,2016,Prescription items,Nalmefene,3
+E40000002,Y55,Midlands and East of England,2016,Prescription items,Nalmefene,732
+E39000032,Q76,NHS England Midlands and East (North Midlands),2016,Prescription items,Nalmefene,32
+E38000028,04Y,NHS Cannock Chase,2016,Prescription items,Nalmefene,2
+E38000053,05D,NHS East Staffordshire ,2016,Prescription items,Nalmefene,0
+E38000058,03X,NHS Erewash ,2016,Prescription items,Nalmefene,0
+E38000071,03Y,NHS Hardwick ,2016,Prescription items,Nalmefene,0
+E38000103,04E,NHS Mansfield & Ashfield ,2016,Prescription items,Nalmefene,0
+E38000109,04H,NHS Newark & Sherwood ,2016,Prescription items,Nalmefene,0
+E38000115,04J,NHS North Derbyshire ,2016,Prescription items,Nalmefene,0
+E38000126,05G,NHS North Staffordshire ,2016,Prescription items,Nalmefene,1
+E38000132,04K,NHS Nottingham City ,2016,Prescription items,Nalmefene,5
+E38000133,04L,NHS Nottingham North & East ,2016,Prescription items,Nalmefene,0
+E38000134,04M,NHS Nottingham West ,2016,Prescription items,Nalmefene,0
+E38000142,04N,NHS Rushcliffe ,2016,Prescription items,Nalmefene,0
+E38000147,05N,NHS Shropshire ,2016,Prescription items,Nalmefene,16
+E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,2016,Prescription items,Nalmefene,5
+E38000169,04R,NHS Southern Derbyshire ,2016,Prescription items,Nalmefene,1
+E38000173,05V,NHS Stafford and Surrounds,2016,Prescription items,Nalmefene,0
+E38000175,05W,NHS Stoke on Trent ,2016,Prescription items,Nalmefene,0
+E38000183,05X,NHS Telford & Wrekin ,2016,Prescription items,Nalmefene,2
+E39000033,Q77,NHS England Midlands and East (West Midlands),2016,Prescription items,Nalmefene,233
+E38000012,13P,NHS Birmingham CrossCity ,2016,Prescription items,Nalmefene,38
+E38000013,04X,NHS Birmingham South and Central ,2016,Prescription items,Nalmefene,2
+E38000038,05A,NHS Coventry and Rugby ,2016,Prescription items,Nalmefene,22
+E38000046,05C,NHS Dudley ,2016,Prescription items,Nalmefene,29
+E38000078,05F,NHS Herefordshire,2016,Prescription items,Nalmefene,9
+E38000139,05J,NHS Redditch and Bromsgrove ,2016,Prescription items,Nalmefene,6
+E38000144,05L,NHS Sandwell and West Birmingham ,2016,Prescription items,Nalmefene,15
+E38000149,05P,NHS Solihull ,2016,Prescription items,Nalmefene,7
+E38000164,05R,NHS South Warwickshire ,2016,Prescription items,Nalmefene,32
+E38000166,05T,NHS South Worcestershire ,2016,Prescription items,Nalmefene,21
+E38000191,05Y,NHS Walsall ,2016,Prescription items,Nalmefene,40
+E38000195,05H,NHS Warwickshire North ,2016,Prescription items,Nalmefene,5
+E38000210,06A,NHS Wolverhampton ,2016,Prescription items,Nalmefene,5
+E38000211,06D,NHS Wyre Forest ,2016,Prescription items,Nalmefene,2
+E39000030,Q78,NHS England Midlands and East (Central Midlands),2016,Prescription items,Nalmefene,240
+E38000010,06F,NHS Bedfordshire ,2016,Prescription items,Nalmefene,23
+E38000037,03V,NHS Corby ,2016,Prescription items,Nalmefene,0
+E38000049,06K,NHS East and North Hertfordshire ,2016,Prescription items,Nalmefene,13
+E38000051,03W,NHS East Leicestershire and Rutland ,2016,Prescription items,Nalmefene,85
+E38000079,06N,NHS Herts Valleys ,2016,Prescription items,Nalmefene,6
+E38000097,04C,NHS Leicester City ,2016,Prescription items,Nalmefene,8
+E38000099,03T,NHS Lincolnshire East,2016,Prescription items,Nalmefene,0
+E38000100,04D,NHS Lincolnshire West,2016,Prescription items,Nalmefene,0
+E38000102,06P,NHS Luton ,2016,Prescription items,Nalmefene,6
+E38000107,04F,NHS Milton Keynes ,2016,Prescription items,Nalmefene,2
+E38000108,04G,NHS Nene ,2016,Prescription items,Nalmefene,0
+E38000157,99D,NHS South Lincolnshire ,2016,Prescription items,Nalmefene,2
+E38000165,04Q,NHS South West Lincolnshire,2016,Prescription items,Nalmefene,29
+E38000201,04V,NHS West Leicestershire ,2016,Prescription items,Nalmefene,66
+E39000031,Q79,NHS England Midlands and East (East),2016,Prescription items,Nalmefene,227
+E38000007,99E,NHS Basildon and Brentwood,2016,Prescription items,Nalmefene,2
+E38000026,06H,NHS Cambridgeshire and Peterborough,2016,Prescription items,Nalmefene,48
+E38000030,99F,NHS Castle Point and Rochford,2016,Prescription items,Nalmefene,3
+E38000063,06M,NHS Great Yarmouth & Waveney ,2016,Prescription items,Nalmefene,0
+E38000086,06L,NHS Ipswich and East Suffolk,2016,Prescription items,Nalmefene,0
+E38000106,06Q,NHS Mid Essex ,2016,Prescription items,Nalmefene,99
+E38000117,06T,NHS North East Essex ,2016,Prescription items,Nalmefene,28
+E38000124,06V,NHS North Norfolk ,2016,Prescription items,Nalmefene,2
+E38000131,06W,NHS Norwich ,2016,Prescription items,Nalmefene,1
+E38000159,06Y,NHS South Norfolk ,2016,Prescription items,Nalmefene,2
+E38000168,99G,NHS Southend,2016,Prescription items,Nalmefene,18
+E38000185,07G,NHS Thurrock ,2016,Prescription items,Nalmefene,1
+E38000197,07H,NHS West Essex,2016,Prescription items,Nalmefene,19
+E38000203,07J,NHS West Norfolk ,2016,Prescription items,Nalmefene,3
+E38000204,07K,NHS West Suffolk,2016,Prescription items,Nalmefene,1
+E40000003,Y56,London,2016,Prescription items,Nalmefene,509
+E39000018,Q71,NHS England London,2016,Prescription items,Nalmefene,509
+E38000004,07L,NHS Barking & Dagenham ,2016,Prescription items,Nalmefene,56
+E38000005,07M,NHS Barnet ,2016,Prescription items,Nalmefene,42
+E38000011,07N,NHS Bexley ,2016,Prescription items,Nalmefene,14
+E38000020,07P,NHS Brent ,2016,Prescription items,Nalmefene,2
+E38000023,07Q,NHS Bromley ,2016,Prescription items,Nalmefene,11
+E38000027,07R,NHS Camden ,2016,Prescription items,Nalmefene,2
+E38000031,09A,NHS Central London (Westminster) ,2016,Prescription items,Nalmefene,11
+E38000035,07T,NHS City and Hackney ,2016,Prescription items,Nalmefene,1
+E38000040,07V,NHS Croydon ,2016,Prescription items,Nalmefene,0
+E38000048,07W,NHS Ealing ,2016,Prescription items,Nalmefene,12
+E38000057,07X,NHS Enfield ,2016,Prescription items,Nalmefene,11
+E38000066,08A,NHS Greenwich ,2016,Prescription items,Nalmefene,2
+E38000070,08C,NHS Hammersmith and Fulham ,2016,Prescription items,Nalmefene,17
+E38000072,08D,NHS Haringey ,2016,Prescription items,Nalmefene,37
+E38000074,08E,NHS Harrow ,2016,Prescription items,Nalmefene,19
+E38000077,08F,NHS Havering ,2016,Prescription items,Nalmefene,20
+E38000082,08G,NHS Hillingdon ,2016,Prescription items,Nalmefene,2
+E38000084,07Y,NHS Hounslow ,2016,Prescription items,Nalmefene,69
+E38000088,08H,NHS Islington ,2016,Prescription items,Nalmefene,27
+E38000090,08J,NHS Kingston ,2016,Prescription items,Nalmefene,1
+E38000092,08K,NHS Lambeth ,2016,Prescription items,Nalmefene,26
+E38000098,08L,NHS Lewisham ,2016,Prescription items,Nalmefene,10
+E38000105,08R,NHS Merton ,2016,Prescription items,Nalmefene,2
+E38000113,08M,NHS Newham ,2016,Prescription items,Nalmefene,6
+E38000138,08N,NHS Redbridge ,2016,Prescription items,Nalmefene,48
+E38000140,08P,NHS Richmond ,2016,Prescription items,Nalmefene,1
+E38000171,08Q,NHS Southwark ,2016,Prescription items,Nalmefene,1
+E38000179,08T,NHS Sutton ,2016,Prescription items,Nalmefene,12
+E38000186,08V,NHS Tower Hamlets ,2016,Prescription items,Nalmefene,21
+E38000192,08W,NHS Waltham Forest,2016,Prescription items,Nalmefene,10
+E38000193,08X,NHS Wandsworth ,2016,Prescription items,Nalmefene,7
+E38000202,08Y,NHS West London,2016,Prescription items,Nalmefene,9
+E40000004,Y57,South of England,2016,Prescription items,Nalmefene,574
+E39000036,Q80,NHS England South (South West),2016,Prescription items,Nalmefene,94
+E38000022,11H,NHS Bristol ,2016,Prescription items,Nalmefene,3
+E38000089,11N,NHS Kernow ,2016,Prescription items,Nalmefene,59
+E38000125,11T,NHS North Somerset ,2016,Prescription items,Nalmefene,0
+E38000129,99P,"NHS North, East, West Devon ",2016,Prescription items,Nalmefene,19
+E38000150,11X,NHS Somerset ,2016,Prescription items,Nalmefene,10
+E38000152,99Q,NHS South Devon and Torbay ,2016,Prescription items,Nalmefene,0
+E38000155,12A,NHS South Gloucestershire ,2016,Prescription items,Nalmefene,3
+E39000035,Q81,NHS England South (South East),2016,Prescription items,Nalmefene,108
+E38000002,09C,NHS Ashford ,2016,Prescription items,Nalmefene,3
+E38000021,09D,NHS Brighton & Hove ,2016,Prescription items,Nalmefene,5
+E38000029,09E,NHS Canterbury and Coastal ,2016,Prescription items,Nalmefene,0
+E38000213,09G,NHS Coastal West Sussex ,2016,Prescription items,Nalmefene,5
+E38000039,09H,NHS Crawley ,2016,Prescription items,Nalmefene,7
+E38000043,09J,"NHS Dartford, Gravesham and Swanley ",2016,Prescription items,Nalmefene,0
+E38000054,09L,NHS East Surrey ,2016,Prescription items,Nalmefene,6
+E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",2016,Prescription items,Nalmefene,11
+E38000214,09N,NHS Guildford and Waverley,2016,Prescription items,Nalmefene,1
+E38000076,09P,NHS Hastings & Rother ,2016,Prescription items,Nalmefene,12
+E38000081,99K,NHS High Weald Lewes Havens ,2016,Prescription items,Nalmefene,3
+E38000083,09X,NHS Horsham and Mid Sussex ,2016,Prescription items,Nalmefene,3
+E38000104,09W,NHS Medway ,2016,Prescription items,Nalmefene,3
+E38000128,09Y,NHS North West Surrey ,2016,Prescription items,Nalmefene,2
+E38000156,10A,NHS South Kent Coast ,2016,Prescription items,Nalmefene,4
+E38000177,99H,NHS Surrey Downs ,2016,Prescription items,Nalmefene,1
+E38000178,10C,NHS Surrey Heath ,2016,Prescription items,Nalmefene,12
+E38000180,10D,NHS Swale ,2016,Prescription items,Nalmefene,0
+E38000184,10E,NHS Thanet ,2016,Prescription items,Nalmefene,13
+E38000199,99J,NHS West Kent ,2016,Prescription items,Nalmefene,17
+E39000034,Q82,NHS England South (South Central),2016,Prescription items,Nalmefene,254
+E38000003,10Y,NHS Aylesbury Vale ,2016,Prescription items,Nalmefene,1
+E38000009,11E,NHS Bath and North East Somerset ,2016,Prescription items,Nalmefene,0
+E38000017,10G,NHS Bracknell and Ascot ,2016,Prescription items,Nalmefene,9
+E38000033,10H,NHS Chiltern ,2016,Prescription items,Nalmefene,4
+E38000062,11M,NHS Gloucestershire ,2016,Prescription items,Nalmefene,37
+E38000110,10M,NHS Newbury and District ,2016,Prescription items,Nalmefene,14
+E38000114,10N,NHS North & West Reading ,2016,Prescription items,Nalmefene,2
+E38000136,10Q,NHS Oxfordshire ,2016,Prescription items,Nalmefene,13
+E38000148,10T,NHS Slough ,2016,Prescription items,Nalmefene,7
+E38000160,10W,NHS South Reading ,2016,Prescription items,Nalmefene,3
+E38000181,12D,NHS Swindon ,2016,Prescription items,Nalmefene,57
+E38000206,99N,NHS Wiltshire ,2016,Prescription items,Nalmefene,101
+E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",2016,Prescription items,Nalmefene,0
+E38000209,11D,NHS Wokingham ,2016,Prescription items,Nalmefene,6
+E39000025,Q70,NHS England South (Wessex),2016,Prescription items,Nalmefene,118
+E38000045,11J,NHS Dorset ,2016,Prescription items,Nalmefene,37
+E38000059,10K,NHS Fareham and Gosport ,2016,Prescription items,Nalmefene,20
+E38000087,10L,NHS Isle of Wight ,2016,Prescription items,Nalmefene,5
+E38000118,99M,NHS North East Hampshire and Farnham ,2016,Prescription items,Nalmefene,14
+E38000120,10J,NHS North Hampshire ,2016,Prescription items,Nalmefene,4
+E38000137,10R,NHS Portsmouth ,2016,Prescription items,Nalmefene,7
+E38000154,10V,NHS South Eastern Hampshire ,2016,Prescription items,Nalmefene,8
+E38000167,10X,NHS Southampton ,2016,Prescription items,Nalmefene,2
+E38000198,11A,NHS West Hampshire ,2016,Prescription items,Nalmefene,21
+E92000001,921,England,2016,Prescription items per 100000 population,Total,334.797038
+XXXXXXXX,XXX,Unknown,2016,Prescription items per 100000 population,Total,..
+E40000001,Y54,North of England,2016,Prescription items per 100000 population,Total,487.5807391
+E39000029,Q72,NHS England North (Yorkshire and Humber),2016,Prescription items per 100000 population,Total,380.0108855
+E38000001,02N,"NHS Airedale, Wharfedale and Craven ",2016,Prescription items per 100000 population,Total,269.2846068
+E38000006,02P,NHS Barnsley ,2016,Prescription items per 100000 population,Total,825.2583372
+E38000008,02Q,NHS Bassetlaw ,2016,Prescription items per 100000 population,Total,178.1146045
+E38000018,02W,NHS Bradford City ,2016,Prescription items per 100000 population,Total,163.3227233
+E38000019,02R,NHS Bradford Districts ,2016,Prescription items per 100000 population,Total,86.46036592
+E38000025,02T,NHS Calderdale ,2016,Prescription items per 100000 population,Total,216.8885135
+E38000044,02X,NHS Doncaster ,2016,Prescription items per 100000 population,Total,96.78064912
+E38000052,02Y,NHS East Riding of Yorkshire ,2016,Prescription items per 100000 population,Total,265.6603103
+E38000064,03A,NHS Greater Huddersfield ,2016,Prescription items per 100000 population,Total,231.7340268
+E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",2016,Prescription items per 100000 population,Total,178.4949778
+E38000073,03E,NHS Harrogate and Rural District ,2016,Prescription items per 100000 population,Total,319.075763
+E38000085,03F,NHS Hull ,2016,Prescription items per 100000 population,Total,111.9712736
+E38000094,02V,NHS Leeds North ,2016,Prescription items per 100000 population,Total,283.4272279
+E38000095,03G,NHS Leeds South and East ,2016,Prescription items per 100000 population,Total,422.5848574
+E38000096,03C,NHS Leeds West ,2016,Prescription items per 100000 population,Total,391.1645023
+E38000119,03H,NHS North East Lincolnshire ,2016,Prescription items per 100000 population,Total,105.9096321
+E38000121,03J,NHS North Kirklees ,2016,Prescription items per 100000 population,Total,279.2548305
+E38000122,03K,NHS North Lincolnshire ,2016,Prescription items per 100000 population,Total,239.6655282
+E38000141,03L,NHS Rotherham ,2016,Prescription items per 100000 population,Total,1047.985705
+E38000145,03M,NHS Scarborough and Ryedale ,2016,Prescription items per 100000 population,Total,428.1533403
+E38000146,03N,NHS Sheffield ,2016,Prescription items per 100000 population,Total,964.3045826
+E38000188,03Q,NHS Vale of York ,2016,Prescription items per 100000 population,Total,143.4986663
+E38000190,03R,NHS Wakefield ,2016,Prescription items per 100000 population,Total,431.4490396
+E39000037,Q83,NHS England North (Greater Manchester),2016,Prescription items per 100000 population,Total,833.602513
+E38000016,00T,NHS Bolton ,2016,Prescription items per 100000 population,Total,393.0842734
+E38000024,00V,NHS Bury ,2016,Prescription items per 100000 population,Total,528.517596
+E38000032,00W,NHS Central Manchester,2016,Prescription items per 100000 population,Total,575.5403302
+E38000080,01D,"NHS Heywood, Middleton and Rochdale ",2016,Prescription items per 100000 population,Total,791.8018628
+E38000123,01M,NHS North Manchester ,2016,Prescription items per 100000 population,Total,1226.678008
+E38000135,00Y,NHS Oldham,2016,Prescription items per 100000 population,Total,445.7961295
+E38000143,01G,NHS Salford ,2016,Prescription items per 100000 population,Total,1533.707362
+E38000158,01N,NHS South Manchester ,2016,Prescription items per 100000 population,Total,1434.874518
+E38000174,01W,NHS Stockport,2016,Prescription items per 100000 population,Total,743.939903
+E38000182,01Y,NHS Tameside and Glossop,2016,Prescription items per 100000 population,Total,729.3943163
+E38000187,02A,NHS Trafford,2016,Prescription items per 100000 population,Total,814.0152944
+E38000205,02H,NHS Wigan Borough,2016,Prescription items per 100000 population,Total,975.0886585
+E39000038,Q84,NHS England North (Lancashire),2016,Prescription items per 100000 population,Total,326.6998847
+E38000014,00Q,NHS Blackburn with Darwen ,2016,Prescription items per 100000 population,Total,593.8193754
+E38000015,00R,NHS Blackpool,2016,Prescription items per 100000 population,Total,754.4168852
+E38000034,00X,NHS Chorley and South Ribble,2016,Prescription items per 100000 population,Total,219.0885222
+E38000050,01A,NHS East Lancashire ,2016,Prescription items per 100000 population,Total,325.7416033
+E38000060,02M,NHS Fylde & Wyre,2016,Prescription items per 100000 population,Total,261.4745018
+E38000065,01E,NHS Greater Preston ,2016,Prescription items per 100000 population,Total,174.5192094
+E38000093,01K,NHS Lancashire North ,2016,Prescription items per 100000 population,Total,255.1778813
+E38000200,02G,NHS West Lancashire,2016,Prescription items per 100000 population,Total,90.47205123
+E39000027,Q74,NHS England North (Cumbria and North East),2016,Prescription items per 100000 population,Total,540.5486607
+E38000041,01H,NHS Cumbria ,2016,Prescription items per 100000 population,Total,854.4753319
+E38000042,00C,NHS Darlington ,2016,Prescription items per 100000 population,Total,475.3816812
+E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",2016,Prescription items per 100000 population,Total,622.739103
+E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,2016,Prescription items per 100000 population,Total,148.2791268
+E38000212,13T,NHS Newcastle Gateshead,2016,Prescription items per 100000 population,Total,408.602107
+E38000116,00J,NHS North Durham ,2016,Prescription items per 100000 population,Total,474.8844326
+E38000127,99C,NHS North Tyneside ,2016,Prescription items per 100000 population,Total,965.9545468
+E38000130,00L,NHS Northumberland ,2016,Prescription items per 100000 population,Total,685.7766373
+E38000162,00M,NHS South Tees ,2016,Prescription items per 100000 population,Total,173.5908932
+E38000163,00N,NHS South Tyneside ,2016,Prescription items per 100000 population,Total,670.6082558
+E38000176,00P,NHS Sunderland ,2016,Prescription items per 100000 population,Total,431.1744543
+E39000026,Q75,NHS England North (Cheshire and Merseyside),2016,Prescription items per 100000 population,Total,364.0702141
+E38000056,01C,NHS Eastern Cheshire ,2016,Prescription items per 100000 population,Total,197.4303524
+E38000068,01F,NHS Halton ,2016,Prescription items per 100000 population,Total,291.6350531
+E38000091,01J,NHS Knowsley ,2016,Prescription items per 100000 population,Total,407.5228722
+E38000101,99A,NHS Liverpool ,2016,Prescription items per 100000 population,Total,639.6004848
+E38000151,01R,NHS South Cheshire ,2016,Prescription items per 100000 population,Total,172.7540575
+E38000161,01T,NHS South Sefton ,2016,Prescription items per 100000 population,Total,288.0681782
+E38000170,01V,NHS Southport and Formby ,2016,Prescription items per 100000 population,Total,358.9306821
+E38000172,01X,NHS St Helens ,2016,Prescription items per 100000 population,Total,742.0669775
+E38000189,02D,NHS Vale Royal ,2016,Prescription items per 100000 population,Total,160.2937748
+E38000194,02E,NHS Warrington,2016,Prescription items per 100000 population,Total,190.1827199
+E38000196,02F,NHS West Cheshire ,2016,Prescription items per 100000 population,Total,196.1200272
+E38000208,12F,NHS Wirral,2016,Prescription items per 100000 population,Total,299.47024
+E40000002,Y55,Midlands and East of England,2016,Prescription items per 100000 population,Total,267.8030597
+E39000032,Q76,NHS England Midlands and East (North Midlands),2016,Prescription items per 100000 population,Total,331.0709826
+E38000028,04Y,NHS Cannock Chase,2016,Prescription items per 100000 population,Total,304.767272
+E38000053,05D,NHS East Staffordshire ,2016,Prescription items per 100000 population,Total,210.7573745
+E38000058,03X,NHS Erewash ,2016,Prescription items per 100000 population,Total,125.6268364
+E38000071,03Y,NHS Hardwick ,2016,Prescription items per 100000 population,Total,216.3463714
+E38000103,04E,NHS Mansfield & Ashfield ,2016,Prescription items per 100000 population,Total,190.958254
+E38000109,04H,NHS Newark & Sherwood ,2016,Prescription items per 100000 population,Total,96.01374513
+E38000115,04J,NHS North Derbyshire ,2016,Prescription items per 100000 population,Total,551.4881018
+E38000126,05G,NHS North Staffordshire ,2016,Prescription items per 100000 population,Total,416.6762799
+E38000132,04K,NHS Nottingham City ,2016,Prescription items per 100000 population,Total,370.961521
+E38000133,04L,NHS Nottingham North & East ,2016,Prescription items per 100000 population,Total,150.5248299
+E38000134,04M,NHS Nottingham West ,2016,Prescription items per 100000 population,Total,106.0105298
+E38000142,04N,NHS Rushcliffe ,2016,Prescription items per 100000 population,Total,109.1951011
+E38000147,05N,NHS Shropshire ,2016,Prescription items per 100000 population,Total,609.2234569
+E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,2016,Prescription items per 100000 population,Total,225.9474894
+E38000169,04R,NHS Southern Derbyshire ,2016,Prescription items per 100000 population,Total,82.2906981
+E38000173,05V,NHS Stafford and Surrounds,2016,Prescription items per 100000 population,Total,382.3639553
+E38000175,05W,NHS Stoke on Trent ,2016,Prescription items per 100000 population,Total,680.3689693
+E38000183,05X,NHS Telford & Wrekin ,2016,Prescription items per 100000 population,Total,690.5859464
+E39000033,Q77,NHS England Midlands and East (West Midlands),2016,Prescription items per 100000 population,Total,261.2023202
+E38000012,13P,NHS Birmingham CrossCity ,2016,Prescription items per 100000 population,Total,218.9533705
+E38000013,04X,NHS Birmingham South and Central ,2016,Prescription items per 100000 population,Total,255.5901066
+E38000038,05A,NHS Coventry and Rugby ,2016,Prescription items per 100000 population,Total,155.0705393
+E38000046,05C,NHS Dudley ,2016,Prescription items per 100000 population,Total,436.3845493
+E38000078,05F,NHS Herefordshire,2016,Prescription items per 100000 population,Total,275.9185323
+E38000139,05J,NHS Redditch and Bromsgrove ,2016,Prescription items per 100000 population,Total,67.03192603
+E38000144,05L,NHS Sandwell and West Birmingham ,2016,Prescription items per 100000 population,Total,254.46597
+E38000149,05P,NHS Solihull ,2016,Prescription items per 100000 population,Total,668.1080567
+E38000164,05R,NHS South Warwickshire ,2016,Prescription items per 100000 population,Total,261.6148983
+E38000166,05T,NHS South Worcestershire ,2016,Prescription items per 100000 population,Total,143.0107275
+E38000191,05Y,NHS Walsall ,2016,Prescription items per 100000 population,Total,319.8174541
+E38000195,05H,NHS Warwickshire North ,2016,Prescription items per 100000 population,Total,206.233541
+E38000210,06A,NHS Wolverhampton ,2016,Prescription items per 100000 population,Total,332.5393269
+E38000211,06D,NHS Wyre Forest ,2016,Prescription items per 100000 population,Total,118.5893893
+E39000030,Q78,NHS England Midlands and East (Central Midlands),2016,Prescription items per 100000 population,Total,184.7427279
+E38000010,06F,NHS Bedfordshire ,2016,Prescription items per 100000 population,Total,236.2165379
+E38000037,03V,NHS Corby ,2016,Prescription items per 100000 population,Total,47.86549795
+E38000049,06K,NHS East and North Hertfordshire ,2016,Prescription items per 100000 population,Total,154.8904052
+E38000051,03W,NHS East Leicestershire and Rutland ,2016,Prescription items per 100000 population,Total,188.0950847
+E38000079,06N,NHS Herts Valleys ,2016,Prescription items per 100000 population,Total,151.4734233
+E38000097,04C,NHS Leicester City ,2016,Prescription items per 100000 population,Total,138.9265878
+E38000099,03T,NHS Lincolnshire East,2016,Prescription items per 100000 population,Total,108.1756669
+E38000100,04D,NHS Lincolnshire West,2016,Prescription items per 100000 population,Total,154.9044542
+E38000102,06P,NHS Luton ,2016,Prescription items per 100000 population,Total,235.2009687
+E38000107,04F,NHS Milton Keynes ,2016,Prescription items per 100000 population,Total,50.79346109
+E38000108,04G,NHS Nene ,2016,Prescription items per 100000 population,Total,349.6683775
+E38000157,99D,NHS South Lincolnshire ,2016,Prescription items per 100000 population,Total,52.74695164
+E38000165,04Q,NHS South West Lincolnshire,2016,Prescription items per 100000 population,Total,264.6460259
+E38000201,04V,NHS West Leicestershire ,2016,Prescription items per 100000 population,Total,161.3086389
+E39000031,Q79,NHS England Midlands and East (East),2016,Prescription items per 100000 population,Total,309.4205805
+E38000007,99E,NHS Basildon and Brentwood,2016,Prescription items per 100000 population,Total,238.1894498
+E38000026,06H,NHS Cambridgeshire and Peterborough,2016,Prescription items per 100000 population,Total,266.669101
+E38000030,99F,NHS Castle Point and Rochford,2016,Prescription items per 100000 population,Total,238.6456857
+E38000063,06M,NHS Great Yarmouth & Waveney ,2016,Prescription items per 100000 population,Total,531.0706589
+E38000086,06L,NHS Ipswich and East Suffolk,2016,Prescription items per 100000 population,Total,98.88473045
+E38000106,06Q,NHS Mid Essex ,2016,Prescription items per 100000 population,Total,215.6887653
+E38000117,06T,NHS North East Essex ,2016,Prescription items per 100000 population,Total,480.1274598
+E38000124,06V,NHS North Norfolk ,2016,Prescription items per 100000 population,Total,223.3634669
+E38000131,06W,NHS Norwich ,2016,Prescription items per 100000 population,Total,1195.556766
+E38000159,06Y,NHS South Norfolk ,2016,Prescription items per 100000 population,Total,139.30152
+E38000168,99G,NHS Southend,2016,Prescription items per 100000 population,Total,292.1064118
+E38000185,07G,NHS Thurrock ,2016,Prescription items per 100000 population,Total,96.25629601
+E38000197,07H,NHS West Essex,2016,Prescription items per 100000 population,Total,249.173032
+E38000203,07J,NHS West Norfolk ,2016,Prescription items per 100000 population,Total,446.1773454
+E38000204,07K,NHS West Suffolk,2016,Prescription items per 100000 population,Total,301.8677793
+E40000003,Y56,London,2016,Prescription items per 100000 population,Total,157.4527541
+E39000018,Q71,NHS England London,2016,Prescription items per 100000 population,Total,157.4527541
+E38000004,07L,NHS Barking & Dagenham ,2016,Prescription items per 100000 population,Total,297.0605855
+E38000005,07M,NHS Barnet ,2016,Prescription items per 100000 population,Total,89.54649965
+E38000011,07N,NHS Bexley ,2016,Prescription items per 100000 population,Total,127.6110712
+E38000020,07P,NHS Brent ,2016,Prescription items per 100000 population,Total,108.9465822
+E38000023,07Q,NHS Bromley ,2016,Prescription items per 100000 population,Total,108.9710242
+E38000027,07R,NHS Camden ,2016,Prescription items per 100000 population,Total,99.97552466
+E38000031,09A,NHS Central London (Westminster) ,2016,Prescription items per 100000 population,Total,437.5764467
+E38000035,07T,NHS City and Hackney ,2016,Prescription items per 100000 population,Total,84.24266207
+E38000040,07V,NHS Croydon ,2016,Prescription items per 100000 population,Total,98.40883727
+E38000048,07W,NHS Ealing ,2016,Prescription items per 100000 population,Total,244.272851
+E38000057,07X,NHS Enfield ,2016,Prescription items per 100000 population,Total,77.33693021
+E38000066,08A,NHS Greenwich ,2016,Prescription items per 100000 population,Total,271.1032995
+E38000070,08C,NHS Hammersmith and Fulham ,2016,Prescription items per 100000 population,Total,183.9362354
+E38000072,08D,NHS Haringey ,2016,Prescription items per 100000 population,Total,146.2266917
+E38000074,08E,NHS Harrow ,2016,Prescription items per 100000 population,Total,89.42661757
+E38000077,08F,NHS Havering ,2016,Prescription items per 100000 population,Total,145.7333842
+E38000082,08G,NHS Hillingdon ,2016,Prescription items per 100000 population,Total,108.485734
+E38000084,07Y,NHS Hounslow ,2016,Prescription items per 100000 population,Total,192.7298434
+E38000088,08H,NHS Islington ,2016,Prescription items per 100000 population,Total,326.7571983
+E38000090,08J,NHS Kingston ,2016,Prescription items per 100000 population,Total,46.67915286
+E38000092,08K,NHS Lambeth ,2016,Prescription items per 100000 population,Total,166.7534853
+E38000098,08L,NHS Lewisham ,2016,Prescription items per 100000 population,Total,129.8242664
+E38000105,08R,NHS Merton ,2016,Prescription items per 100000 population,Total,94.8353824
+E38000113,08M,NHS Newham ,2016,Prescription items per 100000 population,Total,127.3973385
+E38000138,08N,NHS Redbridge ,2016,Prescription items per 100000 population,Total,172.5108072
+E38000140,08P,NHS Richmond ,2016,Prescription items per 100000 population,Total,126.3287629
+E38000171,08Q,NHS Southwark ,2016,Prescription items per 100000 population,Total,159.9217872
+E38000179,08T,NHS Sutton ,2016,Prescription items per 100000 population,Total,174.3735792
+E38000186,08V,NHS Tower Hamlets ,2016,Prescription items per 100000 population,Total,66.72627999
+E38000192,08W,NHS Waltham Forest,2016,Prescription items per 100000 population,Total,247.0774791
+E38000193,08X,NHS Wandsworth ,2016,Prescription items per 100000 population,Total,259.7410855
+E38000202,08Y,NHS West London,2016,Prescription items per 100000 population,Total,197.0168549
+E40000004,Y57,South of England,2016,Prescription items per 100000 population,Total,234.7551208
+E39000036,Q80,NHS England South (South West),2016,Prescription items per 100000 population,Total,277.8252573
+E38000022,11H,NHS Bristol ,2016,Prescription items per 100000 population,Total,385.2419613
+E38000089,11N,NHS Kernow ,2016,Prescription items per 100000 population,Total,319.7227619
+E38000125,11T,NHS North Somerset ,2016,Prescription items per 100000 population,Total,474.4122242
+E38000129,99P,"NHS North, East, West Devon ",2016,Prescription items per 100000 population,Total,214.2385549
+E38000150,11X,NHS Somerset ,2016,Prescription items per 100000 population,Total,245.5123856
+E38000152,99Q,NHS South Devon and Torbay ,2016,Prescription items per 100000 population,Total,143.2335604
+E38000155,12A,NHS South Gloucestershire ,2016,Prescription items per 100000 population,Total,274.5202268
+E39000035,Q81,NHS England South (South East),2016,Prescription items per 100000 population,Total,205.0079484
+E38000002,09C,NHS Ashford ,2016,Prescription items per 100000 population,Total,80.48289738
+E38000021,09D,NHS Brighton & Hove ,2016,Prescription items per 100000 population,Total,724.5614773
+E38000029,09E,NHS Canterbury and Coastal ,2016,Prescription items per 100000 population,Total,132.9140441
+E38000213,09G,NHS Coastal West Sussex ,2016,Prescription items per 100000 population,Total,120.190851
+E38000039,09H,NHS Crawley ,2016,Prescription items per 100000 population,Total,104.6327031
+E38000043,09J,"NHS Dartford, Gravesham and Swanley ",2016,Prescription items per 100000 population,Total,285.4288016
+E38000054,09L,NHS East Surrey ,2016,Prescription items per 100000 population,Total,42.30327603
+E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",2016,Prescription items per 100000 population,Total,367.3812258
+E38000214,09N,NHS Guildford and Waverley,2016,Prescription items per 100000 population,Total,94.12723673
+E38000076,09P,NHS Hastings & Rother ,2016,Prescription items per 100000 population,Total,336.7587647
+E38000081,99K,NHS High Weald Lewes Havens ,2016,Prescription items per 100000 population,Total,369.5263186
+E38000083,09X,NHS Horsham and Mid Sussex ,2016,Prescription items per 100000 population,Total,34.73036215
+E38000104,09W,NHS Medway ,2016,Prescription items per 100000 population,Total,292.2326867
+E38000128,09Y,NHS North West Surrey ,2016,Prescription items per 100000 population,Total,56.55976676
+E38000156,10A,NHS South Kent Coast ,2016,Prescription items per 100000 population,Total,168.8868555
+E38000177,99H,NHS Surrey Downs ,2016,Prescription items per 100000 population,Total,39.02207883
+E38000178,10C,NHS Surrey Heath ,2016,Prescription items per 100000 population,Total,82.41958874
+E38000180,10D,NHS Swale ,2016,Prescription items per 100000 population,Total,92.42144177
+E38000184,10E,NHS Thanet ,2016,Prescription items per 100000 population,Total,226.7979281
+E38000199,99J,NHS West Kent ,2016,Prescription items per 100000 population,Total,260.461995
+E39000034,Q82,NHS England South (South Central),2016,Prescription items per 100000 population,Total,270.6924055
+E38000003,10Y,NHS Aylesbury Vale ,2016,Prescription items per 100000 population,Total,159.9018367
+E38000009,11E,NHS Bath and North East Somerset ,2016,Prescription items per 100000 population,Total,415.4180685
+E38000017,10G,NHS Bracknell and Ascot ,2016,Prescription items per 100000 population,Total,178.086591
+E38000033,10H,NHS Chiltern ,2016,Prescription items per 100000 population,Total,105.8498229
+E38000062,11M,NHS Gloucestershire ,2016,Prescription items per 100000 population,Total,578.6163114
+E38000110,10M,NHS Newbury and District ,2016,Prescription items per 100000 population,Total,121.2474388
+E38000114,10N,NHS North & West Reading ,2016,Prescription items per 100000 population,Total,195.3514332
+E38000136,10Q,NHS Oxfordshire ,2016,Prescription items per 100000 population,Total,248.0536977
+E38000148,10T,NHS Slough ,2016,Prescription items per 100000 population,Total,99.49634265
+E38000160,10W,NHS South Reading ,2016,Prescription items per 100000 population,Total,197.2386588
+E38000181,12D,NHS Swindon ,2016,Prescription items per 100000 population,Total,218.6121049
+E38000206,99N,NHS Wiltshire ,2016,Prescription items per 100000 population,Total,250.7750574
+E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",2016,Prescription items per 100000 population,Total,161.2891816
+E38000209,11D,NHS Wokingham ,2016,Prescription items per 100000 population,Total,149.6175402
+E39000025,Q70,NHS England South (Wessex),2016,Prescription items per 100000 population,Total,187.2548005
+E38000045,11J,NHS Dorset ,2016,Prescription items per 100000 population,Total,192.6397258
+E38000059,10K,NHS Fareham and Gosport ,2016,Prescription items per 100000 population,Total,115.3049817
+E38000087,10L,NHS Isle of Wight ,2016,Prescription items per 100000 population,Total,502.887478
+E38000118,99M,NHS North East Hampshire and Farnham ,2016,Prescription items per 100000 population,Total,112.8263478
+E38000120,10J,NHS North Hampshire ,2016,Prescription items per 100000 population,Total,179.3884485
+E38000137,10R,NHS Portsmouth ,2016,Prescription items per 100000 population,Total,272.953088
+E38000154,10V,NHS South Eastern Hampshire ,2016,Prescription items per 100000 population,Total,93.44912214
+E38000167,10X,NHS Southampton ,2016,Prescription items per 100000 population,Total,265.2913195
+E38000198,11A,NHS West Hampshire ,2016,Prescription items per 100000 population,Total,125.6068595
+E92000001,921,England,2016,Prescription items per 100000 population,Acamprosate Calcium,241.520115
+XXXXXXXX,XXX,Unknown,2016,Prescription items per 100000 population,Acamprosate Calcium,..
+E40000001,Y54,North of England,2016,Prescription items per 100000 population,Acamprosate Calcium,359.0919114
+E39000029,Q72,NHS England North (Yorkshire and Humber),2016,Prescription items per 100000 population,Acamprosate Calcium,236.9317044
+E38000001,02N,"NHS Airedale, Wharfedale and Craven ",2016,Prescription items per 100000 population,Acamprosate Calcium,123.6575001
+E38000006,02P,NHS Barnsley ,2016,Prescription items per 100000 population,Acamprosate Calcium,498.4978209
+E38000008,02Q,NHS Bassetlaw ,2016,Prescription items per 100000 population,Acamprosate Calcium,133.5859534
+E38000018,02W,NHS Bradford City ,2016,Prescription items per 100000 population,Acamprosate Calcium,149.0170833
+E38000019,02R,NHS Bradford Districts ,2016,Prescription items per 100000 population,Acamprosate Calcium,60.69991443
+E38000025,02T,NHS Calderdale ,2016,Prescription items per 100000 population,Acamprosate Calcium,199.1343653
+E38000044,02X,NHS Doncaster ,2016,Prescription items per 100000 population,Acamprosate Calcium,29.19822973
+E38000052,02Y,NHS East Riding of Yorkshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,232.0163522
+E38000064,03A,NHS Greater Huddersfield ,2016,Prescription items per 100000 population,Acamprosate Calcium,179.2349906
+E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",2016,Prescription items per 100000 population,Acamprosate Calcium,88.91816236
+E38000073,03E,NHS Harrogate and Rural District ,2016,Prescription items per 100000 population,Acamprosate Calcium,164.3144648
+E38000085,03F,NHS Hull ,2016,Prescription items per 100000 population,Acamprosate Calcium,104.2491168
+E38000094,02V,NHS Leeds North ,2016,Prescription items per 100000 population,Acamprosate Calcium,80.69457105
+E38000095,03G,NHS Leeds South and East ,2016,Prescription items per 100000 population,Acamprosate Calcium,170.2356061
+E38000096,03C,NHS Leeds West ,2016,Prescription items per 100000 population,Acamprosate Calcium,114.6303557
+E38000119,03H,NHS North East Lincolnshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,104.0295795
+E38000121,03J,NHS North Kirklees ,2016,Prescription items per 100000 population,Acamprosate Calcium,222.0390852
+E38000122,03K,NHS North Lincolnshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,113.6497468
+E38000141,03L,NHS Rotherham ,2016,Prescription items per 100000 population,Acamprosate Calcium,625.4170086
+E38000145,03M,NHS Scarborough and Ryedale ,2016,Prescription items per 100000 population,Acamprosate Calcium,180.6554179
+E38000146,03N,NHS Sheffield ,2016,Prescription items per 100000 population,Acamprosate Calcium,713.3115806
+E38000188,03Q,NHS Vale of York ,2016,Prescription items per 100000 population,Acamprosate Calcium,83.56687038
+E38000190,03R,NHS Wakefield ,2016,Prescription items per 100000 population,Acamprosate Calcium,266.3598585
+E39000037,Q83,NHS England North (Greater Manchester),2016,Prescription items per 100000 population,Acamprosate Calcium,596.7722102
+E38000016,00T,NHS Bolton ,2016,Prescription items per 100000 population,Acamprosate Calcium,279.4555765
+E38000024,00V,NHS Bury ,2016,Prescription items per 100000 population,Acamprosate Calcium,397.0535011
+E38000032,00W,NHS Central Manchester,2016,Prescription items per 100000 population,Acamprosate Calcium,360.0436288
+E38000080,01D,"NHS Heywood, Middleton and Rochdale ",2016,Prescription items per 100000 population,Acamprosate Calcium,611.5922407
+E38000123,01M,NHS North Manchester ,2016,Prescription items per 100000 population,Acamprosate Calcium,987.1624117
+E38000135,00Y,NHS Oldham,2016,Prescription items per 100000 population,Acamprosate Calcium,303.2626731
+E38000143,01G,NHS Salford ,2016,Prescription items per 100000 population,Acamprosate Calcium,1018.264431
+E38000158,01N,NHS South Manchester ,2016,Prescription items per 100000 population,Acamprosate Calcium,985.0551828
+E38000174,01W,NHS Stockport,2016,Prescription items per 100000 population,Acamprosate Calcium,466.5209727
+E38000182,01Y,NHS Tameside and Glossop,2016,Prescription items per 100000 population,Acamprosate Calcium,556.3642499
+E38000187,02A,NHS Trafford,2016,Prescription items per 100000 population,Acamprosate Calcium,611.2616165
+E38000205,02H,NHS Wigan Borough,2016,Prescription items per 100000 population,Acamprosate Calcium,734.111334
+E39000038,Q84,NHS England North (Lancashire),2016,Prescription items per 100000 population,Acamprosate Calcium,261.8876069
+E38000014,00Q,NHS Blackburn with Darwen ,2016,Prescription items per 100000 population,Acamprosate Calcium,464.4321262
+E38000015,00R,NHS Blackpool,2016,Prescription items per 100000 population,Acamprosate Calcium,592.5002508
+E38000034,00X,NHS Chorley and South Ribble,2016,Prescription items per 100000 population,Acamprosate Calcium,165.7653898
+E38000050,01A,NHS East Lancashire ,2016,Prescription items per 100000 population,Acamprosate Calcium,292.3390599
+E38000060,02M,NHS Fylde & Wyre,2016,Prescription items per 100000 population,Acamprosate Calcium,198.9350423
+E38000065,01E,NHS Greater Preston ,2016,Prescription items per 100000 population,Acamprosate Calcium,130.642911
+E38000093,01K,NHS Lancashire North ,2016,Prescription items per 100000 population,Acamprosate Calcium,192.6221385
+E38000200,02G,NHS West Lancashire,2016,Prescription items per 100000 population,Acamprosate Calcium,63.8626244
+E39000027,Q74,NHS England North (Cumbria and North East),2016,Prescription items per 100000 population,Acamprosate Calcium,436.766642
+E38000041,01H,NHS Cumbria ,2016,Prescription items per 100000 population,Acamprosate Calcium,621.1660702
+E38000042,00C,NHS Darlington ,2016,Prescription items per 100000 population,Acamprosate Calcium,347.284821
+E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",2016,Prescription items per 100000 population,Acamprosate Calcium,495.3440579
+E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,2016,Prescription items per 100000 population,Acamprosate Calcium,130.8754734
+E38000212,13T,NHS Newcastle Gateshead,2016,Prescription items per 100000 population,Acamprosate Calcium,348.8708773
+E38000116,00J,NHS North Durham ,2016,Prescription items per 100000 population,Acamprosate Calcium,360.944723
+E38000127,99C,NHS North Tyneside ,2016,Prescription items per 100000 population,Acamprosate Calcium,949.1639258
+E38000130,00L,NHS Northumberland ,2016,Prescription items per 100000 population,Acamprosate Calcium,567.1455261
+E38000162,00M,NHS South Tees ,2016,Prescription items per 100000 population,Acamprosate Calcium,93.52800745
+E38000163,00N,NHS South Tyneside ,2016,Prescription items per 100000 population,Acamprosate Calcium,647.7389672
+E38000176,00P,NHS Sunderland ,2016,Prescription items per 100000 population,Acamprosate Calcium,322.9298214
+E39000026,Q75,NHS England North (Cheshire and Merseyside),2016,Prescription items per 100000 population,Acamprosate Calcium,322.0069775
+E38000056,01C,NHS Eastern Cheshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,167.9175677
+E38000068,01F,NHS Halton ,2016,Prescription items per 100000 population,Acamprosate Calcium,237.8920081
+E38000091,01J,NHS Knowsley ,2016,Prescription items per 100000 population,Acamprosate Calcium,380.3546807
+E38000101,99A,NHS Liverpool ,2016,Prescription items per 100000 population,Acamprosate Calcium,607.8398596
+E38000151,01R,NHS South Cheshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,169.3996098
+E38000161,01T,NHS South Sefton ,2016,Prescription items per 100000 population,Acamprosate Calcium,242.0529113
+E38000170,01V,NHS Southport and Formby ,2016,Prescription items per 100000 population,Acamprosate Calcium,303.3094626
+E38000172,01X,NHS St Helens ,2016,Prescription items per 100000 population,Acamprosate Calcium,569.2182961
+E38000189,02D,NHS Vale Royal ,2016,Prescription items per 100000 population,Acamprosate Calcium,155.4363877
+E38000194,02E,NHS Warrington,2016,Prescription items per 100000 population,Acamprosate Calcium,126.1465129
+E38000196,02F,NHS West Cheshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,176.2049692
+E38000208,12F,NHS Wirral,2016,Prescription items per 100000 population,Acamprosate Calcium,276.098473
+E40000002,Y55,Midlands and East of England,2016,Prescription items per 100000 population,Acamprosate Calcium,185.9420988
+E39000032,Q76,NHS England Midlands and East (North Midlands),2016,Prescription items per 100000 population,Acamprosate Calcium,220.7509187
+E38000028,04Y,NHS Cannock Chase,2016,Prescription items per 100000 population,Acamprosate Calcium,249.1528063
+E38000053,05D,NHS East Staffordshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,144.7465742
+E38000058,03X,NHS Erewash ,2016,Prescription items per 100000 population,Acamprosate Calcium,77.86787379
+E38000071,03Y,NHS Hardwick ,2016,Prescription items per 100000 population,Acamprosate Calcium,32.58773796
+E38000103,04E,NHS Mansfield & Ashfield ,2016,Prescription items per 100000 population,Acamprosate Calcium,120.6856165
+E38000109,04H,NHS Newark & Sherwood ,2016,Prescription items per 100000 population,Acamprosate Calcium,40.42684005
+E38000115,04J,NHS North Derbyshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,167.0953983
+E38000126,05G,NHS North Staffordshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,405.6018273
+E38000132,04K,NHS Nottingham City ,2016,Prescription items per 100000 population,Acamprosate Calcium,110.0655062
+E38000133,04L,NHS Nottingham North & East ,2016,Prescription items per 100000 population,Acamprosate Calcium,66.8999244
+E38000134,04M,NHS Nottingham West ,2016,Prescription items per 100000 population,Acamprosate Calcium,62.35913517
+E38000142,04N,NHS Rushcliffe ,2016,Prescription items per 100000 population,Acamprosate Calcium,71.6319863
+E38000147,05N,NHS Shropshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,457.9613334
+E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,2016,Prescription items per 100000 population,Acamprosate Calcium,188.141315
+E38000169,04R,NHS Southern Derbyshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,42.19546236
+E38000173,05V,NHS Stafford and Surrounds,2016,Prescription items per 100000 population,Acamprosate Calcium,260.1651655
+E38000175,05W,NHS Stoke on Trent ,2016,Prescription items per 100000 population,Acamprosate Calcium,674.9814322
+E38000183,05X,NHS Telford & Wrekin ,2016,Prescription items per 100000 population,Acamprosate Calcium,524.6583586
+E39000033,Q77,NHS England Midlands and East (West Midlands),2016,Prescription items per 100000 population,Acamprosate Calcium,180.9471792
+E38000012,13P,NHS Birmingham CrossCity ,2016,Prescription items per 100000 population,Acamprosate Calcium,194.7902057
+E38000013,04X,NHS Birmingham South and Central ,2016,Prescription items per 100000 population,Acamprosate Calcium,237.7927298
+E38000038,05A,NHS Coventry and Rugby ,2016,Prescription items per 100000 population,Acamprosate Calcium,111.178447
+E38000046,05C,NHS Dudley ,2016,Prescription items per 100000 population,Acamprosate Calcium,268.9089438
+E38000078,05F,NHS Herefordshire,2016,Prescription items per 100000 population,Acamprosate Calcium,170.1231798
+E38000139,05J,NHS Redditch and Bromsgrove ,2016,Prescription items per 100000 population,Acamprosate Calcium,48.75049166
+E38000144,05L,NHS Sandwell and West Birmingham ,2016,Prescription items per 100000 population,Acamprosate Calcium,212.6359476
+E38000149,05P,NHS Solihull ,2016,Prescription items per 100000 population,Acamprosate Calcium,145.8813467
+E38000164,05R,NHS South Warwickshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,162.5531166
+E38000166,05T,NHS South Worcestershire ,2016,Prescription items per 100000 population,Acamprosate Calcium,90.42832885
+E38000191,05Y,NHS Walsall ,2016,Prescription items per 100000 population,Acamprosate Calcium,208.6238432
+E38000195,05H,NHS Warwickshire North ,2016,Prescription items per 100000 population,Acamprosate Calcium,156.5259696
+E38000210,06A,NHS Wolverhampton ,2016,Prescription items per 100000 population,Acamprosate Calcium,320.3540797
+E38000211,06D,NHS Wyre Forest ,2016,Prescription items per 100000 population,Acamprosate Calcium,109.5444358
+E39000030,Q78,NHS England Midlands and East (Central Midlands),2016,Prescription items per 100000 population,Acamprosate Calcium,132.6812556
+E38000010,06F,NHS Bedfordshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,168.9856771
+E38000037,03V,NHS Corby ,2016,Prescription items per 100000 population,Acamprosate Calcium,41.88231071
+E38000049,06K,NHS East and North Hertfordshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,112.1435151
+E38000051,03W,NHS East Leicestershire and Rutland ,2016,Prescription items per 100000 population,Acamprosate Calcium,110.1568277
+E38000079,06N,NHS Herts Valleys ,2016,Prescription items per 100000 population,Acamprosate Calcium,118.3226741
+E38000097,04C,NHS Leicester City ,2016,Prescription items per 100000 population,Acamprosate Calcium,110.324055
+E38000099,03T,NHS Lincolnshire East,2016,Prescription items per 100000 population,Acamprosate Calcium,69.38757919
+E38000100,04D,NHS Lincolnshire West,2016,Prescription items per 100000 population,Acamprosate Calcium,96.44189163
+E38000102,06P,NHS Luton ,2016,Prescription items per 100000 population,Acamprosate Calcium,178.8458851
+E38000107,04F,NHS Milton Keynes ,2016,Prescription items per 100000 population,Acamprosate Calcium,41.4564278
+E38000108,04G,NHS Nene ,2016,Prescription items per 100000 population,Acamprosate Calcium,280.2971712
+E38000157,99D,NHS South Lincolnshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,16.4406083
+E38000165,04Q,NHS South West Lincolnshire,2016,Prescription items per 100000 population,Acamprosate Calcium,115.0285158
+E38000201,04V,NHS West Leicestershire ,2016,Prescription items per 100000 population,Acamprosate Calcium,100.140403
+E39000031,Q79,NHS England Midlands and East (East),2016,Prescription items per 100000 population,Acamprosate Calcium,218.2143484
+E38000007,99E,NHS Basildon and Brentwood,2016,Prescription items per 100000 population,Acamprosate Calcium,166.810201
+E38000026,06H,NHS Cambridgeshire and Peterborough,2016,Prescription items per 100000 population,Acamprosate Calcium,155.1861264
+E38000030,99F,NHS Castle Point and Rochford,2016,Prescription items per 100000 population,Acamprosate Calcium,160.0532363
+E38000063,06M,NHS Great Yarmouth & Waveney ,2016,Prescription items per 100000 population,Acamprosate Calcium,354.6676968
+E38000086,06L,NHS Ipswich and East Suffolk,2016,Prescription items per 100000 population,Acamprosate Calcium,73.60028038
+E38000106,06Q,NHS Mid Essex ,2016,Prescription items per 100000 population,Acamprosate Calcium,156.0632652
+E38000117,06T,NHS North East Essex ,2016,Prescription items per 100000 population,Acamprosate Calcium,456.4440425
+E38000124,06V,NHS North Norfolk ,2016,Prescription items per 100000 population,Acamprosate Calcium,128.3900243
+E38000131,06W,NHS Norwich ,2016,Prescription items per 100000 population,Acamprosate Calcium,812.1714741
+E38000159,06Y,NHS South Norfolk ,2016,Prescription items per 100000 population,Acamprosate Calcium,90.8130853
+E38000168,99G,NHS Southend,2016,Prescription items per 100000 population,Acamprosate Calcium,203.6910611
+E38000185,07G,NHS Thurrock ,2016,Prescription items per 100000 population,Acamprosate Calcium,93.83475397
+E38000197,07H,NHS West Essex,2016,Prescription items per 100000 population,Acamprosate Calcium,210.1981059
+E38000203,07J,NHS West Norfolk ,2016,Prescription items per 100000 population,Acamprosate Calcium,303.7681026
+E38000204,07K,NHS West Suffolk,2016,Prescription items per 100000 population,Acamprosate Calcium,186.5127421
+E40000003,Y56,London,2016,Prescription items per 100000 population,Acamprosate Calcium,122.9923102
+E39000018,Q71,NHS England London,2016,Prescription items per 100000 population,Acamprosate Calcium,122.9923102
+E38000004,07L,NHS Barking & Dagenham ,2016,Prescription items per 100000 population,Acamprosate Calcium,243.0945791
+E38000005,07M,NHS Barnet ,2016,Prescription items per 100000 population,Acamprosate Calcium,60.5755733
+E38000011,07N,NHS Bexley ,2016,Prescription items per 100000 population,Acamprosate Calcium,113.5697236
+E38000020,07P,NHS Brent ,2016,Prescription items per 100000 population,Acamprosate Calcium,98.45314371
+E38000023,07Q,NHS Bromley ,2016,Prescription items per 100000 population,Acamprosate Calcium,76.64911022
+E38000027,07R,NHS Camden ,2016,Prescription items per 100000 population,Acamprosate Calcium,59.73641308
+E38000031,09A,NHS Central London (Westminster) ,2016,Prescription items per 100000 population,Acamprosate Calcium,190.6501054
+E38000035,07T,NHS City and Hackney ,2016,Prescription items per 100000 population,Acamprosate Calcium,77.40244592
+E38000040,07V,NHS Croydon ,2016,Prescription items per 100000 population,Acamprosate Calcium,94.71520799
+E38000048,07W,NHS Ealing ,2016,Prescription items per 100000 population,Acamprosate Calcium,190.637762
+E38000057,07X,NHS Enfield ,2016,Prescription items per 100000 population,Acamprosate Calcium,62.72207726
+E38000066,08A,NHS Greenwich ,2016,Prescription items per 100000 population,Acamprosate Calcium,259.822491
+E38000070,08C,NHS Hammersmith and Fulham ,2016,Prescription items per 100000 population,Acamprosate Calcium,118.1650967
+E38000072,08D,NHS Haringey ,2016,Prescription items per 100000 population,Acamprosate Calcium,101.1492905
+E38000074,08E,NHS Harrow ,2016,Prescription items per 100000 population,Acamprosate Calcium,58.67357261
+E38000077,08F,NHS Havering ,2016,Prescription items per 100000 population,Acamprosate Calcium,116.827589
+E38000082,08G,NHS Hillingdon ,2016,Prescription items per 100000 population,Acamprosate Calcium,92.02814583
+E38000084,07Y,NHS Hounslow ,2016,Prescription items per 100000 population,Acamprosate Calcium,131.7111285
+E38000088,08H,NHS Islington ,2016,Prescription items per 100000 population,Acamprosate Calcium,154.5948035
+E38000090,08J,NHS Kingston ,2016,Prescription items per 100000 population,Acamprosate Calcium,32.84829275
+E38000092,08K,NHS Lambeth ,2016,Prescription items per 100000 population,Acamprosate Calcium,139.0126098
+E38000098,08L,NHS Lewisham ,2016,Prescription items per 100000 population,Acamprosate Calcium,123.4339527
+E38000105,08R,NHS Merton ,2016,Prescription items per 100000 population,Acamprosate Calcium,84.0808545
+E38000113,08M,NHS Newham ,2016,Prescription items per 100000 population,Acamprosate Calcium,115.3787216
+E38000138,08N,NHS Redbridge ,2016,Prescription items per 100000 population,Acamprosate Calcium,146.2298639
+E38000140,08P,NHS Richmond ,2016,Prescription items per 100000 population,Acamprosate Calcium,106.8145638
+E38000171,08Q,NHS Southwark ,2016,Prescription items per 100000 population,Acamprosate Calcium,127.2252275
+E38000179,08T,NHS Sutton ,2016,Prescription items per 100000 population,Acamprosate Calcium,143.8956756
+E38000186,08V,NHS Tower Hamlets ,2016,Prescription items per 100000 population,Acamprosate Calcium,47.75840345
+E38000192,08W,NHS Waltham Forest,2016,Prescription items per 100000 population,Acamprosate Calcium,234.9079913
+E38000193,08X,NHS Wandsworth ,2016,Prescription items per 100000 population,Acamprosate Calcium,239.0762501
+E38000202,08Y,NHS West London,2016,Prescription items per 100000 population,Acamprosate Calcium,129.2784756
+E40000004,Y57,South of England,2016,Prescription items per 100000 population,Acamprosate Calcium,176.6192917
+E39000036,Q80,NHS England South (South West),2016,Prescription items per 100000 population,Acamprosate Calcium,209.8297832
+E38000022,11H,NHS Bristol ,2016,Prescription items per 100000 population,Acamprosate Calcium,272.6293487
+E38000089,11N,NHS Kernow ,2016,Prescription items per 100000 population,Acamprosate Calcium,227.6484065
+E38000125,11T,NHS North Somerset ,2016,Prescription items per 100000 population,Acamprosate Calcium,321.9906261
+E38000129,99P,"NHS North, East, West Devon ",2016,Prescription items per 100000 population,Acamprosate Calcium,186.8411715
+E38000150,11X,NHS Somerset ,2016,Prescription items per 100000 population,Acamprosate Calcium,193.072847
+E38000152,99Q,NHS South Devon and Torbay ,2016,Prescription items per 100000 population,Acamprosate Calcium,56.0010913
+E38000155,12A,NHS South Gloucestershire ,2016,Prescription items per 100000 population,Acamprosate Calcium,249.3983492
+E39000035,Q81,NHS England South (South East),2016,Prescription items per 100000 population,Acamprosate Calcium,166.2155808
+E38000002,09C,NHS Ashford ,2016,Prescription items per 100000 population,Acamprosate Calcium,65.19114688
+E38000021,09D,NHS Brighton & Hove ,2016,Prescription items per 100000 population,Acamprosate Calcium,640.4324233
+E38000029,09E,NHS Canterbury and Coastal ,2016,Prescription items per 100000 population,Acamprosate Calcium,63.08601369
+E38000213,09G,NHS Coastal West Sussex ,2016,Prescription items per 100000 population,Acamprosate Calcium,72.316512
+E38000039,09H,NHS Crawley ,2016,Prescription items per 100000 population,Acamprosate Calcium,84.78856978
+E38000043,09J,"NHS Dartford, Gravesham and Swanley ",2016,Prescription items per 100000 population,Acamprosate Calcium,237.7927872
+E38000054,09L,NHS East Surrey ,2016,Prescription items per 100000 population,Acamprosate Calcium,26.92026657
+E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",2016,Prescription items per 100000 population,Acamprosate Calcium,332.8229339
+E38000214,09N,NHS Guildford and Waverley,2016,Prescription items per 100000 population,Acamprosate Calcium,80.05667042
+E38000076,09P,NHS Hastings & Rother ,2016,Prescription items per 100000 population,Acamprosate Calcium,270.0577533
+E38000081,99K,NHS High Weald Lewes Havens ,2016,Prescription items per 100000 population,Acamprosate Calcium,332.8068263
+E38000083,09X,NHS Horsham and Mid Sussex ,2016,Prescription items per 100000 population,Acamprosate Calcium,22.14060587
+E38000104,09W,NHS Medway ,2016,Prescription items per 100000 population,Acamprosate Calcium,266.5538243
+E38000128,09Y,NHS North West Surrey ,2016,Prescription items per 100000 population,Acamprosate Calcium,47.52186589
+E38000156,10A,NHS South Kent Coast ,2016,Prescription items per 100000 population,Acamprosate Calcium,99.77465529
+E38000177,99H,NHS Surrey Downs ,2016,Prescription items per 100000 population,Acamprosate Calcium,31.70543905
+E38000178,10C,NHS Surrey Heath ,2016,Prescription items per 100000 population,Acamprosate Calcium,33.38514987
+E38000180,10D,NHS Swale ,2016,Prescription items per 100000 population,Acamprosate Calcium,71.98208446
+E38000184,10E,NHS Thanet ,2016,Prescription items per 100000 population,Acamprosate Calcium,129.4966088
+E38000199,99J,NHS West Kent ,2016,Prescription items per 100000 population,Acamprosate Calcium,222.0847445
+E39000034,Q82,NHS England South (South Central),2016,Prescription items per 100000 population,Acamprosate Calcium,186.5410494
+E38000003,10Y,NHS Aylesbury Vale ,2016,Prescription items per 100000 population,Acamprosate Calcium,90.33729143
+E38000009,11E,NHS Bath and North East Somerset ,2016,Prescription items per 100000 population,Acamprosate Calcium,334.822636
+E38000017,10G,NHS Bracknell and Ascot ,2016,Prescription items per 100000 population,Acamprosate Calcium,110.2093247
+E38000033,10H,NHS Chiltern ,2016,Prescription items per 100000 population,Acamprosate Calcium,50.919011
+E38000062,11M,NHS Gloucestershire ,2016,Prescription items per 100000 population,Acamprosate Calcium,405.2420596
+E38000110,10M,NHS Newbury and District ,2016,Prescription items per 100000 population,Acamprosate Calcium,84.59123635
+E38000114,10N,NHS North & West Reading ,2016,Prescription items per 100000 population,Acamprosate Calcium,150.5003389
+E38000136,10Q,NHS Oxfordshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,138.3434353
+E38000148,10T,NHS Slough ,2016,Prescription items per 100000 population,Acamprosate Calcium,80.28325579
+E38000160,10W,NHS South Reading ,2016,Prescription items per 100000 population,Acamprosate Calcium,162.1139661
+E38000181,12D,NHS Swindon ,2016,Prescription items per 100000 population,Acamprosate Calcium,191.2294799
+E38000206,99N,NHS Wiltshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,198.727404
+E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",2016,Prescription items per 100000 population,Acamprosate Calcium,82.05940818
+E38000209,11D,NHS Wokingham ,2016,Prescription items per 100000 population,Acamprosate Calcium,89.14711768
+E39000025,Q70,NHS England South (Wessex),2016,Prescription items per 100000 population,Acamprosate Calcium,142.441067
+E38000045,11J,NHS Dorset ,2016,Prescription items per 100000 population,Acamprosate Calcium,97.56059336
+E38000059,10K,NHS Fareham and Gosport ,2016,Prescription items per 100000 population,Acamprosate Calcium,90.74000732
+E38000087,10L,NHS Isle of Wight ,2016,Prescription items per 100000 population,Acamprosate Calcium,469.1703433
+E38000118,99M,NHS North East Hampshire and Farnham ,2016,Prescription items per 100000 population,Acamprosate Calcium,93.70323802
+E38000120,10J,NHS North Hampshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,170.781427
+E38000137,10R,NHS Portsmouth ,2016,Prescription items per 100000 population,Acamprosate Calcium,263.0361073
+E38000154,10V,NHS South Eastern Hampshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,76.45837266
+E38000167,10X,NHS Southampton ,2016,Prescription items per 100000 population,Acamprosate Calcium,207.1837042
+E38000198,11A,NHS West Hampshire ,2016,Prescription items per 100000 population,Acamprosate Calcium,98.03462208
+E92000001,921,England,2016,Prescription items per 100000 population,Disulfiram,87.59484825
+XXXXXXXX,XXX,Unknown,2016,Prescription items per 100000 population,Disulfiram,..
+E40000001,Y54,North of England,2016,Prescription items per 100000 population,Disulfiram,123.722496
+E39000029,Q72,NHS England North (Yorkshire and Humber),2016,Prescription items per 100000 population,Disulfiram,140.7515076
+E38000001,02N,"NHS Airedale, Wharfedale and Craven ",2016,Prescription items per 100000 population,Disulfiram,145.6271067
+E38000006,02P,NHS Barnsley ,2016,Prescription items per 100000 population,Disulfiram,314.2249466
+E38000008,02Q,NHS Bassetlaw ,2016,Prescription items per 100000 population,Disulfiram,44.52865113
+E38000018,02W,NHS Bradford City ,2016,Prescription items per 100000 population,Disulfiram,14.30564
+E38000019,02R,NHS Bradford Districts ,2016,Prescription items per 100000 population,Disulfiram,23.98386863
+E38000025,02T,NHS Calderdale ,2016,Prescription items per 100000 population,Disulfiram,16.3146227
+E38000044,02X,NHS Doncaster ,2016,Prescription items per 100000 population,Disulfiram,66.92627939
+E38000052,02Y,NHS East Riding of Yorkshire ,2016,Prescription items per 100000 population,Disulfiram,33.64395805
+E38000064,03A,NHS Greater Huddersfield ,2016,Prescription items per 100000 population,Disulfiram,41.83516943
+E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",2016,Prescription items per 100000 population,Disulfiram,88.2595093
+E38000073,03E,NHS Harrogate and Rural District ,2016,Prescription items per 100000 population,Disulfiram,154.7612982
+E38000085,03F,NHS Hull ,2016,Prescription items per 100000 population,Disulfiram,7.722156798
+E38000094,02V,NHS Leeds North ,2016,Prescription items per 100000 population,Disulfiram,202.7326569
+E38000095,03G,NHS Leeds South and East ,2016,Prescription items per 100000 population,Disulfiram,252.3492514
+E38000096,03C,NHS Leeds West ,2016,Prescription items per 100000 population,Disulfiram,276.2251699
+E38000119,03H,NHS North East Lincolnshire ,2016,Prescription items per 100000 population,Disulfiram,1.880052641
+E38000121,03J,NHS North Kirklees ,2016,Prescription items per 100000 population,Disulfiram,49.86693402
+E38000122,03K,NHS North Lincolnshire ,2016,Prescription items per 100000 population,Disulfiram,117.7717583
+E38000141,03L,NHS Rotherham ,2016,Prescription items per 100000 population,Disulfiram,421.4183277
+E38000145,03M,NHS Scarborough and Ryedale ,2016,Prescription items per 100000 population,Disulfiram,244.7880912
+E38000146,03N,NHS Sheffield ,2016,Prescription items per 100000 population,Disulfiram,246.9560517
+E38000188,03Q,NHS Vale of York ,2016,Prescription items per 100000 population,Disulfiram,59.65042599
+E38000190,03R,NHS Wakefield ,2016,Prescription items per 100000 population,Disulfiram,165.0891811
+E39000037,Q83,NHS England North (Greater Manchester),2016,Prescription items per 100000 population,Disulfiram,228.2619646
+E38000016,00T,NHS Bolton ,2016,Prescription items per 100000 population,Disulfiram,112.9185176
+E38000024,00V,NHS Bury ,2016,Prescription items per 100000 population,Disulfiram,129.3351217
+E38000032,00W,NHS Central Manchester,2016,Prescription items per 100000 population,Disulfiram,207.5545625
+E38000080,01D,"NHS Heywood, Middleton and Rochdale ",2016,Prescription items per 100000 population,Disulfiram,176.4747076
+E38000123,01M,NHS North Manchester ,2016,Prescription items per 100000 population,Disulfiram,227.2040471
+E38000135,00Y,NHS Oldham,2016,Prescription items per 100000 population,Disulfiram,125.2041608
+E38000143,01G,NHS Salford ,2016,Prescription items per 100000 population,Disulfiram,504.857215
+E38000158,01N,NHS South Manchester ,2016,Prescription items per 100000 population,Disulfiram,447.975813
+E38000174,01W,NHS Stockport,2016,Prescription items per 100000 population,Disulfiram,263.9116416
+E38000182,01Y,NHS Tameside and Glossop,2016,Prescription items per 100000 population,Disulfiram,145.1726181
+E38000187,02A,NHS Trafford,2016,Prescription items per 100000 population,Disulfiram,201.039059
+E38000205,02H,NHS Wigan Borough,2016,Prescription items per 100000 population,Disulfiram,239.4246356
+E39000038,Q84,NHS England North (Lancashire),2016,Prescription items per 100000 population,Disulfiram,62.17378215
+E38000014,00Q,NHS Blackburn with Darwen ,2016,Prescription items per 100000 population,Disulfiram,128.7062637
+E38000015,00R,NHS Blackpool,2016,Prescription items per 100000 population,Disulfiram,154.7521816
+E38000034,00X,NHS Chorley and South Ribble,2016,Prescription items per 100000 population,Disulfiram,51.58433459
+E38000050,01A,NHS East Lancashire ,2016,Prescription items per 100000 population,Disulfiram,31.79922132
+E38000060,02M,NHS Fylde & Wyre,2016,Prescription items per 100000 population,Disulfiram,61.94384552
+E38000065,01E,NHS Greater Preston ,2016,Prescription items per 100000 population,Disulfiram,40.4253536
+E38000093,01K,NHS Lancashire North ,2016,Prescription items per 100000 population,Disulfiram,60.07828758
+E38000200,02G,NHS West Lancashire,2016,Prescription items per 100000 population,Disulfiram,20.40056057
+E39000027,Q74,NHS England North (Cumbria and North East),2016,Prescription items per 100000 population,Disulfiram,99.37120306
+E38000041,01H,NHS Cumbria ,2016,Prescription items per 100000 population,Disulfiram,231.7221239
+E38000042,00C,NHS Darlington ,2016,Prescription items per 100000 population,Disulfiram,128.0968602
+E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",2016,Prescription items per 100000 population,Disulfiram,127.0300163
+E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,2016,Prescription items per 100000 population,Disulfiram,17.40365337
+E38000212,13T,NHS Newcastle Gateshead,2016,Prescription items per 100000 population,Disulfiram,56.89652729
+E38000116,00J,NHS North Durham ,2016,Prescription items per 100000 population,Disulfiram,109.0565792
+E38000127,99C,NHS North Tyneside ,2016,Prescription items per 100000 population,Disulfiram,15.80293737
+E38000130,00L,NHS Northumberland ,2016,Prescription items per 100000 population,Disulfiram,89.4491266
+E38000162,00M,NHS South Tees ,2016,Prescription items per 100000 population,Disulfiram,79.69896355
+E38000163,00N,NHS South Tyneside ,2016,Prescription items per 100000 population,Disulfiram,21.52403629
+E38000176,00P,NHS Sunderland ,2016,Prescription items per 100000 population,Disulfiram,106.0797402
+E39000026,Q75,NHS England North (Cheshire and Merseyside),2016,Prescription items per 100000 population,Disulfiram,34.40420518
+E38000056,01C,NHS Eastern Cheshire ,2016,Prescription items per 100000 population,Disulfiram,27.47742018
+E38000068,01F,NHS Halton ,2016,Prescription items per 100000 population,Disulfiram,51.37202833
+E38000091,01J,NHS Knowsley ,2016,Prescription items per 100000 population,Disulfiram,27.16819148
+E38000101,99A,NHS Liverpool ,2016,Prescription items per 100000 population,Disulfiram,31.34272222
+E38000151,01R,NHS South Cheshire ,2016,Prescription items per 100000 population,Disulfiram,3.354447718
+E38000161,01T,NHS South Sefton ,2016,Prescription items per 100000 population,Disulfiram,18.28003757
+E38000170,01V,NHS Southport and Formby ,2016,Prescription items per 100000 population,Disulfiram,12.16714176
+E38000172,01X,NHS St Helens ,2016,Prescription items per 100000 population,Disulfiram,130.6218048
+E38000189,02D,NHS Vale Royal ,2016,Prescription items per 100000 population,Disulfiram,1.942954846
+E38000194,02E,NHS Warrington,2016,Prescription items per 100000 population,Disulfiram,63.07325646
+E38000196,02F,NHS West Cheshire ,2016,Prescription items per 100000 population,Disulfiram,19.48212191
+E38000208,12F,NHS Wirral,2016,Prescription items per 100000 population,Disulfiram,22.43689623
+E40000002,Y55,Midlands and East of England,2016,Prescription items per 100000 population,Disulfiram,77.45782888
+E39000032,Q76,NHS England Midlands and East (North Midlands),2016,Prescription items per 100000 population,Disulfiram,109.4337365
+E38000028,04Y,NHS Cannock Chase,2016,Prescription items per 100000 population,Disulfiram,54.13141327
+E38000053,05D,NHS East Staffordshire ,2016,Prescription items per 100000 population,Disulfiram,66.01080032
+E38000058,03X,NHS Erewash ,2016,Prescription items per 100000 population,Disulfiram,47.75896259
+E38000071,03Y,NHS Hardwick ,2016,Prescription items per 100000 population,Disulfiram,183.7586335
+E38000103,04E,NHS Mansfield & Ashfield ,2016,Prescription items per 100000 population,Disulfiram,70.27263746
+E38000109,04H,NHS Newark & Sherwood ,2016,Prescription items per 100000 population,Disulfiram,55.58690507
+E38000115,04J,NHS North Derbyshire ,2016,Prescription items per 100000 population,Disulfiram,384.3927035
+E38000126,05G,NHS North Staffordshire ,2016,Prescription items per 100000 population,Disulfiram,10.6130171
+E38000132,04K,NHS Nottingham City ,2016,Prescription items per 100000 population,Disulfiram,259.32813
+E38000133,04L,NHS Nottingham North & East ,2016,Prescription items per 100000 population,Disulfiram,83.6249055
+E38000134,04M,NHS Nottingham West ,2016,Prescription items per 100000 population,Disulfiram,43.65139462
+E38000142,04N,NHS Rushcliffe ,2016,Prescription items per 100000 population,Disulfiram,37.56311477
+E38000147,05N,NHS Shropshire ,2016,Prescription items per 100000 population,Disulfiram,146.1237074
+E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,2016,Prescription items per 100000 population,Disulfiram,35.5822818
+E38000169,04R,NHS Southern Derbyshire ,2016,Prescription items per 100000 population,Disulfiram,39.90430604
+E38000173,05V,NHS Stafford and Surrounds,2016,Prescription items per 100000 population,Disulfiram,122.1987898
+E38000175,05W,NHS Stoke on Trent ,2016,Prescription items per 100000 population,Disulfiram,5.387537087
+E38000183,05X,NHS Telford & Wrekin ,2016,Prescription items per 100000 population,Disulfiram,164.7590837
+E39000033,Q77,NHS England Midlands and East (West Midlands),2016,Prescription items per 100000 population,Disulfiram,74.64642844
+E38000012,13P,NHS Birmingham CrossCity ,2016,Prescription items per 100000 population,Disulfiram,19.0335544
+E38000013,04X,NHS Birmingham South and Central ,2016,Prescription items per 100000 population,Disulfiram,16.80863371
+E38000038,05A,NHS Coventry and Rugby ,2016,Prescription items per 100000 population,Disulfiram,38.99043732
+E38000046,05C,NHS Dudley ,2016,Prescription items per 100000 population,Disulfiram,158.3118459
+E38000078,05F,NHS Herefordshire,2016,Prescription items per 100000 population,Disulfiram,101.010638
+E38000139,05J,NHS Redditch and Bromsgrove ,2016,Prescription items per 100000 population,Disulfiram,14.95753721
+E38000144,05L,NHS Sandwell and West Birmingham ,2016,Prescription items per 100000 population,Disulfiram,38.75428553
+E38000149,05P,NHS Solihull ,2016,Prescription items per 100000 population,Disulfiram,518.9004253
+E38000164,05R,NHS South Warwickshire ,2016,Prescription items per 100000 population,Disulfiram,86.82248817
+E38000166,05T,NHS South Worcestershire ,2016,Prescription items per 100000 population,Disulfiram,45.54908416
+E38000191,05Y,NHS Walsall ,2016,Prescription items per 100000 population,Disulfiram,96.705844
+E38000195,05H,NHS Warwickshire North ,2016,Prescription items per 100000 population,Disulfiram,47.06355166
+E38000210,06A,NHS Wolverhampton ,2016,Prescription items per 100000 population,Disulfiram,10.21988475
+E38000211,06D,NHS Wyre Forest ,2016,Prescription items per 100000 population,Disulfiram,7.03496377
+E39000030,Q78,NHS England Midlands and East (Central Midlands),2016,Prescription items per 100000 population,Disulfiram,46.80936923
+E38000010,06F,NHS Bedfordshire ,2016,Prescription items per 100000 population,Disulfiram,62.00684119
+E38000037,03V,NHS Corby ,2016,Prescription items per 100000 population,Disulfiram,5.983187244
+E38000049,06K,NHS East and North Hertfordshire ,2016,Prescription items per 100000 population,Disulfiram,40.42174547
+E38000051,03W,NHS East Leicestershire and Rutland ,2016,Prescription items per 100000 population,Disulfiram,51.85655679
+E38000079,06N,NHS Herts Valleys ,2016,Prescription items per 100000 population,Disulfiram,32.13072615
+E38000097,04C,NHS Leicester City ,2016,Prescription items per 100000 population,Disulfiram,26.26763215
+E38000099,03T,NHS Lincolnshire East,2016,Prescription items per 100000 population,Disulfiram,38.78808775
+E38000100,04D,NHS Lincolnshire West,2016,Prescription items per 100000 population,Disulfiram,58.46256262
+E38000102,06P,NHS Luton ,2016,Prescription items per 100000 population,Disulfiram,53.56061665
+E38000107,04F,NHS Milton Keynes ,2016,Prescription items per 100000 population,Disulfiram,8.590070625
+E38000108,04G,NHS Nene ,2016,Prescription items per 100000 population,Disulfiram,69.37120626
+E38000157,99D,NHS South Lincolnshire ,2016,Prescription items per 100000 population,Disulfiram,34.93629264
+E38000165,04Q,NHS South West Lincolnshire,2016,Prescription items per 100000 population,Disulfiram,126.2900488
+E38000201,04V,NHS West Leicestershire ,2016,Prescription items per 100000 population,Disulfiram,44.13404361
+E39000031,Q79,NHS England Midlands and East (East),2016,Prescription items per 100000 population,Disulfiram,85.91519848
+E38000007,99E,NHS Basildon and Brentwood,2016,Prescription items per 100000 population,Disulfiram,70.60338741
+E38000026,06H,NHS Cambridgeshire and Peterborough,2016,Prescription items per 100000 population,Disulfiram,106.0058172
+E38000030,99F,NHS Castle Point and Rochford,2016,Prescription items per 100000 population,Disulfiram,76.87144685
+E38000063,06M,NHS Great Yarmouth & Waveney ,2016,Prescription items per 100000 population,Disulfiram,176.4029621
+E38000086,06L,NHS Ipswich and East Suffolk,2016,Prescription items per 100000 population,Disulfiram,25.28445006
+E38000106,06Q,NHS Mid Essex ,2016,Prescription items per 100000 population,Disulfiram,33.96061088
+E38000117,06T,NHS North East Essex ,2016,Prescription items per 100000 population,Disulfiram,15.07126556
+E38000124,06V,NHS North Norfolk ,2016,Prescription items per 100000 population,Disulfiram,93.80093097
+E38000131,06W,NHS Norwich ,2016,Prescription items per 100000 population,Disulfiram,382.8808378
+E38000159,06Y,NHS South Norfolk ,2016,Prescription items per 100000 population,Disulfiram,47.66659681
+E38000168,99G,NHS Southend,2016,Prescription items per 100000 population,Disulfiram,78.34271581
+E38000185,07G,NHS Thurrock ,2016,Prescription items per 100000 population,Disulfiram,1.816156528
+E38000197,07H,NHS West Essex,2016,Prescription items per 100000 population,Disulfiram,32.64566462
+E38000203,07J,NHS West Norfolk ,2016,Prescription items per 100000 population,Disulfiram,140.6865504
+E38000204,07K,NHS West Suffolk,2016,Prescription items per 100000 population,Disulfiram,114.9130638
+E40000003,Y56,London,2016,Prescription items per 100000 population,Disulfiram,28.59213811
+E39000018,Q71,NHS England London,2016,Prescription items per 100000 population,Disulfiram,28.59213811
+E38000004,07L,NHS Barking & Dagenham ,2016,Prescription items per 100000 population,Disulfiram,26.24035172
+E38000005,07M,NHS Barnet ,2016,Prescription items per 100000 population,Disulfiram,17.90929993
+E38000011,07N,NHS Bexley ,2016,Prescription items per 100000 population,Disulfiram,8.259616258
+E38000020,07P,NHS Brent ,2016,Prescription items per 100000 population,Disulfiram,9.876177426
+E38000023,07Q,NHS Bromley ,2016,Prescription items per 100000 population,Disulfiram,28.93580868
+E38000027,07R,NHS Camden ,2016,Prescription items per 100000 population,Disulfiram,39.40943918
+E38000031,09A,NHS Central London (Westminster) ,2016,Prescription items per 100000 population,Disulfiram,240.6096209
+E38000035,07T,NHS City and Hackney ,2016,Prescription items per 100000 population,Disulfiram,6.480204774
+E38000040,07V,NHS Croydon ,2016,Prescription items per 100000 population,Disulfiram,3.693629281
+E38000048,07W,NHS Ealing ,2016,Prescription items per 100000 population,Disulfiram,50.13714842
+E38000057,07X,NHS Enfield ,2016,Prescription items per 100000 population,Disulfiram,11.26561582
+E38000066,08A,NHS Greenwich ,2016,Prescription items per 100000 population,Disulfiram,10.55301434
+E38000070,08C,NHS Hammersmith and Fulham ,2016,Prescription items per 100000 population,Disulfiram,56.29563569
+E38000072,08D,NHS Haringey ,2016,Prescription items per 100000 population,Disulfiram,31.51753254
+E38000074,08E,NHS Harrow ,2016,Prescription items per 100000 population,Disulfiram,23.06478372
+E38000077,08F,NHS Havering ,2016,Prescription items per 100000 population,Disulfiram,20.87640765
+E38000082,08G,NHS Hillingdon ,2016,Prescription items per 100000 population,Disulfiram,15.78584983
+E38000084,07Y,NHS Hounslow ,2016,Prescription items per 100000 population,Disulfiram,35.34620679
+E38000088,08H,NHS Islington ,2016,Prescription items per 100000 population,Disulfiram,160.3042707
+E38000090,08J,NHS Kingston ,2016,Prescription items per 100000 population,Disulfiram,13.25457427
+E38000092,08K,NHS Lambeth ,2016,Prescription items per 100000 population,Disulfiram,19.72684485
+E38000098,08L,NHS Lewisham ,2016,Prescription items per 100000 population,Disulfiram,3.026990667
+E38000105,08R,NHS Merton ,2016,Prescription items per 100000 population,Disulfiram,9.776843546
+E38000113,08M,NHS Newham ,2016,Prescription items per 100000 population,Disulfiram,10.21582431
+E38000138,08N,NHS Redbridge ,2016,Prescription items per 100000 population,Disulfiram,10.10805511
+E38000140,08P,NHS Richmond ,2016,Prescription items per 100000 population,Disulfiram,19.00066759
+E38000171,08Q,NHS Southwark ,2016,Prescription items per 100000 population,Disulfiram,32.37283142
+E38000179,08T,NHS Sutton ,2016,Prescription items per 100000 population,Disulfiram,24.48225037
+E38000186,08V,NHS Tower Hamlets ,2016,Prescription items per 100000 population,Disulfiram,11.85492284
+E38000192,08W,NHS Waltham Forest,2016,Prescription items per 100000 population,Disulfiram,8.481764207
+E38000193,08X,NHS Wandsworth ,2016,Prescription items per 100000 population,Disulfiram,18.43939163
+E38000202,08Y,NHS West London,2016,Prescription items per 100000 population,Disulfiram,63.75376878
+E40000004,Y57,South of England,2016,Prescription items per 100000 population,Disulfiram,54.07967668
+E39000036,Q80,NHS England South (South West),2016,Prescription items per 100000 population,Disulfiram,65.05816957
+E38000022,11H,NHS Bristol ,2016,Prescription items per 100000 population,Disulfiram,111.9449489
+E38000089,11N,NHS Kernow ,2016,Prescription items per 100000 population,Disulfiram,81.38068034
+E38000125,11T,NHS North Somerset ,2016,Prescription items per 100000 population,Disulfiram,152.4215981
+E38000129,99P,"NHS North, East, West Devon ",2016,Prescription items per 100000 population,Disulfiram,25.26398053
+E38000150,11X,NHS Somerset ,2016,Prescription items per 100000 population,Disulfiram,50.60598838
+E38000152,99Q,NHS South Devon and Torbay ,2016,Prescription items per 100000 population,Disulfiram,87.23246915
+E38000155,12A,NHS South Gloucestershire ,2016,Prescription items per 100000 population,Disulfiram,24.02962197
+E39000035,Q81,NHS England South (South East),2016,Prescription items per 100000 population,Disulfiram,36.43469981
+E38000002,09C,NHS Ashford ,2016,Prescription items per 100000 population,Disulfiram,12.87726358
+E38000021,09D,NHS Brighton & Hove ,2016,Prescription items per 100000 population,Disulfiram,82.37636534
+E38000029,09E,NHS Canterbury and Coastal ,2016,Prescription items per 100000 population,Disulfiram,69.82803042
+E38000213,09G,NHS Coastal West Sussex ,2016,Prescription items per 100000 population,Disulfiram,46.8643318
+E38000039,09H,NHS Crawley ,2016,Prescription items per 100000 population,Disulfiram,13.53009092
+E38000043,09J,"NHS Dartford, Gravesham and Swanley ",2016,Prescription items per 100000 population,Disulfiram,47.63601438
+E38000054,09L,NHS East Surrey ,2016,Prescription items per 100000 population,Disulfiram,12.08665029
+E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",2016,Prescription items per 100000 population,Disulfiram,28.70996555
+E38000214,09N,NHS Guildford and Waverley,2016,Prescription items per 100000 population,Disulfiram,13.58537437
+E38000076,09P,NHS Hastings & Rother ,2016,Prescription items per 100000 population,Disulfiram,60.19359562
+E38000081,99K,NHS High Weald Lewes Havens ,2016,Prescription items per 100000 population,Disulfiram,34.97094497
+E38000083,09X,NHS Horsham and Mid Sussex ,2016,Prescription items per 100000 population,Disulfiram,11.2873677
+E38000104,09W,NHS Medway ,2016,Prescription items per 100000 population,Disulfiram,24.59383997
+E38000128,09Y,NHS North West Surrey ,2016,Prescription items per 100000 population,Disulfiram,8.454810496
+E38000156,10A,NHS South Kent Coast ,2016,Prescription items per 100000 population,Disulfiram,67.16537771
+E38000177,99H,NHS Surrey Downs ,2016,Prescription items per 100000 population,Disulfiram,6.968228363
+E38000178,10C,NHS Surrey Heath ,2016,Prescription items per 100000 population,Disulfiram,36.51500767
+E38000180,10D,NHS Swale ,2016,Prescription items per 100000 population,Disulfiram,20.43935732
+E38000184,10E,NHS Thanet ,2016,Prescription items per 100000 population,Disulfiram,88.00045789
+E38000199,99J,NHS West Kent ,2016,Prescription items per 100000 population,Disulfiram,34.8121507
+E39000034,Q82,NHS England South (South Central),2016,Prescription items per 100000 population,Disulfiram,77.11102519
+E38000003,10Y,NHS Aylesbury Vale ,2016,Prescription items per 100000 population,Disulfiram,69.08145815
+E38000009,11E,NHS Bath and North East Somerset ,2016,Prescription items per 100000 population,Disulfiram,80.59543256
+E38000017,10G,NHS Bracknell and Ascot ,2016,Prescription items per 100000 population,Disulfiram,61.30849853
+E38000033,10H,NHS Chiltern ,2016,Prescription items per 100000 population,Disulfiram,53.6964116
+E38000062,11M,NHS Gloucestershire ,2016,Prescription items per 100000 population,Disulfiram,167.3790674
+E38000110,10M,NHS Newbury and District ,2016,Prescription items per 100000 population,Disulfiram,23.49756565
+E38000114,10N,NHS North & West Reading ,2016,Prescription items per 100000 population,Disulfiram,42.85771239
+E38000136,10Q,NHS Oxfordshire ,2016,Prescription items per 100000 population,Disulfiram,107.7511506
+E38000148,10T,NHS Slough ,2016,Prescription items per 100000 population,Disulfiram,14.40981514
+E38000160,10W,NHS South Reading ,2016,Prescription items per 100000 population,Disulfiram,32.42279322
+E38000181,12D,NHS Swindon ,2016,Prescription items per 100000 population,Disulfiram,1.795581971
+E38000206,99N,NHS Wiltshire ,2016,Prescription items per 100000 population,Disulfiram,31.26973645
+E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",2016,Prescription items per 100000 population,Disulfiram,79.22977342
+E38000209,11D,NHS Wokingham ,2016,Prescription items per 100000 population,Disulfiram,56.72998398
+E39000025,Q70,NHS England South (Wessex),2016,Prescription items per 100000 population,Disulfiram,40.54231133
+E38000045,11J,NHS Dorset ,2016,Prescription items per 100000 population,Disulfiram,90.24681393
+E38000059,10K,NHS Fareham and Gosport ,2016,Prescription items per 100000 population,Disulfiram,14.53845421
+E38000087,10L,NHS Isle of Wight ,2016,Prescription items per 100000 population,Disulfiram,30.13020553
+E38000118,99M,NHS North East Hampshire and Farnham ,2016,Prescription items per 100000 population,Disulfiram,12.43002137
+E38000120,10J,NHS North Hampshire ,2016,Prescription items per 100000 population,Disulfiram,6.795016988
+E38000137,10R,NHS Portsmouth ,2016,Prescription items per 100000 population,Disulfiram,6.61132047
+E38000154,10V,NHS South Eastern Hampshire ,2016,Prescription items per 100000 population,Disulfiram,13.21502737
+E38000167,10X,NHS Southampton ,2016,Prescription items per 100000 population,Disulfiram,57.30613095
+E38000198,11A,NHS West Hampshire ,2016,Prescription items per 100000 population,Disulfiram,23.78781271
+E92000001,921,England,2016,Prescription items per 100000 population,Nalmefene,5.682074653
+XXXXXXXX,XXX,Unknown,2016,Prescription items per 100000 population,Nalmefene,..
+E40000001,Y54,North of England,2016,Prescription items per 100000 population,Nalmefene,4.766331728
+E39000029,Q72,NHS England North (Yorkshire and Humber),2016,Prescription items per 100000 population,Nalmefene,2.32767351
+E38000001,02N,"NHS Airedale, Wharfedale and Craven ",2016,Prescription items per 100000 population,Nalmefene,0
+E38000006,02P,NHS Barnsley ,2016,Prescription items per 100000 population,Nalmefene,12.53556968
+E38000008,02Q,NHS Bassetlaw ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000018,02W,NHS Bradford City ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000019,02R,NHS Bradford Districts ,2016,Prescription items per 100000 population,Nalmefene,1.776582861
+E38000025,02T,NHS Calderdale ,2016,Prescription items per 100000 population,Nalmefene,1.439525532
+E38000044,02X,NHS Doncaster ,2016,Prescription items per 100000 population,Nalmefene,0.656139994
+E38000052,02Y,NHS East Riding of Yorkshire ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000064,03A,NHS Greater Huddersfield ,2016,Prescription items per 100000 population,Nalmefene,10.66386672
+E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",2016,Prescription items per 100000 population,Nalmefene,1.317306109
+E38000073,03E,NHS Harrogate and Rural District ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000085,03F,NHS Hull ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000094,02V,NHS Leeds North ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000095,03G,NHS Leeds South and East ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000096,03C,NHS Leeds West ,2016,Prescription items per 100000 population,Nalmefene,0.3089767
+E38000119,03H,NHS North East Lincolnshire ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000121,03J,NHS North Kirklees ,2016,Prescription items per 100000 population,Nalmefene,7.34881133
+E38000122,03K,NHS North Lincolnshire ,2016,Prescription items per 100000 population,Nalmefene,8.244023083
+E38000141,03L,NHS Rotherham ,2016,Prescription items per 100000 population,Nalmefene,1.150368501
+E38000145,03M,NHS Scarborough and Ryedale ,2016,Prescription items per 100000 population,Nalmefene,2.709831268
+E38000146,03N,NHS Sheffield ,2016,Prescription items per 100000 population,Nalmefene,4.036950382
+E38000188,03Q,NHS Vale of York ,2016,Prescription items per 100000 population,Nalmefene,0.281369934
+E38000190,03R,NHS Wakefield ,2016,Prescription items per 100000 population,Nalmefene,0
+E39000037,Q83,NHS England North (Greater Manchester),2016,Prescription items per 100000 population,Nalmefene,8.568338234
+E38000016,00T,NHS Bolton ,2016,Prescription items per 100000 population,Nalmefene,0.710179356
+E38000024,00V,NHS Bury ,2016,Prescription items per 100000 population,Nalmefene,2.128973196
+E38000032,00W,NHS Central Manchester,2016,Prescription items per 100000 population,Nalmefene,7.942138871
+E38000080,01D,"NHS Heywood, Middleton and Rochdale ",2016,Prescription items per 100000 population,Nalmefene,3.734914447
+E38000123,01M,NHS North Manchester ,2016,Prescription items per 100000 population,Nalmefene,12.31154935
+E38000135,00Y,NHS Oldham,2016,Prescription items per 100000 population,Nalmefene,17.32929561
+E38000143,01G,NHS Salford ,2016,Prescription items per 100000 population,Nalmefene,10.5857158
+E38000158,01N,NHS South Manchester ,2016,Prescription items per 100000 population,Nalmefene,1.843521864
+E38000174,01W,NHS Stockport,2016,Prescription items per 100000 population,Nalmefene,13.50728874
+E38000182,01Y,NHS Tameside and Glossop,2016,Prescription items per 100000 population,Nalmefene,27.85744834
+E38000187,02A,NHS Trafford,2016,Prescription items per 100000 population,Nalmefene,1.71461884
+E38000205,02H,NHS Wigan Borough,2016,Prescription items per 100000 population,Nalmefene,1.552688947
+E39000038,Q84,NHS England North (Lancashire),2016,Prescription items per 100000 population,Nalmefene,2.638495652
+E38000014,00Q,NHS Blackburn with Darwen ,2016,Prescription items per 100000 population,Nalmefene,0.680985522
+E38000015,00R,NHS Blackpool,2016,Prescription items per 100000 population,Nalmefene,7.164452851
+E38000034,00X,NHS Chorley and South Ribble,2016,Prescription items per 100000 population,Nalmefene,1.738797795
+E38000050,01A,NHS East Lancashire ,2016,Prescription items per 100000 population,Nalmefene,1.603322083
+E38000060,02M,NHS Fylde & Wyre,2016,Prescription items per 100000 population,Nalmefene,0.595613899
+E38000065,01E,NHS Greater Preston ,2016,Prescription items per 100000 population,Nalmefene,3.450944819
+E38000093,01K,NHS Lancashire North ,2016,Prescription items per 100000 population,Nalmefene,2.477455158
+E38000200,02G,NHS West Lancashire,2016,Prescription items per 100000 population,Nalmefene,6.208866261
+E39000027,Q74,NHS England North (Cumbria and North East),2016,Prescription items per 100000 population,Nalmefene,4.410815704
+E38000041,01H,NHS Cumbria ,2016,Prescription items per 100000 population,Nalmefene,1.587137835
+E38000042,00C,NHS Darlington ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",2016,Prescription items per 100000 population,Nalmefene,0.365028783
+E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000212,13T,NHS Newcastle Gateshead,2016,Prescription items per 100000 population,Nalmefene,2.834702427
+E38000116,00J,NHS North Durham ,2016,Prescription items per 100000 population,Nalmefene,4.883130412
+E38000127,99C,NHS North Tyneside ,2016,Prescription items per 100000 population,Nalmefene,0.987683586
+E38000130,00L,NHS Northumberland ,2016,Prescription items per 100000 population,Nalmefene,29.18198457
+E38000162,00M,NHS South Tees ,2016,Prescription items per 100000 population,Nalmefene,0.363922208
+E38000163,00N,NHS South Tyneside ,2016,Prescription items per 100000 population,Nalmefene,1.345252268
+E38000176,00P,NHS Sunderland ,2016,Prescription items per 100000 population,Nalmefene,2.164892657
+E39000026,Q75,NHS England North (Cheshire and Merseyside),2016,Prescription items per 100000 population,Nalmefene,7.659031391
+E38000056,01C,NHS Eastern Cheshire ,2016,Prescription items per 100000 population,Nalmefene,2.035364457
+E38000068,01F,NHS Halton ,2016,Prescription items per 100000 population,Nalmefene,2.371016692
+E38000091,01J,NHS Knowsley ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000101,99A,NHS Liverpool ,2016,Prescription items per 100000 population,Nalmefene,0.417902963
+E38000151,01R,NHS South Cheshire ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000161,01T,NHS South Sefton ,2016,Prescription items per 100000 population,Nalmefene,27.73522941
+E38000170,01V,NHS Southport and Formby ,2016,Prescription items per 100000 population,Nalmefene,43.45407773
+E38000172,01X,NHS St Helens ,2016,Prescription items per 100000 population,Nalmefene,42.22687656
+E38000189,02D,NHS Vale Royal ,2016,Prescription items per 100000 population,Nalmefene,2.914432269
+E38000194,02E,NHS Warrington,2016,Prescription items per 100000 population,Nalmefene,0.96295048
+E38000196,02F,NHS West Cheshire ,2016,Prescription items per 100000 population,Nalmefene,0.432936042
+E38000208,12F,NHS Wirral,2016,Prescription items per 100000 population,Nalmefene,0.934870676
+E40000002,Y55,Midlands and East of England,2016,Prescription items per 100000 population,Nalmefene,4.403131998
+E39000032,Q76,NHS England Midlands and East (North Midlands),2016,Prescription items per 100000 population,Nalmefene,0.886327403
+E38000028,04Y,NHS Cannock Chase,2016,Prescription items per 100000 population,Nalmefene,1.483052418
+E38000053,05D,NHS East Staffordshire ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000058,03X,NHS Erewash ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000071,03Y,NHS Hardwick ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000103,04E,NHS Mansfield & Ashfield ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000109,04H,NHS Newark & Sherwood ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000115,04J,NHS North Derbyshire ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000126,05G,NHS North Staffordshire ,2016,Prescription items per 100000 population,Nalmefene,0.461435526
+E38000132,04K,NHS Nottingham City ,2016,Prescription items per 100000 population,Nalmefene,1.567884704
+E38000133,04L,NHS Nottingham North & East ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000134,04M,NHS Nottingham West ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000142,04N,NHS Rushcliffe ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000147,05N,NHS Shropshire ,2016,Prescription items per 100000 population,Nalmefene,5.138416083
+E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,2016,Prescription items per 100000 population,Nalmefene,2.223892613
+E38000169,04R,NHS Southern Derbyshire ,2016,Prescription items per 100000 population,Nalmefene,0.190929694
+E38000173,05V,NHS Stafford and Surrounds,2016,Prescription items per 100000 population,Nalmefene,0
+E38000175,05W,NHS Stoke on Trent ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000183,05X,NHS Telford & Wrekin ,2016,Prescription items per 100000 population,Nalmefene,1.168504139
+E39000033,Q77,NHS England Midlands and East (West Midlands),2016,Prescription items per 100000 population,Nalmefene,5.608712618
+E38000012,13P,NHS Birmingham CrossCity ,2016,Prescription items per 100000 population,Nalmefene,5.129610406
+E38000013,04X,NHS Birmingham South and Central ,2016,Prescription items per 100000 population,Nalmefene,0.988743159
+E38000038,05A,NHS Coventry and Rugby ,2016,Prescription items per 100000 population,Nalmefene,4.901654977
+E38000046,05C,NHS Dudley ,2016,Prescription items per 100000 population,Nalmefene,9.163759543
+E38000078,05F,NHS Herefordshire,2016,Prescription items per 100000 population,Nalmefene,4.784714432
+E38000139,05J,NHS Redditch and Bromsgrove ,2016,Prescription items per 100000 population,Nalmefene,3.323897159
+E38000144,05L,NHS Sandwell and West Birmingham ,2016,Prescription items per 100000 population,Nalmefene,3.075736947
+E38000149,05P,NHS Solihull ,2016,Prescription items per 100000 population,Nalmefene,3.326284777
+E38000164,05R,NHS South Warwickshire ,2016,Prescription items per 100000 population,Nalmefene,12.23929349
+E38000166,05T,NHS South Worcestershire ,2016,Prescription items per 100000 population,Nalmefene,7.033314466
+E38000191,05Y,NHS Walsall ,2016,Prescription items per 100000 population,Nalmefene,14.48776689
+E38000195,05H,NHS Warwickshire North ,2016,Prescription items per 100000 population,Nalmefene,2.644019756
+E38000210,06A,NHS Wolverhampton ,2016,Prescription items per 100000 population,Nalmefene,1.965362452
+E38000211,06D,NHS Wyre Forest ,2016,Prescription items per 100000 population,Nalmefene,2.009989649
+E39000030,Q78,NHS England Midlands and East (Central Midlands),2016,Prescription items per 100000 population,Nalmefene,5.252103139
+E38000010,06F,NHS Bedfordshire ,2016,Prescription items per 100000 population,Nalmefene,5.224019588
+E38000037,03V,NHS Corby ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000049,06K,NHS East and North Hertfordshire ,2016,Prescription items per 100000 population,Nalmefene,2.325144651
+E38000051,03W,NHS East Leicestershire and Rutland ,2016,Prescription items per 100000 population,Nalmefene,26.08170016
+E38000079,06N,NHS Herts Valleys ,2016,Prescription items per 100000 population,Nalmefene,1.020023053
+E38000097,04C,NHS Leicester City ,2016,Prescription items per 100000 population,Nalmefene,2.334900635
+E38000099,03T,NHS Lincolnshire East,2016,Prescription items per 100000 population,Nalmefene,0
+E38000100,04D,NHS Lincolnshire West,2016,Prescription items per 100000 population,Nalmefene,0
+E38000102,06P,NHS Luton ,2016,Prescription items per 100000 population,Nalmefene,2.794466955
+E38000107,04F,NHS Milton Keynes ,2016,Prescription items per 100000 population,Nalmefene,0.746962663
+E38000108,04G,NHS Nene ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000157,99D,NHS South Lincolnshire ,2016,Prescription items per 100000 population,Nalmefene,1.370050692
+E38000165,04Q,NHS South West Lincolnshire,2016,Prescription items per 100000 population,Nalmefene,23.32746125
+E38000201,04V,NHS West Leicestershire ,2016,Prescription items per 100000 population,Nalmefene,17.03419227
+E39000031,Q79,NHS England Midlands and East (East),2016,Prescription items per 100000 population,Nalmefene,5.291033656
+E38000007,99E,NHS Basildon and Brentwood,2016,Prescription items per 100000 population,Nalmefene,0.7758614
+E38000026,06H,NHS Cambridgeshire and Peterborough,2016,Prescription items per 100000 population,Nalmefene,5.477157401
+E38000030,99F,NHS Castle Point and Rochford,2016,Prescription items per 100000 population,Nalmefene,1.721002541
+E38000063,06M,NHS Great Yarmouth & Waveney ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000086,06L,NHS Ipswich and East Suffolk,2016,Prescription items per 100000 population,Nalmefene,0
+E38000106,06Q,NHS Mid Essex ,2016,Prescription items per 100000 population,Nalmefene,25.66488914
+E38000117,06T,NHS North East Essex ,2016,Prescription items per 100000 population,Nalmefene,8.612151746
+E38000124,06V,NHS North Norfolk ,2016,Prescription items per 100000 population,Nalmefene,1.172511637
+E38000131,06W,NHS Norwich ,2016,Prescription items per 100000 population,Nalmefene,0.504454332
+E38000159,06Y,NHS South Norfolk ,2016,Prescription items per 100000 population,Nalmefene,0.821837876
+E38000168,99G,NHS Southend,2016,Prescription items per 100000 population,Nalmefene,10.07263489
+E38000185,07G,NHS Thurrock ,2016,Prescription items per 100000 population,Nalmefene,0.605385509
+E38000197,07H,NHS West Essex,2016,Prescription items per 100000 population,Nalmefene,6.329261508
+E38000203,07J,NHS West Norfolk ,2016,Prescription items per 100000 population,Nalmefene,1.722692453
+E38000204,07K,NHS West Suffolk,2016,Prescription items per 100000 population,Nalmefene,0.441973322
+E40000003,Y56,London,2016,Prescription items per 100000 population,Nalmefene,5.868305765
+E39000018,Q71,NHS England London,2016,Prescription items per 100000 population,Nalmefene,5.868305765
+E38000004,07L,NHS Barking & Dagenham ,2016,Prescription items per 100000 population,Nalmefene,27.72565465
+E38000005,07M,NHS Barnet ,2016,Prescription items per 100000 population,Nalmefene,11.06162643
+E38000011,07N,NHS Bexley ,2016,Prescription items per 100000 population,Nalmefene,5.781731381
+E38000020,07P,NHS Brent ,2016,Prescription items per 100000 population,Nalmefene,0.617261089
+E38000023,07Q,NHS Bromley ,2016,Prescription items per 100000 population,Nalmefene,3.386105271
+E38000027,07R,NHS Camden ,2016,Prescription items per 100000 population,Nalmefene,0.829672404
+E38000031,09A,NHS Central London (Westminster) ,2016,Prescription items per 100000 population,Nalmefene,6.316720359
+E38000035,07T,NHS City and Hackney ,2016,Prescription items per 100000 population,Nalmefene,0.360011376
+E38000040,07V,NHS Croydon ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000048,07W,NHS Ealing ,2016,Prescription items per 100000 population,Nalmefene,3.497940587
+E38000057,07X,NHS Enfield ,2016,Prescription items per 100000 population,Nalmefene,3.349237135
+E38000066,08A,NHS Greenwich ,2016,Prescription items per 100000 population,Nalmefene,0.727794092
+E38000070,08C,NHS Hammersmith and Fulham ,2016,Prescription items per 100000 population,Nalmefene,9.475503038
+E38000072,08D,NHS Haringey ,2016,Prescription items per 100000 population,Nalmefene,13.55986865
+E38000074,08E,NHS Harrow ,2016,Prescription items per 100000 population,Nalmefene,7.688261239
+E38000077,08F,NHS Havering ,2016,Prescription items per 100000 population,Nalmefene,8.029387558
+E38000082,08G,NHS Hillingdon ,2016,Prescription items per 100000 population,Nalmefene,0.671738291
+E38000084,07Y,NHS Hounslow ,2016,Prescription items per 100000 population,Nalmefene,25.67250809
+E38000088,08H,NHS Islington ,2016,Prescription items per 100000 population,Nalmefene,11.85812413
+E38000090,08J,NHS Kingston ,2016,Prescription items per 100000 population,Nalmefene,0.576285838
+E38000092,08K,NHS Lambeth ,2016,Prescription items per 100000 population,Nalmefene,8.014030718
+E38000098,08L,NHS Lewisham ,2016,Prescription items per 100000 population,Nalmefene,3.363322963
+E38000105,08R,NHS Merton ,2016,Prescription items per 100000 population,Nalmefene,0.977684355
+E38000113,08M,NHS Newham ,2016,Prescription items per 100000 population,Nalmefene,1.802792526
+E38000138,08N,NHS Redbridge ,2016,Prescription items per 100000 population,Nalmefene,16.17288817
+E38000140,08P,NHS Richmond ,2016,Prescription items per 100000 population,Nalmefene,0.513531557
+E38000171,08Q,NHS Southwark ,2016,Prescription items per 100000 population,Nalmefene,0.323728314
+E38000179,08T,NHS Sutton ,2016,Prescription items per 100000 population,Nalmefene,5.995653151
+E38000186,08V,NHS Tower Hamlets ,2016,Prescription items per 100000 population,Nalmefene,7.112953705
+E38000192,08W,NHS Waltham Forest,2016,Prescription items per 100000 population,Nalmefene,3.687723568
+E38000193,08X,NHS Wandsworth ,2016,Prescription items per 100000 population,Nalmefene,2.225443817
+E38000202,08Y,NHS West London,2016,Prescription items per 100000 population,Nalmefene,3.984610549
+E40000004,Y57,South of England,2016,Prescription items per 100000 population,Nalmefene,4.056152413
+E39000036,Q80,NHS England South (South West),2016,Prescription items per 100000 population,Nalmefene,2.937304486
+E38000022,11H,NHS Bristol ,2016,Prescription items per 100000 population,Nalmefene,0.667663711
+E38000089,11N,NHS Kernow ,2016,Prescription items per 100000 population,Nalmefene,10.69367514
+E38000125,11T,NHS North Somerset ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000129,99P,"NHS North, East, West Devon ",2016,Prescription items per 100000 population,Nalmefene,2.1334028
+E38000150,11X,NHS Somerset ,2016,Prescription items per 100000 population,Nalmefene,1.833550303
+E38000152,99Q,NHS South Devon and Torbay ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000155,12A,NHS South Gloucestershire ,2016,Prescription items per 100000 population,Nalmefene,1.092255544
+E39000035,Q81,NHS England South (South East),2016,Prescription items per 100000 population,Nalmefene,2.357667812
+E38000002,09C,NHS Ashford ,2016,Prescription items per 100000 population,Nalmefene,2.414486922
+E38000021,09D,NHS Brighton & Hove ,2016,Prescription items per 100000 population,Nalmefene,1.752688624
+E38000029,09E,NHS Canterbury and Coastal ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000213,09G,NHS Coastal West Sussex ,2016,Prescription items per 100000 population,Nalmefene,1.010007151
+E38000039,09H,NHS Crawley ,2016,Prescription items per 100000 population,Nalmefene,6.31404243
+E38000043,09J,"NHS Dartford, Gravesham and Swanley ",2016,Prescription items per 100000 population,Nalmefene,0
+E38000054,09L,NHS East Surrey ,2016,Prescription items per 100000 population,Nalmefene,3.296359171
+E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",2016,Prescription items per 100000 population,Nalmefene,5.848326315
+E38000214,09N,NHS Guildford and Waverley,2016,Prescription items per 100000 population,Nalmefene,0.485191942
+E38000076,09P,NHS Hastings & Rother ,2016,Prescription items per 100000 population,Nalmefene,6.507415743
+E38000081,99K,NHS High Weald Lewes Havens ,2016,Prescription items per 100000 population,Nalmefene,1.748547249
+E38000083,09X,NHS Horsham and Mid Sussex ,2016,Prescription items per 100000 population,Nalmefene,1.302388581
+E38000104,09W,NHS Medway ,2016,Prescription items per 100000 population,Nalmefene,1.085022351
+E38000128,09Y,NHS North West Surrey ,2016,Prescription items per 100000 population,Nalmefene,0.583090379
+E38000156,10A,NHS South Kent Coast ,2016,Prescription items per 100000 population,Nalmefene,1.946822542
+E38000177,99H,NHS Surrey Downs ,2016,Prescription items per 100000 population,Nalmefene,0.348411418
+E38000178,10C,NHS Surrey Heath ,2016,Prescription items per 100000 population,Nalmefene,12.5194312
+E38000180,10D,NHS Swale ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000184,10E,NHS Thanet ,2016,Prescription items per 100000 population,Nalmefene,9.300861403
+E38000199,99J,NHS West Kent ,2016,Prescription items per 100000 population,Nalmefene,3.56509977
+E39000034,Q82,NHS England South (South Central),2016,Prescription items per 100000 population,Nalmefene,7.04033084
+E38000003,10Y,NHS Aylesbury Vale ,2016,Prescription items per 100000 population,Nalmefene,0.48308712
+E38000009,11E,NHS Bath and North East Somerset ,2016,Prescription items per 100000 population,Nalmefene,0
+E38000017,10G,NHS Bracknell and Ascot ,2016,Prescription items per 100000 population,Nalmefene,6.568767699
+E38000033,10H,NHS Chiltern ,2016,Prescription items per 100000 population,Nalmefene,1.234400267
+E38000062,11M,NHS Gloucestershire ,2016,Prescription items per 100000 population,Nalmefene,5.995184409
+E38000110,10M,NHS Newbury and District ,2016,Prescription items per 100000 population,Nalmefene,13.15863677
+E38000114,10N,NHS North & West Reading ,2016,Prescription items per 100000 population,Nalmefene,1.993381972
+E38000136,10Q,NHS Oxfordshire ,2016,Prescription items per 100000 population,Nalmefene,1.959111829
+E38000148,10T,NHS Slough ,2016,Prescription items per 100000 population,Nalmefene,4.803271714
+E38000160,10W,NHS South Reading ,2016,Prescription items per 100000 population,Nalmefene,2.701899435
+E38000181,12D,NHS Swindon ,2016,Prescription items per 100000 population,Nalmefene,25.58704308
+E38000206,99N,NHS Wiltshire ,2016,Prescription items per 100000 population,Nalmefene,20.77791698
+E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",2016,Prescription items per 100000 population,Nalmefene,0
+E38000209,11D,NHS Wokingham ,2016,Prescription items per 100000 population,Nalmefene,3.740438504
+E39000025,Q70,NHS England South (Wessex),2016,Prescription items per 100000 population,Nalmefene,4.271422087
+E38000045,11J,NHS Dorset ,2016,Prescription items per 100000 population,Nalmefene,4.832318546
+E38000059,10K,NHS Fareham and Gosport ,2016,Prescription items per 100000 population,Nalmefene,10.02652015
+E38000087,10L,NHS Isle of Wight ,2016,Prescription items per 100000 population,Nalmefene,3.58692923
+E38000118,99M,NHS North East Hampshire and Farnham ,2016,Prescription items per 100000 population,Nalmefene,6.69308843
+E38000120,10J,NHS North Hampshire ,2016,Prescription items per 100000 population,Nalmefene,1.81200453
+E38000137,10R,NHS Portsmouth ,2016,Prescription items per 100000 population,Nalmefene,3.305660235
+E38000154,10V,NHS South Eastern Hampshire ,2016,Prescription items per 100000 population,Nalmefene,3.775722107
+E38000167,10X,NHS Southampton ,2016,Prescription items per 100000 population,Nalmefene,0.801484349
+E38000198,11A,NHS West Hampshire ,2016,Prescription items per 100000 population,Nalmefene,3.784424749
