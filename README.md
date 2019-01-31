@@ -30,11 +30,5 @@ Many of the topics and exercises are heavily inspired by other courses which tea
 
 
 
-  
-  
-**:**
-
-
-
 
 
