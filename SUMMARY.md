@@ -1,16 +1,17 @@
 # Table of contents
 
 * [Course Outline](README.md)
-* [Course information](course-information.md)
+* [Course Organization](course-information.md)
+* [Course Staff](staff.md)
 
 ## Material
 
-* [Week 1](material/untitled.md)
-* [Untitled](material/untitled-1.md)
+* [Week 1](material/material-week1.md)
+* [Week 2](material/material-week2.md)
 
 ## Exercises
 
-* [Untitled](exercises/untitled.md)
+* [Week 1](exercises/untitled.md)
 
 ## Solutions
 
