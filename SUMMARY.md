@@ -6,10 +6,13 @@
 ## Material
 
 * [Week 1](material/material-week1.md)
+* [Week 2](material/week-2/README.md)
+  * [Extensions](material/week-2/week-2-extension.md)
 
 ## Exercises
 
 * [Week 1](exercises/untitled.md)
+* [Week 2](exercises/week-2.md)
 
 ## Solutions
 
