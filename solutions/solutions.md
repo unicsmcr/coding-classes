@@ -9,24 +9,26 @@ description: Solutions to Python Basics - Conditional Logic and Input
 {% code-tabs %}
 {% code-tabs-item title="week2\_solutions\_ex1.py" %}
 ```python
-# we store the name and password in 2 separate variables
+# Store the name and password in 2 separate variables
 name = "Alex"
 password = "1234"
 
-# first we will get the user to enter their name
-# and then check it with the one we have stored in 'name'
+# First get the user to enter their name
 input_name = input("Enter your name:")
-if not input_name == name:
-    # the input_name does not equal the name
+
+# Check against the name we have stored in 'name'
+if input_name != name:
+    # The input_name does not equal the name
     print("You have entered an incorrect username")
 else:
-    # the input_name does equal the name so we ask for the password
+    # The input_name matches the name -> ask for password
     input_password = input("Enter your password")
+    
     if input_password == password:
-         # the password is correct, so we print a secret message
+         # Password is correct -> print a secret message
          print("this is a secret")
      else:
-         # the password didn't match so print an error
+         # Password didn't match -> print an error
          print("You have entered an incorrect password")
 
 ```
@@ -38,28 +40,26 @@ else:
 {% code-tabs %}
 {% code-tabs-item title="week2\_solutions\_ext1.py" %}
 ```python
-# we store the name and password in 2 separate variables
-# name must be lowercase
-name = "alex"
+# Store the name and password in 2 separate variables
+name = "alex" # name must be lowercase
 password = "1234"
 
-# first we will get the user to enter their name
-# and then check it with the one we have stored in 'name'
-input_name = input("Enter your name:")
-# we then take the input and convert it all to lowercase
-input_name = input_name.lower()
+# First get the user to enter their name
+input_name = input("Enter your username: ")
+input_name = input_name.lower() # Convert to lowercase
 
-if not input_name == name:
-    # the input_name does not equal the name
+if input_name != name:
+    # input_name does not equal the name
     print("You have entered an incorrect username")
 else:
-    # the input_name does equal the name so we ask for the password
+    # input_name matches name -> ask for password
     input_password = input("Enter your password")
+    
     if input_password == password:
-         # the password is correct, so we print a secret message
+         # password is correctw -> print a secret message
          print("this is a secret")
      else:
-         # the password didn't match so print an error
+         # password didn't match -> print an error
          print("You have entered an incorrect password")
 
 ```
@@ -71,42 +71,34 @@ else:
 {% code-tabs %}
 {% code-tabs-item title="week2\_solutions\_ext2.py" %}
 ```python
-# we store the name and password in 2 separate variables for each user
-# name must be lowercase
+# For each user, store the name and password seperately
+# Again, name must be lowercase
 name1 = "alex"
 password1 = "1234"
+
 name2 = "joe"
 password2 = "5678"
 
-# first we will get the user to enter their name
-# and then check it with the one we have stored in 'name'
-input_name = input("Enter your name:")
-# we then take the input and convert it all to lowercase
-input_name = input_name.lower()
+# First get user to enter their name
+input_name = input("Enter your username: ")
+input_name = input_name.lower() # Convert to lowercase
 
-# check if the input matches the first user, and not the second
-if input_name == name1 and not input_name == name2:
-    # input_name is name1 and not name2, check password of name2
+# Check if the username matches one we have stored
+if input_name == name1 or input_name == name2:
+    # Valid username -> Ask for password
     input_password = input("Enter your password: ")
-    if input_password == password1:
-        print("Welcome")
+    
+    # Now check that the password matches for the corresponding user
+    if input_name == name1 and input_password == password1:
+        print("Welcome, First user")
+    elif input_name == name2 and input_password == password2:
+        print("Hey there, Second user")
     else:
+        # Password didn't match 
         print("You have entered an incorrect password")
-
-# not the first user, so check input matches second user, and not first
-elif input_name == name2 and not input_name == name1:
-    # input_name is name2 and not name1
-    input_password = input("Enter your password:")
-    if input_password == password2:
-        print("Welcome")
-    else:
-        print("You have entered an incorrect password")
-
-else:
-    # input_name is either not correct, or the names match
-    print("You have entered an incorrect username")
-
-
+else:    
+    # Username didn't match
+    print("You have entered an invalid username")
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -116,61 +108,53 @@ else:
 {% code-tabs %}
 {% code-tabs-item title="week2\_solutions\_ext3.py" %}
 ```python
-# we store the name and password in 2 separate variables for each user
-# name must be lowercase
+# For each user, store the name and password seperately
+# Again, name must be lowercase
 name1 = "alex"
 password1 = "1234"
+
 name2 = "joe"
 password2 = "5678"
 
-# first we will get the user to enter their name
-# and then check it with the one we have stored in 'name'
-input_name = input("Enter your name:")
-# we then take the input and convert it all to lowercase
-input_name = input_name.lower()
+# First get user to enter their name
+input_name = input("Enter your username: ")
+input_name = input_name.lower() # Convert to lowercase
 
-# check if the input matches the first user, and not the second
-if input_name == name1 and not input_name == name2:
-    # input_name is name1 and not name2, check password of name2
+# Check if the username matches one we have stored
+if input_name == name1 or input_name == name2:
+    # Valid username -> Ask for password
     input_password = input("Enter your password: ")
-    if input_password == password1:
-        print("Welcome")
-        
-        # check if the password contains a bad password component
-        if "1234" in password1 or "pass" in password1 or "word" in password1:
-            # ask if they want to change it
-            change_password = input("This is a rubbish password, change it?(y/n):")
+    
+    # Now check that the password matches for the corresponding user
+    # Do it in one big check, so we don't have to repeat the password check
+    if ((input_name == name1 and input_password == password1) or
+        (input_name == name2 and input_password == password2)):
+        print("Welcome, " + input_name)
+
+        # Check if the password contains a bad component
+        if ("1234" in input_password or 
+            "pass" in input_password or 
+            "word" in input_password):
+            # Ask if they want to change it
+            change_password = input("Warning: Password Sucks, change?(y/n): ")
             if change_password == "y":
-                # get a new password, and print it out to show its changed
-                password1 = input("Enter new password: ")
-                print("Password changed to:" + password1)
+                # Get a new password, and print it out to show its changed
+                new_password = input("Enter new password: ")
+                
+                # Need to change the correct password
+                if input_name == name1:
+                    password1 = new_password
+                else: # Know this must be user2
+                    password2 = new_password
+                
+                print("Succesfully change password to :"  + new_password)                   
+    
     else:
+        # Password didn't match 
         print("You have entered an incorrect password")
-
-# not the first user, so check input matches second user, and not first
-elif input_name == name2 and not input_name == name1:
-    # input_name is name2 and not name1
-    input_password = input("Enter your password:")
-    if input_password == password2:
-        print("Welcome")
-        
-        # check if the password contains a bad password component
-        if "1234" in password2 or "pass" in password2 or "word" in password2:
-            # ask if they want to change it
-            change_password = input("This is a rubbish password, change it?(y/n):")
-            if change_password == "y":
-                # get a new password, and print it out to show its changed
-                password2 = input("Enter new password: ")
-                print("Password changed to:" + password2)
-    else:
-        print("You have entered an incorrect password")
-
-else:
-    # input_name is either not correct, or the names match
-    print("You have entered an incorrect username")
-
-
-
+else:    
+    # Username didn't match
+    print("You have entered an invalid username")
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
