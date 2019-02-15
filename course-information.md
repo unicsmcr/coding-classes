@@ -6,10 +6,9 @@ description: Organizational Information
 
 ## Weekly Lectures
 
-  **When:** 5-6pm on Tuesdays  
-  **Where:** Collab 1 in the Kilburn building  
-  **Format:** The first 15-20min will consist of a short lecture given by Alex and Luke, followed by                      
-                 40min of working on exercises, with the assistance of TAs
+**When:** 5-6pm on Tuesdays  
+**Where:** Collab 1 in the Kilburn building  
+**Format:** The first 15-20min will consist of a short presentation given by Alex and Luke, followed by 40min of working on exercises, with the assistance of TAs
 
 ## **Piazza**
 
@@ -20,8 +19,6 @@ Find our class page at: [https://piazza.com/manchester.ac.uk/spring2019/cs1337/h
 ## Facebook Events
 
 Recurring Facebook events: [https://www.facebook.com/events/292795478097170/](https://www.facebook.com/events/292795478097170/)
-
-TAs
 
 
 

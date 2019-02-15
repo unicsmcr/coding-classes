@@ -7,8 +7,8 @@ description: Syllabus and Learning Outcomes
 ## **Syllabus**
 
   **Week 1:** Intro and Thinking Like a Programmer  
-  **Week 2:** Programming Languages and Python    
-  **Week 3:** Input, Types,  Lists and Dictionaries  
+  **Week 2:** Programming Languages and Python Basics    
+  **Week 3:** Types,  Lists and Dictionaries  
   **Week 4:** While loops and For loops  
   **Week 5:** Functions, and import  
   **Week 6:** File I/O and String Manipulation  
@@ -26,7 +26,9 @@ Once equipped with a foundational understanding of programming, students will be
 
 ## Acknowledgement
 
-Many of the topics and exercises are heavily inspired by other courses which teach introductory programming and/or python, and we have made no effort to thoroughly cite sources. However, Harvard's CS50 \([https://cs50.harvard.edu/college/](https://cs50.harvard.edu/college/)\) was the source of much inspiration for the early parts of the course, and for the exercises.
+Many of the topics and exercises are heavily inspired by other courses which teach introductory programming and/or python, and we have made no effort to thoroughly cite sources.   
+  
+However, Harvard's CS50 \([https://cs50.harvard.edu/college/](https://cs50.harvard.edu/college/)\) was the source of much inspiration for the early parts of the course, and for some of the exercises.
 
 
 

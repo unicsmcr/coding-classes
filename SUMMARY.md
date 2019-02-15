@@ -8,6 +8,10 @@
 * [Week 1](material/material-week1.md)
 * [Week 2](material/week-2/README.md)
   * [Extensions](material/week-2/week-2-extension.md)
+* [Week 3](material/week-3/README.md)
+  * [Extensions](material/week-3/extensions.md)
+* [Week 4](material/week-4/README.md)
+  * [Extensions](material/week-4/extensions.md)
 
 ## Exercises
 
@@ -16,9 +20,15 @@
 
 ## Solutions
 
+* [Week 2](solutions/solutions.md)
+
 ## Additional
 
-* [Lecture Slides](additional/untitled.md)
 * [More Resources](additional/more-resources.md)
 * [Setting up Python](additional/setting-up-python.md)
+
+## Lectures
+
+* [Slides](lectures/lecture-slides.md)
+* [Recordings](lectures/recordings.md)
 

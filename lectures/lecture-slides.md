@@ -1,4 +1,4 @@
-# Lecture Slides
+# Slides
 
 ## **Week 1** 
 
@@ -7,6 +7,10 @@
 ## Week 2
 
 {% embed url="https://docs.google.com/presentation/d/1fmvvyHGcYtklgOswdQvrkVT0on8xU86FKGpxKk0N51o/edit?usp=sharing" %}
+
+## Week 3
+
+{% embed url="https://docs.google.com/presentation/d/1DVsVcRNr3-uk5uwvWRSI81gVfBxjATrO9nKRYV1gPDc/edit?usp=sharing" %}
 
 
 
