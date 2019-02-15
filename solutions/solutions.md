@@ -6,6 +6,8 @@ description: Solutions to Python Basics - Conditional Logic and Input
 
 ## Exercise 1 - Login System
 
+Here we create a simple username-password checker by comparing **user input** to **stored variables,** using **nested** if-statements. 
+
 {% code-tabs %}
 {% code-tabs-item title="week2\_solutions\_ex1.py" %}
 ```python
@@ -14,7 +16,7 @@ name = "Alex"
 password = "1234"
 
 # First get the user to enter their name
-input_name = input("Enter your name:")
+input_name = input("Enter your username: ")
 
 # Check against the name we have stored in 'name'
 if input_name != name:
@@ -37,6 +39,10 @@ else:
 
 ## Extension Exercise 1 - Case Sensitivity 
 
+Here we use the **.lower\(\)** function to ensure that our system isn't sensitive to capitalization in usernames - this also means that we need to store lowercase usernames in our "database".  
+  
+Note that the ****.lower\(\) function **does not reassign** the value of a variable automatically, so we have to reassign manually.
+
 {% code-tabs %}
 {% code-tabs-item title="week2\_solutions\_ext1.py" %}
 ```python
@@ -56,10 +62,10 @@ else:
     input_password = input("Enter your password")
     
     if input_password == password:
-         # password is correctw -> print a secret message
+         # Password is correct -> print a secret message
          print("this is a secret")
      else:
-         # password didn't match -> print an error
+         # Password didn't match -> print an error
          print("You have entered an incorrect password")
 
 ```
@@ -67,6 +73,10 @@ else:
 {% endcode-tabs %}
 
 ## Extension Exercise 2 - Two users
+
+The aim of this extension and the next is to become comfortable with many different levels of nested statements, and more complicated logical expressions.  
+  
+**Note:** These examples are fairly ugly and contrived - in future weeks we will see how we could make this system far more efficient, and our code far more elegant.
 
 {% code-tabs %}
 {% code-tabs-item title="week2\_solutions\_ext2.py" %}
@@ -105,6 +115,8 @@ else:
 
 ## Extension 3 - Bad Passwords
 
+This is a fairly grueling exercise, but quickly recognizing the logical exclusivity which is implied by the **indentation level** of a piece of code is an essential skill for python programmers - so try and make sure you fully understand why this solution works!
+
 {% code-tabs %}
 {% code-tabs-item title="week2\_solutions\_ext3.py" %}
 ```python
@@ -135,8 +147,9 @@ if input_name == name1 or input_name == name2:
         if ("1234" in input_password or 
             "pass" in input_password or 
             "word" in input_password):
-            # Ask if they want to change it
+            # Ask if they want to change their password
             change_password = input("Warning: Password Sucks, change?(y/n): ")
+            
             if change_password == "y":
                 # Get a new password, and print it out to show its changed
                 new_password = input("Enter new password: ")
