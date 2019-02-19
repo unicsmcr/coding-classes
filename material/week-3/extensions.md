@@ -88,5 +88,15 @@ print(my_sentence)
 
 ## Basic Error Handling
 
-**Try, Except**
+If we try to something which python can't, then we'll get an error. The jargon for this is that : "python throws an error", and we can "catch" these to stop our programs from crashing.
+
+The syntax for is referred to as a "try, except":
+
+```text
+try:
+    # do stuff here which might throw an error
+    weird_function_does_bad_stuff()
+except: # this code runs if an error was thrown above
+    print("Oops - I encountered an error!")
+```
 
