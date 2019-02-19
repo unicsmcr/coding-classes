@@ -123,7 +123,7 @@ This is an excellent example of abstraction, because rather than sending your fr
   <tbody></tbody>
 </table>## 1.4 Algorithms
 
-![Algorithms take the inputs specified by a problem and output the solution](../.gitbook/assets/image%20%2814%29.png)
+![Algorithms take the inputs specified by a problem and output the solution](../.gitbook/assets/image%20%2815%29.png)
 
 Without going into any detail here, it is important to note that the essence of what many programmers do is **problem solving** - more specifically, designing **algorithms** which take the inputs defining a problem \(in a specified representation\) and output the solution \(in a specified representation\).
 

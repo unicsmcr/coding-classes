@@ -12,11 +12,15 @@
   * [Extensions](material/week-3/extensions.md)
 * [Week 4](material/week-4/README.md)
   * [Extensions](material/week-4/extensions.md)
+* [Week 5](material/week-5/README.md)
+  * [Extensions](material/week-5/extensions.md)
 
 ## Exercises
 
 * [Week 1](exercises/untitled.md)
 * [Week 2](exercises/week-2.md)
+* [Week 3](exercises/week-3.md)
+* [Week 4](exercises/week-4.md)
 
 ## Solutions
 
