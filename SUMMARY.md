@@ -26,6 +26,7 @@
 ## Solutions
 
 * [Week 2](solutions/solutions.md)
+* [Week 3](solutions/week-3.md)
 
 ## Additional
 
