@@ -28,7 +28,7 @@ Sometimes we want to access sub-sections of our list, without needing to manuall
 
 \*\*\*\*
 
-```text
+```python
 sentence = ["What", "A", "Great", ",", "Guy","Never","Said", "Anything","Bad"]
 
 # Emulate the media
@@ -40,7 +40,7 @@ print(out_of_context)
 
 **min\(\)** and **max\(\)** do what you'd expect - So long as you have numbers in the list; string comparison is a bit less straightforward
 
-```text
+```python
 my_numbers = [5,-2,71,-438,9]
 
 print(max(my_numbers)) # 71
@@ -52,7 +52,7 @@ print(min(my_numbers)) # -438
 Under the hood, min\(\) and max\(\) work by sorting the list first. We can do this manually by using **.sort\(\)**In \[24\]:  
 
 
-```text
+```python
 # Example of sorting
 # NOTE: don't mix strings and numbers if you want to sort!
 my_list = [4, 7, -20, 32, 9.3] 
@@ -65,7 +65,7 @@ print(my_list) # [-20, 4, 7, 9.3, 32]
 
 **split\(\)** is a function which allows us to break up strings into sub-strings stored in a list
 
-```text
+```python
 # Example of split()
 my_sentence = "I am too lazy to make sentences into lists"
 my_list = my_sentence.split(" ") # Split up string by empty spaces
@@ -77,7 +77,7 @@ print(my_list)
 
 **join\(\)** is essentially the opposite of split, and allows us to nicely format our lists when we want to print them
 
-```text
+```python
 # Example of join()
 # NOTE: all items in the list must be strings - unless you do something clever! ;)
 my_list = ["I'm", "12", "now", "mum", "I", "can", "do", "what", "I", "want"]
@@ -92,7 +92,7 @@ If we try to something which python can't, then we'll get an error. The jargon f
 
 The syntax for is referred to as a "try, except":
 
-```text
+```python
 try:
     # do stuff here which might throw an error
     weird_function_does_bad_stuff()

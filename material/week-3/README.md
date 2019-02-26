@@ -159,9 +159,29 @@ university = the_dream[::-1] # We can go backwards too
 
 This syntax is a special case of a general language feature called **list slicing** \(see [extensions](extensions.md#List-Slicing) for detail\).
 
+### List Operations
+
+We can add \(concatenate\) and multiply lists using the familiar **+** and \* operators:
+
+```python
+# Concatenate two lists
+list_one = ["One", "Two", "Three"]
+list_two = [4, 5, 6]
+new_list = list_one + list_two
+print(new_list) # ["One", "Two", "Three", 4, 5, 6]
+```
+
+```python
+# Multiplying a list
+my_list = ["All", "Work", "And", "No", "Play",
+           "Makes", "Alex", "A", "Dull", "Boy"]
+new_list = my_list * 20
+print(new_list) # ["All", "Work" .......... x20 ]
+```
+
 ## Dictionaries
 
-Along with lists, dictionaries are among the most useful and commonly used datastructures. Dictionaries allow us to store _Key : Value_ pairs.
+Along with lists, dictionaries are among the most useful and commonly used data structures. Dictionaries allow us to store _Key : Value_ pairs.
 
 Whereas lists are created using \[\], we create dictionaries using {}
 
@@ -173,7 +193,35 @@ empty_dict = {}
 my_dict = {"name" : "alex", "age" : 22, 1 : "one"}
 ```
 
+### Adding Elements
+
+To add elements to a dictionary we again use the square bracket syntax, except with a key rather than an index:
+
+```python
+empty_dict={}
+
+empty_dict["first key"] = 23123
+empty_dict["second key"] = "hello"
+
+# Now empty_dict = {"first key" : 23123, "second key": "hello"}
+```
+
+{% hint style="warning" %}
+Keys in a dictionary must be **unique**. If a key already exists in the dictionary, then its corresponding value will be overridden when you assign it:
+
+
+
+```python
+my_dict["hello"] = 2312
+my_dict["hello"] = -17
+
+# Now my_dict = {"hello" : -17}
+```
+{% endhint %}
+
 ### Pop
+
+Similar to with lists, we can use .pop\(key\) on a dictionary to remove a key-value pair; usefully, the function also returns the value which it is removing, so we can print it or store it somewhere else.
 
 ```python
 my_dict = {"hello" : 231, "fish" : "frog"}
@@ -183,4 +231,17 @@ my_dict.pop("hello")
 
 # Now my_dict = {"fish" : "frog"}
 ```
+
+### Keys
+
+They .keys\(\) \(member\) function can be called on a dictionary to get a **list** of its keys:
+
+```python
+my_dict = {"hello" : 231, "fish" : "frog"}
+
+my_keys = my_dict.keys()
+# then my_keys = ["hello", "fish"]
+```
+
+Used alongside **in** \(see [extensions](../week-2/week-2-extension.md#sub-component-checking-with-in)\) this provides us with an easy way of checking whether we have already stored a particular key in our dictionary - useful for a username:password database!
 
