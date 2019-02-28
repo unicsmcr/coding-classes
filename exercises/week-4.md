@@ -4,37 +4,37 @@ description: 'While, For and Challenges!'
 
 # Week 4
 
-## While Loops - Finishing our Login System!
+## 1 While Loops - Finishing our Login System!
 
-### Have mercy on the user
+### 1.1 Have mercy on the user
 
 Using a while loop allow the user to keep entering their password until they get it right \(do this without breaking all the functionality you implemented in the past - feel free to use our solutions\).
 
-### That was too much mercy
+### 1.2 That was too much mercy
 
 Limit the number of attempts the user gets by using a counter, as we discussed in the slides.
 
-### More secure than Hillary's inbox
+### 1.3 More secure than Hillary's inbox
 
 We don't want Russian hackers breaking through! Use the Captcha code from last time, and force the user to enter a Captcha after every failed password attempt.
 
-## For loops
+## 2 For loops
 
-### Hip to be Square
+### 2.1 Hip to be Square
 
 Take a number N from the user, and print an NxN square using characters 'X'
 
-#### Extension
+#### 2.1 Extension
 
 Print a "hollow" square \(i.e. only the edges are "X"\)
 
-### **Hidden message with for loop**
+### **2.2 Hidden message with for loop**
 
 Use **.split\(" "\) \[**see [extensions](../material/week-3/extensions.md#Split)\] and print out all words in the following phrase which start with a capital letter:
 
 _it was The best of times, it was the worst of times, it was the age of wisdom, it was the age of Foolishness, it was the epoch Of Belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it Was The spring of Hope, it was the winter Of despair, we had everything before us, we had nothing before us, we were all Going direct To Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only._
 
-### Pythagorean triples - Three times the fun!
+### 2.3 Pythagorean triples - Three times the fun!
 
 Pythagorean triples are sets of three integers which satisfy Pythagoras' theorem:
 
@@ -44,7 +44,7 @@ For example, the first Pythagorean triple is \(3, 4, 5\).
 
 Find all Pythagorean triples where c &lt; 100 and print these out \(ignoring duplicates in a and b\), formatted as:  \[3, 4, 5\] , \[a2, b2, c2\] , \[a3, b3, c3\] ...
 
-## Extension exercise 2 - Goat Latin 
+## Extension 1 - Goat Latin 
 
 Implement goat Latin \(a made up version of english \[this is a facebook interview question!\]\), such that a user can input a normal english sentence, and your program returns the goatified version:
 
@@ -52,7 +52,7 @@ Implement goat Latin \(a made up version of english \[this is a facebook intervi
 
 Instead of adding unlimited extra 'a's with increasing word index, add one, then two, then three, and then one again, etc.
 
-### **Extension**
+### **Extension 1 Extra**
 
 1. If a word begins with a vowel, append "ma" to the end of the word.
    * "apple" becomes "applema"
