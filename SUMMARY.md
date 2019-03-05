@@ -22,6 +22,7 @@
 * [Week 2](exercises/week-2.md)
 * [Week 3](exercises/week-3.md)
 * [Week 4](exercises/week-4.md)
+* [Week 5](exercises/week-5.md)
 
 ## Solutions
 
