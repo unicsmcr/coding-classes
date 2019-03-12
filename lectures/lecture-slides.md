@@ -1,3 +1,7 @@
+---
+description: Lecture Slides
+---
+
 # Slides
 
 ## **Week 1** 

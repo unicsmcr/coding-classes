@@ -106,7 +106,7 @@ wisdom.close()
 
 If you'd like to play around with the read/write functionality, here's the file used in the above example:
 
-{% file src="../../.gitbook/assets/wisdom.txt" caption="Gandalf\'s wise words to Frodo" %}
+{% file src="../.gitbook/assets/wisdom.txt" caption="Gandalf\'s wise words to Frodo" %}
 
 ### Reading with For loops
 
