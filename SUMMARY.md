@@ -15,6 +15,9 @@
   * [Extensions](material/week-4/extensions.md)
 * [Week 5](material/week-5/README.md)
   * [Extensions](material/week-5/extensions.md)
+* [Week 6](material/week-6/README.md)
+  * [Extension](material/week-6/extension.md)
+* [Untitled](material/untitled.md)
 
 ## Exercises
 
@@ -23,6 +26,7 @@
 * [Week 3](exercises/week-3.md)
 * [Week 4](exercises/week-4.md)
 * [Week 5](exercises/week-5.md)
+* [Week 6](exercises/week-6.md)
 
 ## Solutions
 

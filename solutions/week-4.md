@@ -97,7 +97,7 @@ for number in range(size):
 # print top border - a line of X, then print middle - 'X spaces X',
 # then bottom border
 print("X " * size)
-for number in range(size-2)
+for number in range(size-2):
     print("X " + "  " * (size-2) + "X ")
 print("X " * size)
 ```
@@ -138,7 +138,7 @@ message = "it was The best of times, it was the worst of times, it was the age o
 words = message.split(" ")
 secret_message = ""
 for word in words:
-    if word[0].tolower != word[0]:
+    if word[0].lower() != word[0]:
         secret_message = secret_message + word + " "
 
 print(secret_message)
