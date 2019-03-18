@@ -12,9 +12,11 @@ As this is the last week of "Python Basics", there is a large consolidation exer
 
 #### Create <a id="Create"></a>
 
-#### Create a file called musings.txt and write some some of your thoughts into it <a id="Create"></a>
+Create a file called musings.txt and write some some of your thoughts into it \(be sure to write **multiple lines**\)
 
 #### Read <a id="Read"></a>
+
+Close and reopen the musings.txt file, and use a for loop to go through and print out every line\)
 
 
 
