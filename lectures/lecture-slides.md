@@ -28,3 +28,7 @@ description: Lecture Slides
 
 {% embed url="https://docs.google.com/presentation/d/1cJwq74RM98JvYHLW8HoQ-TznFXXx7cA59lOq7hzGnFQ/edit?usp=sharing" %}
 
+## Week 7
+
+{% embed url="https://docs.google.com/presentation/d/1f9rGYWLDUVTfL1KKDgnFVVEvP0T7rPVpVjdyVEprqBY/edit?usp=sharing" %}
+

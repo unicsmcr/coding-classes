@@ -101,7 +101,7 @@ some_list = [0, 1, 2, 3, "Great Movie", 8, 13]
 
 Can be visualized as:
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 Then. If we wish to get items from a specific location in our list, we can do this by using square brackets next to the list's name: e.g. **list\[index\]**
 

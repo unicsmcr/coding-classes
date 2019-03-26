@@ -96,7 +96,7 @@ print("Hello World!")
 
 Variables are what we use to store information within our code, and can be thought of as labelled boxes containing data.
 
-![Variables can be thought of as labelled boxes containing data](../../.gitbook/assets/image%20%2813%29.png)
+![Variables can be thought of as labelled boxes containing data](../../.gitbook/assets/image%20%2815%29.png)
 
 **Declaration**
 

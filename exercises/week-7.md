@@ -2,7 +2,7 @@
 description: Plotting a dataset
 ---
 
-# Week 7
+# Week 8
 
 ### Hatching a Plot <a id="Hatching-a-Plot"></a>
 

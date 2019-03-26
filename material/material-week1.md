@@ -18,7 +18,7 @@ In all these cases it is important to remember that programming, like most techn
 
 The ability to code is perhaps the most sought-after technical skill, along side mathematics, in a world where attempts to automate and digitize permeate an increasing number of jobs.
 
-![Compounds growth rates for jobs in 2015-2020 \(source: World Economic Forum\) ](../.gitbook/assets/image%20%286%29.png)
+![Compounds growth rates for jobs in 2015-2020 \(source: World Economic Forum\) ](../.gitbook/assets/image%20%287%29.png)
 
 #### Fun!
 
@@ -84,7 +84,7 @@ One simple way to encode colors is to decompose them into three primary colors, 
 
 The RBG standard encodes this information using three numbers between 0-255 which represent the "amount" of each color present in the decomposition. For example:
 
-![An example of an RGB decomposition for a specific shade of pink ](../.gitbook/assets/image%20%2811%29.png)
+![An example of an RGB decomposition for a specific shade of pink ](../.gitbook/assets/image%20%2812%29.png)
 
 Some of you may be old enough to remember back in the good old days before HDMI, when SCART cables were still commonly used - these actually had red, green and blue signal channels. Furthermore, pixels on most modern displays actually consist of distinct Red, Green and Blue pixels, each of which changes brightness to give the appearance of millions of different colors.
 
@@ -123,7 +123,7 @@ This is an excellent example of abstraction, because rather than sending your fr
   <tbody></tbody>
 </table>## 1.4 Algorithms
 
-![Algorithms take the inputs specified by a problem and output the solution](../.gitbook/assets/image%20%2815%29.png)
+![Algorithms take the inputs specified by a problem and output the solution](../.gitbook/assets/image%20%2817%29.png)
 
 Without going into any detail here, it is important to note that the essence of what many programmers do is **problem solving** - more specifically, designing **algorithms** which take the inputs defining a problem \(in a specified representation\) and output the solution \(in a specified representation\).
 
