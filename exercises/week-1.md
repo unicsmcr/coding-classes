@@ -22,7 +22,7 @@ Have a go at creating a simple game in scratch, for example:
 * Brick Breaker
 * Simon Says
 
-The aim here is to learn to feel comfortable with the creation of blocks of instructions which perform the function you have in mind - you don't have to complete an entire game. _However,_ there will be treats for people who post their games on Piazza \(you can do this anonymously if you prefer\)!
+The aim here is to learn to feel comfortable with the creation of blocks of instructions which perform the function you have in mind - you don't have to complete an entire game.
 
 {% hint style="info" %}
 You can google any of these games and find that many people have already made very fancy scratch versions - try to at least see how they did this by clicking the "see inside" button when viewing their scratch project page
