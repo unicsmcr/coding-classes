@@ -23,7 +23,7 @@
 
 ## Exercises
 
-* [Week 1](exercises/untitled.md)
+* [Week 1](exercises/week-1.md)
 * [Week 2](exercises/week-2.md)
 * [Week 3](exercises/week-3.md)
 * [Week 4](exercises/week-4.md)
