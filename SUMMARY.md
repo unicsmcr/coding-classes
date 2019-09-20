@@ -2,7 +2,6 @@
 
 * [Course Outline](README.md)
 * [Course Organization](course-information.md)
-* [TAs](tas.md)
 
 ## Material
 
