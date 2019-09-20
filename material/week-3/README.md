@@ -9,6 +9,8 @@ description: 'Types, Lists and Dictonaries'
 The different kinds \(or representations\) of data which programming languages are able to store and manipulate are referred to as types, and we have already encountered a few of these.   
 
 
+### Typecasting
+
 ### Simple Types
 
 The types we've encountered so far can be though of as the building blocks for more complicated types - in the same way you might think of a string as being built out of characters.   
@@ -39,7 +41,15 @@ else:
     print("I will!")
 ```
 
-### Typecasting
+## Lists
+
+```python
+# Create an empty list
+new_list = [] 
+
+# Lists can contain different types of data
+another_list = [1, 232.179, "Hi there", True]
+```
 
 Python, like many other languages, has the ability to transform one type of data to another - although it will only work if this conversion **makes sense**. For example, you could convert a string containing a number to an integer:
 
@@ -72,7 +82,17 @@ For reference, here's a table of casts that can \(and will\) come in handy:
 | Characters | chr\(\) | Convert integer to ASCII character \[string\] |
 | List | list\(\) | Convert tuples / arrays / range\(\) objects to lists |
 
-## Lists
+Count from zero
+
+```python
+my_list = [1, 1, 2, 3, "Great Movie", 8, 13]
+
+print(fibonacci_list[0])  # First element = 1
+print(fibonacci_list[4])  # Fifth element = "Great Movie"
+print(fibonacci_list[-1]) # Last element = 13
+```
+
+
 
 Lists are the first proper "data structure" that we will cover:
 
@@ -179,6 +199,8 @@ new_list = my_list * 20
 print(new_list) # ["All", "Work" .......... x20 ]
 ```
 
+
+
 ## Dictionaries
 
 Along with lists, dictionaries are among the most useful and commonly used data structures. Dictionaries allow us to store _Key : Value_ pairs.
@@ -244,4 +266,8 @@ my_keys = my_dict.keys()
 ```
 
 Used alongside **in** \(see [extensions](../week-2/week-2-extension.md#sub-component-checking-with-in)\) this provides us with an easy way of checking whether we have already stored a particular key in our dictionary - useful for a username:password database!
+
+Databases!
+
+
 
