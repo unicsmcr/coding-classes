@@ -16,11 +16,11 @@ If you didn't manage to finish the final extension exercise last time, or have l
 
 Let's have a go at utilizing typecasting, by asking the user to verify a simple Captcha before allowing them to try to login.  
   
-Something like: "What is 4 = 21?" will suffice for now.
+Something like: "What is 4 - 2?" will suffice for now.
 
 ### A better database
 
-Store three username-password, key-value pairs in a dictionary, and use this dictionary to directly simplify the logic of username and password checking \(i.e. **don't** store username-password information for in distinct variables, even for _if-statement_ purposes\).
+Store three username-password, key-value pairs in a dictionary, and use this dictionary to directly simplify the logic of username and password checking \(i.e. **don't** store username-password information for each user in distinct variables, even for _if-statement_ purposes\).
 
 {% hint style="info" %}
 You'll still want to check that the username is correct before checking the password. It'll be helpful to remember that:
