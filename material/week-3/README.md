@@ -26,6 +26,13 @@ a_float = 18.032
 a_boolean = True  # Booleans are just integers 1 (True) or 0 (False)
 ```
 
+Where it makes sense to do so, it is possible to convert between different types.
+
+```python
+a_string = input(“Please give me a number”)
+a_number = int(a_string)
+```
+
 Little tip:
 
 ```python
@@ -34,7 +41,7 @@ another_bool = (242 == "frog") # False
 
 **Fun fact:** Booleans are actually implemented as integers, with 1 = True and 0 = False:
 
-```text
+```python
 if 0:
     print("I won't get printed")
 else:
