@@ -151,7 +151,7 @@ Mathematical logic essentially allows us to compare things in a well-defined, co
 
 | Operator | Description | Example | Output |
 | :--- | :--- | :--- | :--- |
-| &lt; | less than | 5 &lt; 8   | False |
+| &lt; | less than | 5 &lt; 8   | True |
 | &gt; | greater than | 4.3 &gt; 2 | True |
 | == | equals | "Hello" == "there" | False |
 | &lt;= | less than or equal to | 5 &lt;= 5 | True |
