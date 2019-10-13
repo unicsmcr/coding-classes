@@ -103,12 +103,12 @@ Variables are what we use to store information within our code, and can be thoug
 {% code-tabs %}
 {% code-tabs-item title="declaration\_example.py" %}
 ```python
-# Declare and assign the variables
+# Create some variables
 my_string = "Hello World"
 my_integer = 1239082
 my_boolean = True
 
-# Reassign a variable to different type
+# Reassign a variable to different value
 my_boolean = 47
 ```
 {% endcode-tabs-item %}
