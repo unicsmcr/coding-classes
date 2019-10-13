@@ -206,7 +206,17 @@ new_list = my_list * 20
 print(new_list) # ["All", "Work" .......... x20 ]
 ```
 
+## List Membership
 
+Sometimes we want to check if a list contains a certain value, we can use _in_ to do this.
+
+```python
+my_list = ["a", "b", "c"]
+if "a" in my_list:
+    print("a is in the list")
+else:
+    print("a is not in the list")
+```
 
 ## Dictionaries
 
