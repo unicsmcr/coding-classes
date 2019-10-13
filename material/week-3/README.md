@@ -20,7 +20,6 @@ These **"simple" types** are shown in the following example:
 ```python
 # Basic Types
 a_string = "Hello World"
-a_character = "Z" # Characters are strings of length 1
 a_integer = 32
 a_float = 18.032
 a_boolean = True  # Booleans are just integers 1 (True) or 0 (False)
