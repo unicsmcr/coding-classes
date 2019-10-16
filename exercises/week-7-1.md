@@ -2,7 +2,7 @@
 description: Numpy array basics
 ---
 
-# Week 7
+# Week 8
 
 ## 1 Alex's Awry Array Ailment 
 

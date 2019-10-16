@@ -2,7 +2,7 @@
 description: File I/O and Consolidation
 ---
 
-# Week 6
+# Week 7
 
 ## Note
 

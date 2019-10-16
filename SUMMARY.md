@@ -26,19 +26,20 @@
 * [Week 1](exercises/untitled.md)
 * [Week 2](exercises/week-2.md)
 * [Week 3](exercises/week-3.md)
-* [Week 4](exercises/week-4.md)
-* [Week 5](exercises/week-5.md)
-* [Week 6](exercises/week-6.md)
-* [Week 7](exercises/week-7-1.md)
-* [Week 8](exercises/week-7.md)
+* [Week 4](exercises/week-4-1.md)
+* [Week 5](exercises/week-4.md)
+* [Week 6](exercises/week-5.md)
+* [Week 7](exercises/week-6.md)
+* [Week 8](exercises/week-7-1.md)
+* [Week 9](exercises/week-7.md)
 
 ## Solutions
 
 * [Week 2](solutions/solutions.md)
 * [Week 3](solutions/week-3.md)
-* [Week 4](solutions/week-4.md)
-* [Week 5](solutions/week-5.md)
-* [Week 6](solutions/week-6.md)
+* [Week 5](solutions/week-4.md)
+* [Week 6](solutions/week-5.md)
+* [Week 7](solutions/week-6.md)
 
 ## Additional
 

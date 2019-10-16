@@ -2,7 +2,7 @@
 description: Solutions to File I/O and Consolidatio
 ---
 
-# Week 6
+# Week 7
 
 ## Exercise 1 - Basic File I/O
 

@@ -2,7 +2,7 @@
 description: Solutions to Functions and Imports
 ---
 
-# Week 5
+# Week 6
 
 ## Exercise 1.1 - Maximal Entertainment
 
