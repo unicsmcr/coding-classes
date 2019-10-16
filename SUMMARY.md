@@ -10,15 +10,16 @@
   * [Extensions](material/week-2/week-2-extension.md)
 * [Week 3](material/week-3/README.md)
   * [Extensions](material/week-3/extensions.md)
-* [Week 4](material/week-4/README.md)
+* [Week 4](material/week-5-1.md)
+* [Week 5](material/week-4/README.md)
   * [Extensions](material/week-4/extensions.md)
-* [Week 5](material/week-5/README.md)
+* [Week 6](material/week-5/README.md)
   * [Extensions](material/week-5/extensions.md)
-* [Week 6](material/week-6.md)
-* [Week 7](material/week-7.md)
-* [Week 8](material/week-8.md)
-* [Week 9](material/week-9.md)
-* [Week 10](material/week-10.md)
+* [Week 7](material/week-6.md)
+* [Week 8](material/week-7.md)
+* [Week 9](material/week-8.md)
+* [Week 10](material/week-9.md)
+* [Week 11](material/week-10.md)
 
 ## Exercises
 

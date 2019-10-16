@@ -2,7 +2,7 @@
 description: 'Functions, Import'
 ---
 
-# Week 5
+# Week 6
 
 ## Functions <a id="Functions"></a>
 

@@ -2,7 +2,7 @@
 description: File I/O and Numpy Array
 ---
 
-# Week 6
+# Week 7
 
 ## File I/O
 
