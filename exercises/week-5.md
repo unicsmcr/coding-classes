@@ -34,23 +34,3 @@ Use **default arguments** such that if the "min" argument is not given, the func
 
 Try and implement the range function using recursion \(you can use another function to do the actual list creation, if you like, so long as it uses recursion!\)
 
-## 2 Import-ant Syntax
-
-Import the following two packages, renaming them, such that you can get the following code snippet to run:
-
-* Import "numpy", renamed to "np"
-* Import the "pyplot" module from the "matplotlib" package, renamed to "plt"
-
-Then run:
-
-```python
-# Scary block of awful code
-plt.scatter([0.35 * (2/7) + 0.15, 0.5 - 0.35 * (2/7) ], [2, 2], c='b', marker='s', s=300 )
-plt.scatter(0.325, 0.75, c='k', marker='^', s=150);l = np.arange(0.15, 0.51, 0.01)
-plt.plot(l ,np.sin(np.linspace(np.pi, 2*np.pi, len(l))), c="r")
-plt.axis('off');plt.margins(0.25);plt.title("?sracs eseht tog I woh wonk annaW"[::-1])
-plt.show()
-```
-
-You'll know when it's working ;\)
-

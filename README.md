@@ -9,13 +9,12 @@ description: Syllabus and Learning Outcomes
   **Week 1:** Intro and Thinking Like a Programmer  
   **Week 2:** Programming Languages and Python Basics    
   **Week 3:** Types,  Lists and Dictionaries  
-  **Week 4:** While loops and For loops  
-  **Week 5:** Functions, and import  
-  **Week 6:** File I/O and String Manipulation  
-  **Week 7:** Datascience Pt. I - Numpy, Fitting and Prediction  
-  **Week 8:** Datascience Pt. II - Matplotlib, Data Visualization  
-  **-- Easter Break --**  
-  **Week 9:** Introductory machine learning with SciKit learn  
+  **Week 4:** Recap  
+  **Week 5:** While loops and For loops  
+  **Week 6:** Functions  
+  **Week 7:** Import, File I/O and String Manipulation  
+  **Week 8:** Datascience - Matplotlib, Data Visualization  
+****  **Week 9:** Introductory machine learning with SciKit learn  
   **Week 10:** Programming in the _Real World_
 
 ## Learning Outcomes

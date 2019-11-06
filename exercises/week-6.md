@@ -1,5 +1,5 @@
 ---
-description: File I/O and Consolidation
+description: 'Import, File I/O and Consolidation'
 ---
 
 # Week 7
@@ -8,7 +8,27 @@ description: File I/O and Consolidation
 
 As this is the last week of "Python Basics", there is a large consolidation exercise \(number 3\) which we highly recommend you try and do prior to next week's session - Solutions will be released by Thursday evening!
 
-## 1 Basic File I/O
+## 1 Import-ant Syntax
+
+Import the following two packages, renaming them, such that you can get the following code snippet to run:
+
+* Import "numpy", renamed to "np"
+* Import the "pyplot" module from the "matplotlib" package, renamed to "plt"
+
+Then run:
+
+```python
+# Scary block of awful code
+plt.scatter([0.35 * (2/7) + 0.15, 0.5 - 0.35 * (2/7) ], [2, 2], c='b', marker='s', s=300 )
+plt.scatter(0.325, 0.75, c='k', marker='^', s=150);l = np.arange(0.15, 0.51, 0.01)
+plt.plot(l ,np.sin(np.linspace(np.pi, 2*np.pi, len(l))), c="r")
+plt.axis('off');plt.margins(0.25);plt.title("?sracs eseht tog I woh wonk annaW"[::-1])
+plt.show()
+```
+
+You'll know when it's working ;\)
+
+## 2 Basic File I/O
 
 #### Create <a id="Create"></a>
 
@@ -20,7 +40,7 @@ Close and reopen the musings.txt file, and use a for loop to go through and prin
 
 
 
-## 2 Wherefore art thou paragraph
+## 3 Wherefore art thou paragraph
 
 {% file src="../.gitbook/assets/shakespeare.txt" caption="Shakespeare Text File" %}
 
@@ -41,7 +61,7 @@ There are two approaches to this problem:
 2. Create a function which returns one paragraph, and put it inside another function which calls it N times
 {% endhint %}
 
-## 3 Caesar's Cipher Consolidates Cool Class
+## 4 Caesar's Cipher Consolidates Cool Class
 
 Hold on to your hats, because this is a big one! To complete this exercise you'll need to use almost everything we've learned so far, so make sure you're sitting comfortably \(preferably with a caffeinated beverage at hand\) and let's go!
 
