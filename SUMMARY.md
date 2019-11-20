@@ -30,6 +30,7 @@
 * [Week 5](exercises/week-4.md)
 * [Week 6](exercises/week-5.md)
 * [Week 7](exercises/week-6.md)
+* [Matplotlib](exercises/matplotlib.md)
 * [Numpy](exercises/week-7-1.md)
 * [Matplot with Numpy](exercises/week-7.md)
 
