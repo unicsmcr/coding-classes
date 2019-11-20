@@ -2,7 +2,7 @@
 description: Coding in the "Real World" and Datascience Pt. I - Numpy Basics
 ---
 
-# Week 8
+# Numpy
 
 The datascience part of this course shall cover the bare minimum of material which should allow you to perform fairly powerful data analysis tasks. A considerably more thorough, and example rich course, can be found at: 
 

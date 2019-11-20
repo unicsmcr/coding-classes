@@ -8,8 +8,7 @@ description: 'Solutions to While, For and Challenges'
 
 Here we finally finish the login system by making use of while loops to let the user have multiple attempts at entering the password correctly.
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ex1.py" %}
+{% code title="week3\_solutions\_ex1.py" %}
 ```python
 # Store the username and password as key-value pairs 'username : password'
 users = {"alex" : "1234", "joe" : "5678", "luke" : "0000"}
@@ -75,15 +74,13 @@ else:
     # input_name is not in the users dictionary
     print("Unknown username")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Exercise 2.1 - Hip to be Square
 
 Here we print a square of 'X' with a side length entered by the user
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ex2\_1.py" %}
+{% code title="week3\_solutions\_ex2\_1.py" %}
 ```python
 # request a number, entered by the user
 size = input("Enter a number: ")
@@ -101,15 +98,13 @@ for number in range(size-2):
     print("X " + "  " * (size-2) + "X ")
 print("X " * size)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Exercise 2.1 Extension - Hollow Square
 
 This time we print a hollow square
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ext2\_1.py" %}
+{% code title="week3\_solutions\_ext2\_1.py" %}
 ```python
 # request a number, entered by the user
 size = input("Enter a number: ")
@@ -122,15 +117,13 @@ for number in range(size-2)
     print("X " + "  " * (size-2) + "X ")
 print("X " * size)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Exercise 2.2 - Hidden message via For Loop
 
 Split the message into words and put into a list. Then we loop through them all and only add them to the secret message if the word begins with an uppercase character.
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ex2\_2.py" %}
+{% code title="week3\_solutions\_ex2\_2.py" %}
 ```python
 # the secret message
 message = "it was The best of times, it was the worst of times, it was the age of wisdom, it was the age of Foolishness, it was the epoch Of Belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it Was The spring of Hope, it was the winter Of despair, we had everything before us, we had nothing before us, we were all Going direct To Heaven, we were all going direct the other way—in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only."
@@ -143,15 +136,13 @@ for word in words:
 
 print(secret_message)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Exercise 2.3 - Pythagorean Triples
 
 Here we print all the Pythagorean Triples which sum to less than 100 using for loops to calculate them. To check that c\*\*2 = a\*\*2 + b\*\*2, we get the square root of a\*\*2 + b\*\*2 which will be a decimal value, and we check that it equals the integer version, e.g. 5.0 == 5. 
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ex2\_3.py" %}
+{% code title="week3\_solutions\_ex2\_3.py" %}
 ```python
 # the stored triples
 pythag_triples = []
@@ -167,15 +158,13 @@ for a in range(1, 101):
             
 print(pythag_triples)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension 1 - Goat Latin
 
 We implement Goat Latin \(adding extra "a"s to the beginning of words in repeating pattern of 1, 2, 3\) by using for loops
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ext1.py" %}
+{% code title="week3\_solutions\_ext1.py" %}
 ```python
 # Get the user input first
 user_input = input("Enter a sentence: ")
@@ -194,15 +183,13 @@ for word in words:
     
 print(result)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension Extra 1 - Advanced Goat Latin
 
 This time, if a word begins with a vowel, append 'ma' to it, otherwise take the first letter, remove it from the beginning and add to the end and then append 'ma' to it. Also add an 'a' to the end of each word per index in the list, e.g. 4 a's for the fourth word.
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ext2.py" %}
+{% code title="week3\_solutions\_ext2.py" %}
 ```python
 # the vowels
 vowels = ['a', 'e', 'i', 'o', 'u']
@@ -226,6 +213,5 @@ for word in words:
     
 print(result)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

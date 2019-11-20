@@ -8,8 +8,7 @@ description: 'Solutions to Lists, Dictionaries, Error Handling and List Slicing'
 
 Here we create a new and improved login system, by making use of the different **data structures** we have learnt about, **dictionaries** and **lists.**
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ex1.py" %}
+{% code title="week3\_solutions\_ex1.py" %}
 ```python
 # Store the username and password as key-value pairs 'username : password'
 users = {"alex" : "1234", "joe" : "5678", "luke" : "0000"}
@@ -60,8 +59,7 @@ else:
     # input_name is not in the users dictionary
     print("Unknown username")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extensions
 
@@ -71,8 +69,7 @@ The code for the extensions can be inserted into the solution above between the 
 
 We put the integer conversion into a try except block so that we can stop the program from reporting an error when a non-integer answer is entered.
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ext1.py" %}
+{% code title="week3\_solutions\_ext1.py" %}
 ```python
 .............
 answer = input("What is 4 + 21? ")    # preceding line
@@ -88,15 +85,13 @@ except ValueError:
 if(answer != 25):    # subsequent line
 .............
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension 2 - List Slicing Fun
 
 We take the poem as a string and split it up using the **split\(' '\)**  method, splitting on spaces. Then we get every sixth word in the list using **list slicing**, rejoin the list together and print the result.
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ext2.py" %}
+{% code title="week3\_solutions\_ext2.py" %}
 ```python
 poem = "hidden from all to see, trapped in an eternal night, those shadows plain surrounding me, no sunrise in sight"
 
@@ -111,15 +106,13 @@ new_poem = " "  # space is our separator
 new_poem = new_poem.join(new_poem_list)
 print(new_poem)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension 3 - Forced Palindromes
 
 We ask the user to input a word, and print out a palindrome version of the word, using list slicing by reversing the word and not including the first reversed character
 
-{% code-tabs %}
-{% code-tabs-item title="week3\_solutions\_ext3.py" %}
+{% code title="week3\_solutions\_ext3.py" %}
 ```python
 # Get a word from the user
 user_input = input("Enter a word:")
@@ -128,8 +121,7 @@ user_input = input("Enter a word:")
 new_word = user_input + user_input[::-1][1:]
 print(new_word)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension 4 - Random Captcha
 

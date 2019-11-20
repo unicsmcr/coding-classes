@@ -8,8 +8,7 @@ description: Solutions to Functions and Imports
 
 We create a function to print the maximum value in a given list. 
 
-{% code-tabs %}
-{% code-tabs-item title="week5\_solutions\_ex1\_1.py" %}
+{% code title="week5\_solutions\_ex1\_1.py" %}
 ```python
 # define function to print out the max value in the list 
 def print_max_in_list(a_list):
@@ -28,15 +27,13 @@ def print_max_in_list(a_list):
 example_list = [4, 9, 376, 12, 234, 124, 94, 3]
 print_max_in_list(example_list)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension 1.1 - Returning max value
 
 Here we return the max value instead, and then print it.
 
-{% code-tabs %}
-{% code-tabs-item title="week5\_solutions\_ext1\_1.py" %}
+{% code title="week5\_solutions\_ext1\_1.py" %}
 ```python
 # define function to return the max value in a list
 def get_max_value_in_list(a_list):
@@ -55,15 +52,13 @@ def get_max_value_in_list(a_list):
 example_list = [4, 9, 376, 12, 234, 124, 94, 3]
 print("Max value: " + str(get_max_value_in_list(example_list)))
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Exercise 1.2 - Sum thing to do
 
 Here we print the sum of all the values in a list
 
-{% code-tabs %}
-{% code-tabs-item title="week5\_solutions\_ex1\_2.py" %}
+{% code title="week5\_solutions\_ex1\_2.py" %}
 ```python
 # define function to print the sum of all values in a list
 def print_sum_of_list(a_list):
@@ -80,15 +75,13 @@ def print_sum_of_list(a_list):
 example_list = [1, 2, 4, 8, 16]
 print_sum_of_list(example_list)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension 1.2 - Returning Average
 
 Now we average the values in the list and return the result
 
-{% code-tabs %}
-{% code-tabs-item title="week5\_solutions\_ext1\_2.py" %}
+{% code title="week5\_solutions\_ext1\_2.py" %}
 ```python
 # define function to return the average of values in the list
 def get_average_of_list(a_list):
@@ -105,15 +98,13 @@ def get_average_of_list(a_list):
 example_list = [1, 2, 5, 10, 14]
 print("Average:" + str(get_average_of_list(example_list)))
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Exercise 1.3 - Developing a range of skills
 
 Here we define a function to mimic the range function - which returns a list of integers from the minimum to the max - 1.
 
-{% code-tabs %}
-{% code-tabs-item title="week5\_solutions\_ex1\_3.py" %}
+{% code title="week5\_solutions\_ex1\_3.py" %}
 ```python
 # define the range function, which takes a min and max argument
 # returns a list of values between min and max-1
@@ -132,15 +123,13 @@ def my_range(min_val, max_val):
 a_list = my_range(6, 12)
 print(a_list)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension 1.3.1 - Default arguments
 
 Add default arguments to our range function, such that if min is not given then the function counts from 0 - We need to alter the function definition and modify our max and min values
 
-{% code-tabs %}
-{% code-tabs-item title="week5\_solutions\_ext1\_3\_1.py" %}
+{% code title="week5\_solutions\_ext1\_3\_1.py" %}
 ```python
 ............
 def my_range(min_val, max_val=None):
@@ -159,15 +148,13 @@ def my_range(min_val, max_val=None):
 a_list = my_range(9)
 print(a_list)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension 1.3.2 - Recursive Range function
 
 Here we implement the range function using recursion - the function must call itself, and have a terminating condition.
 
-{% code-tabs %}
-{% code-tabs-item title="week5\_solutions\_ext1\_3\_2.py" %}
+{% code title="week5\_solutions\_ext1\_3\_2.py" %}
 ```python
 # define the recursive range function
 def my_recrusive_range(min_val, max_val):
@@ -180,15 +167,13 @@ def my_recrusive_range(min_val, max_val):
 # expect a list [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 print(my_recursive_range(0, 10))
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Exercise 2 - Import-ant Syntax
 
 Here we rename some imports and run the 'scary block of awful code'
 
-{% code-tabs %}
-{% code-tabs-item title="week5\_solutions\_ex2.py" %}
+{% code title="week5\_solutions\_ex2.py" %}
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -200,6 +185,5 @@ plt.plot(l ,np.sin(np.linspace(np.pi, 2*np.pi, len(l))), c="r")
 plt.axis('off');plt.margins(0.25);plt.title("?sracs eseht tog I woh wonk annaW"[::-1])
 plt.show()
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

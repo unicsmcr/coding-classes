@@ -58,14 +58,12 @@ new_file.close()
 
 The above example will create the following text file in our **working directory** \(typically the same folder as your python script\)**:**
 
-{% code-tabs %}
-{% code-tabs-item title="my\_second\_file.txt" %}
+{% code title="my\_second\_file.txt" %}
 ```text
 Stories outlive their authors
 So too will these python class materials
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### Read <a id="Read"></a>
 
@@ -81,16 +79,14 @@ These **read** functions step through the parts of the file that have already be
 
 Let's put this to use on some of Gandalf's wise advice:
 
-{% code-tabs %}
-{% code-tabs-item title="wisdom.txt" %}
+{% code title="wisdom.txt" %}
 ```
 'I wish it need not have happened in my time,' said Frodo.
 'So do I', said Gandalf, 'and so do all who live to see such times.'
 'But that is not for them to decide.'
 'All we have to decide is what to do with the time that is given us.’
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Supposing the "wisdom.txt" file is in our working directory, we can try reading it:
 

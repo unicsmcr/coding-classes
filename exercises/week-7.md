@@ -2,7 +2,7 @@
 description: Plotting a dataset
 ---
 
-# Week 9
+# Matplot with Numpy
 
 ### Hatching a Plot <a id="Hatching-a-Plot"></a>
 

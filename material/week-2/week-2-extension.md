@@ -8,8 +8,7 @@ description: Basic String Manipulation & and/or
 
 The modulo operator provides a useful way of checking whether something a multiple of something else - it essentially returns the remainder after as many steps of division as possible:
 
-{% code-tabs %}
-{% code-tabs-item title="modulu\_example.py" %}
+{% code title="modulu\_example.py" %}
 ```python
 test1 = 12 % 2 # this will equal 0 as 2 divides 12 exactly
 test2 = 13 % 2 # this will return 1 as 13 = (6 * 2) + 1
@@ -21,8 +20,7 @@ if (number % 2) == 0:
 else:
     print("How odd ¯\_(ツ)_/¯")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## More Logic with _and_ & _or_
 
@@ -31,8 +29,7 @@ The logical **and** & **or** operators allow us to increase the complexity of lo
 * **and** is true when both following statements are true
 * **or** is true when at least one of the following statements is true
 
-{% code-tabs %}
-{% code-tabs-item title="and\_or\_example.py" %}
+{% code title="and\_or\_example.py" %}
 ```python
 # Use in declaration
 try_and1 = (7 > 6) and ("hi" != "bye") # will be true
@@ -50,8 +47,7 @@ elif has_scales or is_scary: # one or the other, as "and" wasn't true
 else:
     print("How boring...")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 
 
@@ -59,8 +55,7 @@ else:
 
 **in** allows us to check if a substring or item is contained in a specified object. This will be useful when we discuss lists shortly, but we've already seen how this can be used:
 
-{% code-tabs %}
-{% code-tabs-item title="in\_examply.py" %}
+{% code title="in\_examply.py" %}
 ```python
 # For strings
 if ("a" in "alex") or ("b" in "bobby"):
@@ -68,15 +63,13 @@ if ("a" in "alex") or ("b" in "bobby"):
 else:
     print("Weird alphabet..")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 String manipulation & 
 
 Here we see an example of how we can **nest** control statements**,** and use the **.lower\(\)** function to ensure our if statements are not sensitive to the capitalization of user input.
 
-{% code-tabs %}
-{% code-tabs-item title="string\_manip.py" %}
+{% code title="string\_manip.py" %}
 ```python
 fav_num = 17
 
@@ -91,13 +84,11 @@ elif my_string == "doggo": # else-if
 else:
     print("I'm running out of ideas :<")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Putting it all together
 
-{% code-tabs %}
-{% code-tabs-item title="advanced\_input\_example.py" %}
+{% code title="advanced\_input\_example.py" %}
 ```python
 """ Robust and more Complicated example 
     Taking user input and check against different kinds of cases
@@ -115,6 +106,5 @@ elif ("z" in user_name) or ("q" in user_name): # Check multiple substring cases
 else:
     print("Heyo")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

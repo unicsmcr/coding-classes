@@ -8,8 +8,7 @@ description: Solutions to Python Basics - Conditional Logic and Input
 
 Here we create a simple username-password checker by comparing **user input** to **stored variables,** using **nested** if-statements. 
 
-{% code-tabs %}
-{% code-tabs-item title="week2\_solutions\_ex1.py" %}
+{% code title="week2\_solutions\_ex1.py" %}
 ```python
 # Store the name and password in 2 separate variables
 name = "Alex"
@@ -34,8 +33,7 @@ else:
          print("You have entered an incorrect password")
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension Exercise 1 - Case Sensitivity 
 
@@ -43,8 +41,7 @@ Here we use the **.lower\(\)** function to ensure that our system isn't sensitiv
   
 Note that the ****.lower\(\) function **does not reassign** the value of a variable automatically, so we have to reassign manually.
 
-{% code-tabs %}
-{% code-tabs-item title="week2\_solutions\_ext1.py" %}
+{% code title="week2\_solutions\_ext1.py" %}
 ```python
 # Store the name and password in 2 separate variables
 name = "alex" # name must be lowercase
@@ -69,8 +66,7 @@ else:
          print("You have entered an incorrect password")
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension Exercise 2 - Two users
 
@@ -78,8 +74,7 @@ The aim of this extension and the next is to become comfortable with many differ
   
 **Note:** These examples are fairly ugly and contrived - in future weeks we will see how we could make this system far more efficient, and our code far more elegant.
 
-{% code-tabs %}
-{% code-tabs-item title="week2\_solutions\_ext2.py" %}
+{% code title="week2\_solutions\_ext2.py" %}
 ```python
 # For each user, store the name and password seperately
 # Again, name must be lowercase
@@ -110,15 +105,13 @@ else:
     # Username didn't match
     print("You have entered an invalid username")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Extension 3 - Bad Passwords
 
 This is a fairly grueling exercise, but quickly recognizing the logical exclusivity which is implied by the **indentation level** of a piece of code is an essential skill for python programmers - so try and make sure you fully understand why this solution works!
 
-{% code-tabs %}
-{% code-tabs-item title="week2\_solutions\_ext3.py" %}
+{% code title="week2\_solutions\_ext3.py" %}
 ```python
 # For each user, store the name and password seperately
 # Again, name must be lowercase
@@ -169,6 +162,5 @@ else:
     # Username didn't match
     print("You have entered an invalid username")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 

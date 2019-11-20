@@ -16,8 +16,8 @@
 * [Week 6](material/week-5/README.md)
   * [Extensions](material/week-5/extensions.md)
 * [Week 7](material/week-6.md)
-* [Week 8](material/week-7.md)
-* [Week 9](material/week-8.md)
+* [Numpy](material/week-7.md)
+* [Matplot](material/week-8.md)
 * [Week 10](material/week-9.md)
 * [Week 11](material/week-10.md)
 
@@ -30,8 +30,8 @@
 * [Week 5](exercises/week-4.md)
 * [Week 6](exercises/week-5.md)
 * [Week 7](exercises/week-6.md)
-* [Week 8](exercises/week-7-1.md)
-* [Week 9](exercises/week-7.md)
+* [Numpy](exercises/week-7-1.md)
+* [Matplot with Numpy](exercises/week-7.md)
 
 ## Solutions
 

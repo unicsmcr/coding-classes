@@ -56,19 +56,16 @@ Additionally, and text enclosed between a pair of triple-double \("""\) quotes f
 
 In Python, the **print** statement allows us to output text to the console:
 
-{% code-tabs %}
-{% code-tabs-item title="hello\_world.py" %}
+{% code title="hello\_world.py" %}
 ```python
 # Say "Hello World!" to the user, via the terminal, when the code runs
 print("Hello World!")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 When specifying the **string** which is being printed, we need to be careful to ensure that the enclosing quotes are identical - otherwise python gets confused and doesn't think the string has ended.
 
-{% code-tabs %}
-{% code-tabs-item title="string\_quotes.py" %}
+{% code title="string\_quotes.py" %}
 ```python
 print('I am a string')
 print("So am I!")
@@ -77,19 +74,20 @@ print("Hey, can I join you guys?') # This wont work!
 # You can have different quotes as part of your string
 print("Gnomic as ever, Alex moaned 'Alea Iacta Est'")
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 {% hint style="danger" %}
 #### Indentation
 
 Other languages have lots of brackets \({\[\]}\) all over the place - python only cares about **indentation;** I.e. things need to lined up nicely, or indented if they are **nested** in each other:
 
+{% code title="" %}
 ```python
 # Indentation needs to be consistent
 print("Hello World!")
     print("Python won't run this!")
 ```
+{% endcode %}
 {% endhint %}
 
 **Variables**
@@ -100,8 +98,7 @@ Variables are what we use to store information within our code, and can be thoug
 
 **Declaration**
 
-{% code-tabs %}
-{% code-tabs-item title="declaration\_example.py" %}
+{% code title="declaration\_example.py" %}
 ```python
 # Create some variables
 my_string = "Hello World"
@@ -111,13 +108,11 @@ my_boolean = True
 # Reassign a variable to different value
 my_boolean = 47
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 **pascal case vs camelcase**
 
-{% code-tabs %}
-{% code-tabs-item title="pascal\_vs\_camel.py" %}
+{% code title="pascal\_vs\_camel.py" %}
 ```python
 # Camel case and pascal case are the two most common variable naming schemes
 # They don't affect how your code runs, but "code readability" is important!
@@ -125,8 +120,7 @@ my_boolean = 47
 aCamelCaseVariable = "This is not the python way"
 a_pascal_case_variable = "This is the python way"
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### Maths
 
@@ -160,16 +154,14 @@ Mathematical logic essentially allows us to compare things in a well-defined, co
 
 For example
 
-{% code-tabs %}
-{% code-tabs-item title="logic\_example.py" %}
+{% code title="logic\_example.py" %}
 ```python
 # An example of using logic
 
 is_this_true = 3 > 10 # Let us see if 3 is > 10; The result should be False
 print(is_this_true) # Print out the result, hopefully it will say False
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### If and Else
 
@@ -197,8 +189,7 @@ Coupled with variables, this allows us to **control** the flow of our code.
 
 In the script above, we used an "if-else" statement, but in some cases we might want to multiple possible specific answers differently. For this we can use "elif" \(short for else if\) :
 
-{% code-tabs %}
-{% code-tabs-item title="elif\_example.py" %}
+{% code title="elif\_example.py" %}
 ```python
 user_name = "Augustus" # We don't need humans!
 
@@ -209,8 +200,7 @@ elif (user_name == "Augustus"):
 else:
     print("Nice to meet you " + user_name)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ### Input
 
@@ -223,8 +213,7 @@ user_input = input()
 
 Now we are ready to create programs which respond differently based on the user's input
 
-{% code-tabs %}
-{% code-tabs-item title="if\_else\_example.py" %}
+{% code title="if\_else\_example.py" %}
 ```python
 user_answer = input("What is 7 + 3? ")
 
@@ -234,13 +223,11 @@ else: # Catch all inputs which aren't 10
     print("Happens to the best of us") # Lie to the user
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 Finally, it is worth noting that we can concatenate string by using the + operator:
 
-{% code-tabs %}
-{% code-tabs-item title="input\_example.py" %}
+{% code title="input\_example.py" %}
 ```python
 # This code will compliment our human user
 
@@ -250,8 +237,7 @@ output_string = "Nice to meet you " + name_of_user + " - Looking good! ;)"
 print(output_string) # Print our compliment string
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 
 

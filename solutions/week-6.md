@@ -8,8 +8,7 @@ description: Solutions to File I/O and Consolidatio
 
 Here we create a file, and add some random lines to it. Then we read and print out the file contents.
 
-{% code-tabs %}
-{% code-tabs-item title="week6\_solutions\_ex1.py" %}
+{% code title="week6\_solutions\_ex1.py" %}
 ```python
 # create a file
 my_file = open("musings.txt", "w+")
@@ -32,15 +31,13 @@ for line in my_file:
 # close access to the file again
 my_file.close()
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Exercise 2 - Wherefore art thou paragraph
 
 Here we define a function to read N paragraphs from a file, and print them.
 
-{% code-tabs %}
-{% code-tabs-item title="week6\_solutions\_ex2.py" %}
+{% code title="week6\_solutions\_ex2.py" %}
 ```python
 def read_shakespeare(num_of_paragraphs):
     # open the file, read all the lines and store them
@@ -68,13 +65,11 @@ def read_shakespeare(num_of_paragraphs):
 
 read_shakespeare(3)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ## Exercise 3 - Caesar's Cipher Consolidates Cool Class
 
-{% code-tabs %}
-{% code-tabs-item title="week6\_solutions\_ex3.py" %}
+{% code title="week6\_solutions\_ex3.py" %}
 ```python
 def decipher(file_name, decode_word, frequency):
     cipher_file = open(file_name, "r")
@@ -136,6 +131,5 @@ decipher("mary.txt", 'the', 4)
 decipher("charles.txt", 'of', 12)
 decipher("agatha.txt", 'train', 2)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
