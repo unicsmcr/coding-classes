@@ -55,3 +55,16 @@ plt.show()
 
 The examples we have seen so far generate very basic plots with just the default options and no labeling. MatplotLib provides a number of functions to customise the appearance of appearance of plots.
 
+```python
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3]
+y = [1, 3, 6]
+
+plt.plot(x, y)
+plt.xlabel('x axis')
+plt.ylabel('y axis')
+plt.title('This is a graph')
+plt.show()
+```
+
