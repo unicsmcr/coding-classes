@@ -62,6 +62,7 @@ x = [1, 2, 3]
 y = [1, 3, 6]
 
 plt.plot(x, y)
+plt.grid(True)
 plt.xlabel('x axis')
 plt.ylabel('y axis')
 plt.title('This is a graph')
