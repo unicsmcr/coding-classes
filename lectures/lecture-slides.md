@@ -38,3 +38,9 @@ description: Lecture Slides
 
 {% embed url="https://docs.google.com/presentation/d/1f9rGYWLDUVTfL1KKDgnFVVEvP0T7rPVpVjdyVEprqBY/edit?usp=sharing" %}
 
+## Week 9
+
+{% embed url="https://docs.google.com/presentation/d/1WM8xstXC7xp1IX1EJw4fKIBwi7bMP0JKqxxzEJ1VgHQ/edit?usp=sharing" %}
+
+
+
