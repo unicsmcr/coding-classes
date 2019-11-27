@@ -38,7 +38,7 @@ data_two = pd.read_csv('my_file_without_column_names', header=None, names=column
 Sometimes we may want to work with only a single column from a DataFrame, we can use indexing like we have seen with lists and dictionaries to get a column by its name.
 
 ```python
-import panas as pd
+import pandas as pd
 
 data = pd.DataFrame({'A': [1, 2], 'B': [3, 4]})
 
@@ -54,13 +54,13 @@ a_as_list = list(data['A'])
 We can also select a specific subset of rows from DataFrame using the indexing similar to lists. We use the `iloc()` function to enable us to select rows by index.
 
 ```python
-import panas as pd
+import pandas as pd
 
 data = pd.DataFrame({'A': [1, 2, 5, 6], 'B': [3, 4, 7, 8]})
 
-first_row = pd.iloc()[0]
+first_row = data.iloc()[0]
 
-middle_rows = pd.iloc()[1:3]
+middle_rows = data.iloc()[1:3]
 ```
 
 ## Filtering Rows
@@ -68,11 +68,11 @@ middle_rows = pd.iloc()[1:3]
 Sometimes the rows we want may not be grouped together or we might not know their indices. In these cases we may be able to create an expression for filtering out the rows we aren't interested in.
 
 ```python
-import panas as pd
+import pandas as pd
 
 data = pd.DataFrame({'A': [1, 5, 2, 6], 'B': [3, 4, 7, 8]})
 
 # Get all the rows where A is greater than 2
-selected_rows = pd[data.A > 2]
+selected_rows = data[data.A > 2]
 ```
 
