@@ -18,6 +18,7 @@
 * [Week 7](material/week-6.md)
 * [Numpy](material/week-7.md)
 * [Matplot](material/week-8.md)
+* [Pandas](material/pandas.md)
 * [Week 10](material/week-9.md)
 * [Week 11](material/week-10.md)
 
@@ -32,6 +33,7 @@
 * [Week 7](exercises/week-6.md)
 * [Matplotlib](exercises/matplotlib.md)
 * [Numpy](exercises/week-7-1.md)
+* [Pandas](exercises/pandas.md)
 * [Matplot with Numpy](exercises/week-7.md)
 
 ## Solutions
