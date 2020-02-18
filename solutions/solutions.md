@@ -10,28 +10,29 @@ Here we create a simple username-password checker by comparing **user input** to
 
 {% code title="week2\_solutions\_ex1.py" %}
 ```python
-# Store the name and password in 2 separate variables
-name = "Alex"
+# 1. Declare username and password
+username = "Alex"
 password = "1234"
 
-# First get the user to enter their name
-input_name = input("Enter your username: ")
+# 2. Get username input
+username_input = input("Enter your username >>> ")
 
-# Check against the name we have stored in 'name'
-if input_name != name:
-    # The input_name does not equal the name
-    print("You have entered an incorrect username")
-else:
-    # The input_name matches the name -> ask for password
-    input_password = input("Enter your password")
+# 3. Compare to see if username entered is correct
+if username_input == username:
+
+    # 4. if username correct, get password
+    password_input = input("Enter your password >>> ")
     
-    if input_password == password:
-         # Password is correct -> print a secret message
-         print("this is a secret")
-     else:
-         # Password didn't match -> print an error
-         print("You have entered an incorrect password")
+    # 4.a compare to our password
+    if password_input == password:
+        print("logged in successfully")
+    else:
+        print("Password incorrect")
 
+# 5. If not correct print error
+else:
+    print("incorrect username")
+    
 ```
 {% endcode %}
 
